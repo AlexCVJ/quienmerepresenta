@@ -1,0 +1,38 @@
+{
+  "name": "quien-me-representa",
+  "version": "2.0.0",
+  "description": "Directorio interactivo de Diputados y Senadores de México para contactar representantes",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/quienmerepresenta"
+  },
+  "keywords": [
+    "mexico",
+    "congreso",
+    "diputados",
+    "senadores",
+    "civic-engagement",
+    "videogames-tax"
+  ],
+  "author": "",
+  "license": "GPL-3.0"
+}

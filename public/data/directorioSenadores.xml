@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directorioSenadores>
+<datos>
+<numero>1</numero>
+<apellidos>Aguilar Castillo</apellidos>
+<nombre>Heriberto Marcelo</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3245 y 3915</extencion>
+<correo>heriberto.aguilar@senado.gob.mx</correo>
+<estado>Sonora</estado>
+</datos>
+<datos>
+<numero>2</numero>
+<apellidos>Álvarez Lima</apellidos>
+<nombre>José Antonio Cruz</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3144, 5562, 3465 y 5951</extencion>
+<correo>alvarez.lima@senado.gob.mx</correo>
+<estado>Tlaxcala</estado>
+</datos>
+<datos>
+<numero>3</numero>
+<apellidos>Anaya Cortés</apellidos>
+<nombre>Ricardo</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>4079 y 3323</extencion>
+<correo>ricardo.anaya@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>4</numero>
+<apellidos>Anaya Gutiérrez</apellidos>
+<nombre>Alberto</nombre>
+<fraccion>PT</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>4112</extencion>
+<correo>alberto.anaya@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>5</numero>
+<apellidos>Anaya Mota</apellidos>
+<nombre>Claudia Edith</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5303 y 3184</extencion>
+<correo>claudia.anaya@senado.gob.mx</correo>
+<estado>Zacatecas</estado>
+</datos>
+<datos>
+<numero>6</numero>
+<apellidos>Angulo Briceño</apellidos>
+<nombre>Pablo Guillermo</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3901</extencion>
+<correo>pablo.angulo@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>7</numero>
+<apellidos>Añorve Baños</apellidos>
+<nombre>Manuel</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5910, 3768</extencion>
+<correo>manuel.anorve@senado.gob.mx</correo>
+<estado>Guerrero</estado>
+</datos>
+<datos>
+<numero>8</numero>
+<apellidos>Arias Trevilla</apellidos>
+<nombre>Alejandra Berenice</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3340, 5141, 2978 y 3448 </extencion>
+<correo>alejandra.arias@senado.gob.mx</correo>
+<estado>Tabasco</estado>
+</datos>
+<datos>
+<numero>9</numero>
+<apellidos>Ascencio Ortega</apellidos>
+<nombre>Reyna Celeste</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>4211</extencion>
+<correo>reyna.ascencio@senado.gob.mx</correo>
+<estado>Michoacán de Ocampo</estado>
+</datos>
+<datos>
+<numero>10</numero>
+<apellidos>Ávalos Zempoalteca</apellidos>
+<nombre>Anabell</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3588, 5913 y 3141</extencion>
+<correo>anabell.avalos@senado.gob.mx</correo>
+<estado>Tlaxcala</estado>
+</datos>
+<datos>
+<numero>11</numero>
+<apellidos>Ayala Robles</apellidos>
+<nombre>Armando</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3593, 3598 y 3595</extencion>
+<correo>armando.ayala@senado.gob.mx</correo>
+<estado>Baja California</estado>
+</datos>
+<datos>
+<numero>12</numero>
+<apellidos>Bañuelos De La Torre</apellidos>
+<nombre>Geovanna</nombre>
+<fraccion>PT</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3088, 382 y 3570</extencion>
+<correo>geovanna.banuelos@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>13</numero>
+<apellidos>Barrales Magdaleno</apellidos>
+<nombre>Alejandra</nombre>
+<fraccion>Movimiento Ciudadano</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3327</extencion>
+<correo>alejandra.barrales@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>14</numero>
+<apellidos>Barreda Pavón</apellidos>
+<nombre>Francisco Daniel</nombre>
+<fraccion>Movimiento Ciudadano</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5446, 5565 y 5444</extencion>
+<correo>francisco.barreda@senado.gob.mx, o.francisco.barreda@senado.gob.mx</correo>
+<estado>Campeche</estado>
+</datos>
+<datos>
+<numero>15</numero>
+<apellidos>Bolaños Azocar</apellidos>
+<nombre>Raymundo</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3806 y 3459</extencion>
+<correo>raymundo.bolanos@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>16</numero>
+<apellidos>Bonilla Herrera</apellidos>
+<nombre>Raquel</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3332 y 5602</extencion>
+<correo>raquel.bonilla@senado.gob.mx</correo>
+<estado>Veracruz de Ignacio de la Llave</estado>
+</datos>
+<datos>
+<numero>17</numero>
+<apellidos>Bugarín </apellidos>
+<nombre>Jasmine María</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5820</extencion>
+<correo>o.jasmine.bugarin@senado.gob.mx</correo>
+<estado>Nayarit</estado>
+</datos>
+<datos>
+<numero>18</numero>
+<apellidos>Camarillo Medina</apellidos>
+<nombre>Néstor</nombre>
+<fraccion>Movimiento Ciudadano</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5442 y 3028</extencion>
+<correo>nestor.camarillo@senado.gob.mx</correo>
+<estado>Puebla</estado>
+</datos>
+<datos>
+<numero>19</numero>
+<apellidos>Camino Farjat</apellidos>
+<nombre>Verónica Noemí</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3293</extencion>
+<correo>veronica.camino@senado.gob.mx</correo>
+<estado>Yucatán</estado>
+</datos>
+<datos>
+<numero>20</numero>
+<apellidos>Campuzano González</apellidos>
+<nombre>Gina Gerardina</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3031 y 3032</extencion>
+<correo>gina.campuzano@senado.gob.mx</correo>
+<estado>Durango</estado>
+</datos>
+<datos>
+<numero>21</numero>
+<apellidos>Cantón Zetina</apellidos>
+<nombre>Óscar</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3194 y 5915</extencion>
+<correo>oscar.canton@senado.gob.mx</correo>
+<estado>Tabasco</estado>
+</datos>
+<datos>
+<numero>22</numero>
+<apellidos>Castañeda Hoeflich</apellidos>
+<nombre>Clemente</nombre>
+<fraccion>Movimiento Ciudadano</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5131 y 3674</extencion>
+<correo>clemente.castaneda@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>23</numero>
+<apellidos>Castillo Juárez</apellidos>
+<nombre>Laura Itzel</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5390 y 5216</extencion>
+<correo>o.laura.castillo@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>24</numero>
+<apellidos>Castrejón Trujillo</apellidos>
+<nombre>Karen</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3424</extencion>
+<correo>karen.castrejon@senado.gob.mx</correo>
+<estado>Ciudad de México</estado>
+</datos>
+<datos>
+<numero>25</numero>
+<apellidos>Castro Castro</apellidos>
+<nombre>Imelda</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3433 y 5921</extencion>
+<correo>imelda.castro@senado.gob.mx</correo>
+<estado>Sinaloa</estado>
+</datos>
+<datos>
+<numero>26</numero>
+<apellidos>Cepeda Salas</apellidos>
+<nombre>Alfonso</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3013 y 5597</extencion>
+<correo>alfonso.cepeda@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>27</numero>
+<apellidos>Chávez Treviño</apellidos>
+<nombre>Andrea</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5463 y 3281</extencion>
+<correo>andrea.chavez@senado.gob.mx</correo>
+<estado>Chihuahua</estado>
+</datos>
+<datos>
+<numero>28</numero>
+<apellidos>Chavira De La Rosa</apellidos>
+<nombre>María Guadalupe</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>4115, 4116 y 3563</extencion>
+<correo>Sin Informacion</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>29</numero>
+<apellidos>Chíguil Figueroa</apellidos>
+<nombre>Francisco</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>4081</extencion>
+<correo>francisco.chiguil@senado.gob.mx</correo>
+<estado>Ciudad de México</estado>
+</datos>
+<datos>
+<numero>30</numero>
+<apellidos>Colosio Riojas</apellidos>
+<nombre>Luis Donaldo</nombre>
+<fraccion>Movimiento Ciudadano</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5214, 5036 y 3096</extencion>
+<correo>luis.colosio@senado.gob.mx</correo>
+<estado>Nuevo León</estado>
+</datos>
+<datos>
+<numero>31</numero>
+<apellidos>Corona Nakamura</apellidos>
+<nombre>María del Rocío</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3970, 5499 y 2170.</extencion>
+<correo>rocio.corona@senado.gob.mx</correo>
+<estado>Jalisco</estado>
+</datos>
+<datos>
+<numero>32</numero>
+<apellidos>Corral Jurado</apellidos>
+<nombre>Javier</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3519 y 3392</extencion>
+<correo>javier.corralj@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>33</numero>
+<apellidos>Cortés García</apellidos>
+<nombre>Luisa</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5311, 5434 y 3649</extencion>
+<correo>luisa.cortes@senado.gob.mx</correo>
+<estado>Oaxaca</estado>
+</datos>
+<datos>
+<numero>34</numero>
+<apellidos>Cortés Mendoza</apellidos>
+<nombre>Marko</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3251</extencion>
+<correo>o.marko.cortes@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>35</numero>
+<apellidos>Cruz Castellanos</apellidos>
+<nombre>José Manuel</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3628 y 5064</extencion>
+<correo>jose.cruzc@senado.gob.mx</correo>
+<estado>Chiapas</estado>
+</datos>
+<datos>
+<numero>36</numero>
+<apellidos>Davis Castro</apellidos>
+<nombre>Homero</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3224 y 3940</extencion>
+<correo>o.homero.davis@senado.gob.mx</correo>
+<estado>Baja California Sur</estado>
+</datos>
+<datos>
+<numero>37</numero>
+<apellidos>De León Villard</apellidos>
+<nombre>Sasil</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3553</extencion>
+<correo>sasil.deleon@senado.gob.mx</correo>
+<estado>Chiapas</estado>
+</datos>
+<datos>
+<numero>38</numero>
+<apellidos>Díaz Delgado</apellidos>
+<nombre>Blanca Judith</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3133 y 3110</extencion>
+<correo>blanca.diaz@senado.gob.mx</correo>
+<estado>Nuevo León</estado>
+</datos>
+<datos>
+<numero>39</numero>
+<apellidos>Díaz Marmolejo</apellidos>
+<nombre>María de Jesús</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5389 y 5072</extencion>
+<correo>maria.diazm@senado.gob.mx</correo>
+<estado>Aguascalientes</estado>
+</datos>
+<datos>
+<numero>40</numero>
+<apellidos>Díaz Robles</apellidos>
+<nombre>Verónica</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5365 y 5802</extencion>
+<correo>veronica.diaz@senado.gob.mx</correo>
+<estado>Zacatecas</estado>
+</datos>
+<datos>
+<numero>41</numero>
+<apellidos>Dorantes Lámbarri</apellidos>
+<nombre>Agustín</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3484</extencion>
+<correo>agustin.dorantes@senado.gob.mx</correo>
+<estado>Querétaro</estado>
+</datos>
+<datos>
+<numero>42</numero>
+<apellidos>Esquer Verdugo</apellidos>
+<nombre>Alejandro</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3254 y 5160</extencion>
+<correo>o.alejandro.esquer@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>43</numero>
+<apellidos>Esquivel Torres</apellidos>
+<nombre>Laura</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3395 y 5173</extencion>
+<correo>laura.esquivel@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>44</numero>
+<apellidos>Estrada Mauro</apellidos>
+<nombre>Laura</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3648</extencion>
+<correo>laura.estradam@senado.gob.mx</correo>
+<estado>Oaxaca</estado>
+</datos>
+<datos>
+<numero>45</numero>
+<apellidos>Falcón Venegas</apellidos>
+<nombre>Sandra Luz</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5377</extencion>
+<correo>sandra.falcon@senado.gob.mx</correo>
+<estado>Estado de México</estado>
+</datos>
+<datos>
+<numero>46</numero>
+<apellidos>Fernández González</apellidos>
+<nombre>Waldo</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3053 y 5140</extencion>
+<correo>waldo.fernandez@senado.gob.mx</correo>
+<estado>Nuevo León</estado>
+</datos>
+<datos>
+<numero>47</numero>
+<apellidos>Fernández Noroña</apellidos>
+<nombre>Gerardo</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3273, 4051 y 5289</extencion>
+<correo>gerardo.norona@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>48</numero>
+<apellidos>García Medina</apellidos>
+<nombre>Amalia Dolores</nombre>
+<fraccion>Movimiento Ciudadano</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5352</extencion>
+<correo>amalia.garcia@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>49</numero>
+<apellidos>García Yáñez</apellidos>
+<nombre>Ángel</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3605, 3836, 3320 y 3586</extencion>
+<correo>angel.garcia@senado.gob.mx</correo>
+<estado>Morelos</estado>
+</datos>
+<datos>
+<numero>50</numero>
+<apellidos>Gómez Leal</apellidos>
+<nombre>José Ramón</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5199</extencion>
+<correo>jose.gomezle@senado.gob.mx</correo>
+<estado>Tamaulipas</estado>
+</datos>
+<datos>
+<numero>51</numero>
+<apellidos>González Hernández</apellidos>
+<nombre>Alma Anahí</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3257, 4128, 5877 y 5075</extencion>
+<correo>anahi.gonzalez@senado.gob.mx</correo>
+<estado>Quintana Roo</estado>
+</datos>
+<datos>
+<numero>52</numero>
+<apellidos>González Márquez</apellidos>
+<nombre>Michel</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3409, 3666 y 4167</extencion>
+<correo>michel.gonzalez@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>53</numero>
+<apellidos>González Silva</apellidos>
+<nombre>Ruth</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5250 y 3808</extencion>
+<correo>ruth.gonzalez@senado.gob.mx</correo>
+<estado>San Luis Potosí</estado>
+</datos>
+<datos>
+<numero>54</numero>
+<apellidos>González Yáñez</apellidos>
+<nombre>Alejandro</nombre>
+<fraccion>PT</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>4143 y 3026</extencion>
+<correo>alejandro.gonzalezy@senado.gob.mx</correo>
+<estado>Durango</estado>
+</datos>
+<datos>
+<numero>55</numero>
+<apellidos>Guadiana Mandujano</apellidos>
+<nombre>Cecilia Guadalupe</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>2373 y 5346</extencion>
+<correo>cecilia.guadiana@senado.gob.mx</correo>
+<estado>Coahuila de Zaragoza</estado>
+</datos>
+<datos>
+<numero>56</numero>
+<apellidos>Guerra Mena</apellidos>
+<nombre>Juanita</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5156 y 3302</extencion>
+<correo>juanita.guerra@senado.gob.mx</correo>
+<estado>Morelos</estado>
+</datos>
+<datos>
+<numero>57</numero>
+<apellidos>Gutiérrez Escalante</apellidos>
+<nombre>Mariela</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3657</extencion>
+<correo>o.mariela.gutierrez@senado.gob.mx</correo>
+<estado>Estado de México</estado>
+</datos>
+<datos>
+<numero>58</numero>
+<apellidos>Harp Iturribarría</apellidos>
+<nombre>Susana</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3272</extencion>
+<correo>susanaharp@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>59</numero>
+<apellidos>Hernández Aceves</apellidos>
+<nombre>Ana Karen</nombre>
+<fraccion>PT</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5545, 3084 y 5177</extencion>
+<correo>ana.hernandeza@senado.gob.mx</correo>
+<estado>Colima</estado>
+</datos>
+<datos>
+<numero>60</numero>
+<apellidos>Hernández Villafuerte</apellidos>
+<nombre>Gilberto</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5053, 3061 y 5157</extencion>
+<correo>gilberto.hernandez@senado.gob.mx</correo>
+<estado>San Luis Potosí</estado>
+</datos>
+<datos>
+<numero>61</numero>
+<apellidos>Herrera Dagdug</apellidos>
+<nombre>José Sabino</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3520 y 3660</extencion>
+<correo>jose.herrerad@senado.gob.mx</correo>
+<estado>Tabasco</estado>
+</datos>
+<datos>
+<numero>62</numero>
+<apellidos>Huerta Ladrón de Guevara</apellidos>
+<nombre>Manuel</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3169, 3762 y 3763</extencion>
+<correo>manuel.huerta@senado.gob.mx</correo>
+<estado>Veracruz de Ignacio de la Llave</estado>
+</datos>
+<datos>
+<numero>63</numero>
+<apellidos>Inzunza Cázarez</apellidos>
+<nombre>Enrique</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3204</extencion>
+<correo>enrique.inzunza@senado.gob.mx</correo>
+<estado>Sinaloa</estado>
+</datos>
+<datos>
+<numero>64</numero>
+<apellidos>Jaimes Archundia</apellidos>
+<nombre>Erik Iván</nombre>
+<fraccion>SG</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>Sin Informacion</extencion>
+<correo>Sin Informacion</correo>
+<estado>Sonora</estado>
+</datos>
+<datos>
+<numero>65</numero>
+<apellidos>Jarero Velázquez</apellidos>
+<nombre>Miguel Pavel</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5113, 3183 y 3159</extencion>
+<correo>miguel.jarero@senado.gob.mx</correo>
+<estado>Nayarit</estado>
+</datos>
+<datos>
+<numero>66</numero>
+<apellidos>Kantún Can</apellidos>
+<nombre>María Martina</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5204, 3345 y 5286</extencion>
+<correo>maria.kantun@senado.gob.mx</correo>
+<estado>Campeche</estado>
+</datos>
+<datos>
+<numero>67</numero>
+<apellidos>Loera de la Rosa</apellidos>
+<nombre>Juan Carlos</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3284, 5304 y 4107</extencion>
+<correo>o.juan.loera@senado.gob.mx</correo>
+<estado>Chihuahua</estado>
+</datos>
+<datos>
+<numero>68</numero>
+<apellidos>Lomelí Bolaños</apellidos>
+<nombre>Carlos</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5116 y 3922</extencion>
+<correo>carlos.lomeli@senado.gob.mx</correo>
+<estado>Jalisco</estado>
+</datos>
+<datos>
+<numero>69</numero>
+<apellidos>López Castro</apellidos>
+<nombre>Cynthia Iliana</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3992</extencion>
+<correo>cynthialopezcastro@senado.gob.mx</correo>
+<estado>Ciudad de México</estado>
+</datos>
+<datos>
+<numero>70</numero>
+<apellidos>López Hernández</apellidos>
+<nombre>Edith</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3407 y 5995</extencion>
+<correo>edith.lopez@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>71</numero>
+<apellidos>López Hernández</apellidos>
+<nombre>Adán Augusto</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3120, 2206 y 5959</extencion>
+<correo>adan.lopez@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>72</numero>
+<apellidos>Magaña Fonseca</apellidos>
+<nombre>Virginia</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>4043, 3131 y 5422</extencion>
+<correo>virginia.magana@senado.gob.mx</correo>
+<estado>Guanajuato</estado>
+</datos>
+<datos>
+<numero>73</numero>
+<apellidos>Márquez Márquez</apellidos>
+<nombre>Miguel</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3029</extencion>
+<correo>miguel.marquez@senado.gob.mx</correo>
+<estado>Guanajuato</estado>
+</datos>
+<datos>
+<numero>74</numero>
+<apellidos>Martín del Campo Martín del Campo</apellidos>
+<nombre>Juan Antonio</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3179 y 5857</extencion>
+<correo>martindelcampo@senado.gob.mx</correo>
+<estado>Aguascalientes</estado>
+</datos>
+<datos>
+<numero>75</numero>
+<apellidos>Martínez Simón</apellidos>
+<nombre>Mayuli Latifa</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5397, 3533 y 3216</extencion>
+<correo>oficina.mayuli.martinez@senado.gob.mx</correo>
+<estado>Quintana Roo</estado>
+</datos>
+<datos>
+<numero>76</numero>
+<apellidos>Melgar Bravo</apellidos>
+<nombre>Luis Armando</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5330 y 5938</extencion>
+<correo>luis.melgar@senado.gob.mx</correo>
+<estado>Chiapas</estado>
+</datos>
+<datos>
+<numero>77</numero>
+<apellidos>Mendoza Amezcua</apellidos>
+<nombre>Virgilio</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3658, 5310 y 5390</extencion>
+<correo>virgilio.mendoza@senado.gob.mx</correo>
+<estado>Colima</estado>
+</datos>
+<datos>
+<numero>78</numero>
+<apellidos>Mercado Salgado</apellidos>
+<nombre>Víctor</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3978, 2993 y 3359</extencion>
+<correo>victor.mercado@senado.gob.mx</correo>
+<estado>Morelos</estado>
+</datos>
+<datos>
+<numero>79</numero>
+<apellidos>Micher Camarena</apellidos>
+<nombre>Martha Lucía</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3278 y 5144</extencion>
+<correo>malu.micher@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>80</numero>
+<apellidos>Mier Velazco</apellidos>
+<nombre>Ignacio</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3063</extencion>
+<correo>ignacio.mier@senado.gob.mx</correo>
+<estado>Puebla</estado>
+</datos>
+<datos>
+<numero>81</numero>
+<apellidos>Mojica Morga</apellidos>
+<nombre>Beatriz</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>2980, 2979 y 5827</extencion>
+<correo>beatriz.mojica@senado.gob.mx</correo>
+<estado>Guerrero</estado>
+</datos>
+<datos>
+<numero>82</numero>
+<apellidos>Monreal Ávila</apellidos>
+<nombre>Saúl</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3482, 5816 y 5398</extencion>
+<correo>saul.monreal@senado.gob.mx</correo>
+<estado>Zacatecas</estado>
+</datos>
+<datos>
+<numero>83</numero>
+<apellidos>Morales Toledo</apellidos>
+<nombre>Antonino</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5906 y 5960</extencion>
+<correo>antonino.morales@senado.gob.mx</correo>
+<estado>Oaxaca</estado>
+</datos>
+<datos>
+<numero>84</numero>
+<apellidos>Moreno Cárdenas</apellidos>
+<nombre>Alejandro</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5592 y 3576</extencion>
+<correo>alejandro.moreno@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>85</numero>
+<apellidos>Morón Orozco</apellidos>
+<nombre>Raúl</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3199 y 5340</extencion>
+<correo>raul.moron@senado.gob.mx</correo>
+<estado>Michoacán de Ocampo</estado>
+</datos>
+<datos>
+<numero>86</numero>
+<apellidos>Murat Hinojosa</apellidos>
+<nombre>Alejandro</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3036</extencion>
+<correo>alejandro.murat@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>87</numero>
+<apellidos>Murguía Gutiérrez</apellidos>
+<nombre>María Guadalupe</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3094</extencion>
+<correo>maria.murguia@senado.gob.mx</correo>
+<estado>Querétaro</estado>
+</datos>
+<datos>
+<numero>88</numero>
+<apellidos>Ochoa Fernández</apellidos>
+<nombre>Cuauhtémoc</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3072 y 5226</extencion>
+<correo>cuauhtemoc.ochoa@senado.gob.mx</correo>
+<estado>Hidalgo</estado>
+</datos>
+<datos>
+<numero>89</numero>
+<apellidos>Olvera Bautista</apellidos>
+<nombre>Simey</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3473 y 5934</extencion>
+<correo>simey.olvera@senado.gob.mx</correo>
+<estado>Hidalgo</estado>
+</datos>
+<datos>
+<numero>90</numero>
+<apellidos>Ortiz Domínguez</apellidos>
+<nombre>Maki Esther</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5335, 5496 y 3440</extencion>
+<correo>maki.ortiz@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>91</numero>
+<apellidos>Ostoa Ortega</apellidos>
+<nombre>Aníbal</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>4509 y 3549</extencion>
+<correo>anibal.ostoa@senado.gob.mx</correo>
+<estado>Campeche</estado>
+</datos>
+<datos>
+<numero>92</numero>
+<apellidos>Polevnsky Gurwitz</apellidos>
+<nombre>Yeidckol</nombre>
+<fraccion>PT</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3378 y 3213</extencion>
+<correo>yeidckol.polevnsky@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>93</numero>
+<apellidos>Ramírez Acuña</apellidos>
+<nombre>Francisco Javier</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3012, 5569, 5441 y 3508</extencion>
+<correo>francisco.ramireza@senado.gob.mx</correo>
+<estado>Jalisco</estado>
+</datos>
+<datos>
+<numero>94</numero>
+<apellidos>Ramírez Marín</apellidos>
+<nombre>Jorge Carlos</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5448 y 3505</extencion>
+<correo>jcarlos.ramirez@senado.gob.mx</correo>
+<estado>Yucatán</estado>
+</datos>
+<datos>
+<numero>95</numero>
+<apellidos>Ramírez Padilla</apellidos>
+<nombre>Julieta</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3597</extencion>
+<correo>julieta.ramirez@senado.gob.mx</correo>
+<estado>Baja California</estado>
+</datos>
+<datos>
+<numero>96</numero>
+<apellidos>Reyes Carmona</apellidos>
+<nombre>Emmanuel</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3404, 3167, 5532 y 3037</extencion>
+<correo>emmanuel.reyes@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>97</numero>
+<apellidos>Reyes Hernández</apellidos>
+<nombre>Ivideliza</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3019, 3020, 5801 y 5905</extencion>
+<correo>ivideliza.reyes@senado.gob.mx</correo>
+<estado>Nayarit</estado>
+</datos>
+<datos>
+<numero>98</numero>
+<apellidos>Riquelme Solís</apellidos>
+<nombre>Miguel Ángel</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5012, 5048 y 3490</extencion>
+<correo>miguel.riquelme@senado.gob.mx</correo>
+<estado>Coahuila de Zaragoza</estado>
+</datos>
+<datos>
+<numero>99</numero>
+<apellidos>Rivera Rivera</apellidos>
+<nombre>Ana Lilia</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3260, 3342 y 5487</extencion>
+<correo>oficina.ana.lilia.rivera@senado.gob.mx</correo>
+<estado>Tlaxcala</estado>
+</datos>
+<datos>
+<numero>100</numero>
+<apellidos>Robles Gutiérrez</apellidos>
+<nombre>Beatriz Silvia</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5267, 3134 y 4213</extencion>
+<correo>beatriz.robles@senado.gob.mx</correo>
+<estado>Querétaro</estado>
+</datos>
+<datos>
+<numero>101</numero>
+<apellidos>Rodríguez Hernández</apellidos>
+<nombre>Verónica</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3022 y 5245</extencion>
+<correo>veronica.rodriguez@senado.gob.mx</correo>
+<estado>San Luis Potosí</estado>
+</datos>
+<datos>
+<numero>102</numero>
+<apellidos>Romero Celis</apellidos>
+<nombre>Mely</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3583 y 3501</extencion>
+<correo>mely.romero@senado.gob.mx</correo>
+<estado>Colima</estado>
+</datos>
+<datos>
+<numero>103</numero>
+<apellidos>Ruiz Ruiz</apellidos>
+<nombre>Karina Isabel</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3059, 3058 y 3057</extencion>
+<correo>karina.ruiz@senado.gob.mx, o.karina.ruiz@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>104</numero>
+<apellidos>Ruíz Sandoval</apellidos>
+<nombre>Cristina</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5273, 4127 y 3045</extencion>
+<correo>cristina.ruiz@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>105</numero>
+<apellidos>Ruvalcaba Gámez</apellidos>
+<nombre>Nora</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3198 y 3171</extencion>
+<correo>nora.ruvalcaba@senado.gob.mx</correo>
+<estado>Aguascalientes</estado>
+</datos>
+<datos>
+<numero>106</numero>
+<apellidos>Salazar Fernández</apellidos>
+<nombre>Luis Fernando</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3123 y 3554</extencion>
+<correo>luis.salazar@senado.gob.mx</correo>
+<estado>Coahuila de Zaragoza</estado>
+</datos>
+<datos>
+<numero>107</numero>
+<apellidos>Salgado Macedonio</apellidos>
+<nombre>J. Félix</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3118, 3416 y 5392</extencion>
+<correo>jfelix.salgado@senado.gob.mx</correo>
+<estado>Guerrero</estado>
+</datos>
+<datos>
+<numero>108</numero>
+<apellidos>Sánchez García</apellidos>
+<nombre>Lizeth</nombre>
+<fraccion>PT</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5020 y 5108</extencion>
+<correo>liz.sanchez@senado.gob.mx</correo>
+<estado>Puebla</estado>
+</datos>
+<datos>
+<numero>109</numero>
+<apellidos>Sánchez Ramos</apellidos>
+<nombre>Paloma</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3166 y 3565</extencion>
+<correo>paloma.sanchez@senado.gob.mx</correo>
+<estado>Sinaloa</estado>
+</datos>
+<datos>
+<numero>110</numero>
+<apellidos>Sánchez Vásquez</apellidos>
+<nombre>Gustavo</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5175 y 3261</extencion>
+<correo>gustavo.sanchez@senado.gob.mx</correo>
+<estado>Baja California</estado>
+</datos>
+<datos>
+<numero>111</numero>
+<apellidos>Sanmiguel Sánchez</apellidos>
+<nombre>Imelda</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5986, 2154 y 5983</extencion>
+<correo>imelda.sanmiguel@senado.gob.mx</correo>
+<estado>Tamaulipas</estado>
+</datos>
+<datos>
+<numero>112</numero>
+<apellidos>Saucedo Reyes</apellidos>
+<nombre>Araceli</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3813 y 3343</extencion>
+<correo>araceli.saucedo@senado.gob.mx</correo>
+<estado>Michoacán de Ocampo</estado>
+</datos>
+<datos>
+<numero>113</numero>
+<apellidos>Segura Vázquez</apellidos>
+<nombre>Eugenio</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3698, 3643 y 3253</extencion>
+<correo>eugenio.segura@senado.gob.mx</correo>
+<estado>Quintana Roo</estado>
+</datos>
+<datos>
+<numero>114</numero>
+<apellidos>Sheffield Padilla</apellidos>
+<nombre>Francisco Ricardo</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3470</extencion>
+<correo>ricardo.sheffield@senado.gob.mx</correo>
+<estado>Guanajuato</estado>
+</datos>
+<datos>
+<numero>115</numero>
+<apellidos>Silva Romo</apellidos>
+<nombre>Luis Alfonso</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3670, 3054 y 5476</extencion>
+<correo>luis.silva@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>116</numero>
+<apellidos>Sosa Ruíz</apellidos>
+<nombre>Olga Patricia</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3150 y 3196</extencion>
+<correo>olga.sosa@senado.gob.mx</correo>
+<estado>Tamaulipas</estado>
+</datos>
+<datos>
+<numero>117</numero>
+<apellidos>Téllez </apellidos>
+<nombre>Lilly</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3388</extencion>
+<correo>lilly.tellez@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>118</numero>
+<apellidos>Toledo Zamora</apellidos>
+<nombre>Karla Guadalupe</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3534 y 3087</extencion>
+<correo>karla.toledo@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>119</numero>
+<apellidos>Trasviña Waldenrath</apellidos>
+<nombre>Jesús Lucía</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>5523, 3191, 2377 y 3151</extencion>
+<correo>lucia.trasvina@senado.gob.mx</correo>
+<estado>Baja California Sur</estado>
+</datos>
+<datos>
+<numero>120</numero>
+<apellidos>Valdez Martínez</apellidos>
+<nombre>Lilia Margarita</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>Sin Informacion</extencion>
+<correo>lilia.valdez@senado.gob.mx</correo>
+<estado>Durango</estado>
+</datos>
+<datos>
+<numero>121</numero>
+<apellidos>Valles Sampedro</apellidos>
+<nombre>Lorenia Iveth</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3349 y 3902</extencion>
+<correo>lorenia.valles@senado.gob.mx</correo>
+<estado>Sonora</estado>
+</datos>
+<datos>
+<numero>122</numero>
+<apellidos>Vargas Del Villar</apellidos>
+<nombre>Enrique</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3699 y 3527</extencion>
+<correo>enrique.vargas@senado.gob.mx</correo>
+<estado>Estado de México</estado>
+</datos>
+<datos>
+<numero>123</numero>
+<apellidos>Vázquez Robles</apellidos>
+<nombre>Mario Humberto</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3217</extencion>
+<correo>mario.vazquezr@senado.gob.mx</correo>
+<estado>Chihuahua</estado>
+</datos>
+<datos>
+<numero>124</numero>
+<apellidos>Velasco Coello</apellidos>
+<nombre>Manuel</nombre>
+<fraccion>PVEM</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3078</extencion>
+<correo>manuel.velasco@senado.gob.mx</correo>
+<estado>Lista Nacional</estado>
+</datos>
+<datos>
+<numero>125</numero>
+<apellidos>Viggiano Austria</apellidos>
+<nombre>Carolina</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3954 y 3481</extencion>
+<correo>o.alma.viggiano@senado.gob.mx</correo>
+<estado>Hidalgo</estado>
+</datos>
+<datos>
+<numero>126</numero>
+<apellidos>Yunes Márquez</apellidos>
+<nombre>Miguel Ángel</nombre>
+<fraccion>morena</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3138, 5210 y 4137</extencion>
+<correo>miguel.yunes@senado.gob.mx</correo>
+<estado>Veracruz de Ignacio de la Llave</estado>
+</datos>
+<datos>
+<numero>127</numero>
+<apellidos>Zapata Bello</apellidos>
+<nombre>Rolando Rodrigo</nombre>
+<fraccion>PRI</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>4183</extencion>
+<correo>rolando.zapata@senado.gob.mx</correo>
+<estado>Yucatán</estado>
+</datos>
+<datos>
+<numero>128</numero>
+<apellidos>Zatarain García</apellidos>
+<nombre>Susana</nombre>
+<fraccion>PAN</fraccion>
+<telefono>55 5345 3000</telefono>
+<extencion>3106 y 5549</extencion>
+<correo>susana.zatarain@senado.gob.mx</correo>
+<estado>Baja California Sur</estado>
+</datos>
+</directorioSenadores>

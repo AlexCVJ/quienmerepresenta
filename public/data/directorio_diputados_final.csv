@@ -1,0 +1,501 @@
+id_diputado,nombre,email,entidad,distrito,extension,partido
+1,Humberto Ambriz Delgadillo,humberto.ambriz@diputados.gob.mx,Aguascalientes,1,59440,pri
+2,Monica Becerra Moreno,monica.becerra@diputados.gob.mx,Aguascalientes,2,61631,pan
+3,Paulo Gonzalo Martínez López,paulo.martinez@diputados.gob.mx,Aguascalientes,3,59980,pan
+4,Alma Laura Ruiz López,alma.ruiz@diputados.gob.mx,Baja California,1,61342,morena
+5,Nancy Guadalupe Sánchez Arredondo,nancy.sanchez@diputados.gob.mx,Baja California,2,61315,morena
+6,Claudia Lisbeth Moreno Ramírez,lisbeth.moreno@diputados.gob.mx,Baja California,3,61338,morena
+7,Rocío López Gorosave,rocio.lopez@diputados.gob.mx,Baja California,4,61354,morena
+8,Evangelina Moreno Guerra,evangelina.moreno@diputados.gob.mx,Baja California,5,61860,morena
+9,Gilberto Herrera Solórzano,gilberto.herrera@diputados.gob.mx,Baja California,6,61346,morena
+10,José Armando Fernández Samaniego,armando.fernandez@diputados.gob.mx,Baja California,7,61336,morena
+11,Fausto Gallardo García,fausto.gallardo@diputados.gob.mx,Baja California,8,59620,verde
+12,Hilda Araceli Brown Figueredo,hilda.brown@diputados.gob.mx,Baja California,9,61818,morena
+13,Manuel Alejandro Cota Cárdenas,manuel.cota@diputados.gob.mx,Baja California Sur,1,59620,verde
+14,Luis Armando Díaz,luis.armando@diputados.gob.mx,Baja California Sur,2,62030,pt
+15,Elda Esther del Carmen Castillo Quintana,elda.castillo@diputados.gob.mx,Campeche,1,61232,morena
+16,Gabriela del Carmen Basto González,gabriela.basto@diputados.gob.mx,Campeche,2,61235,morena
+17,Carlos Morelos Rodríguez,carlos.morelos@diputados.gob.mx,Chiapas,1,67892,pt
+18,Karina Margarita del Río Zenteno,karina.delrio@diputados.gob.mx,Chiapas,2,61506,morena
+19,Alfredo Vázquez Vázquez,alfredo.vazquez@diputados.gob.mx,Chiapas,3,61399,morena
+20,Joaquín Zebadúa Alva,joaquin.zebadua@diputados.gob.mx,Chiapas,4,61833,morena
+21,Emilio Ramón Ramírez Guzmán,emilio.ramirez@diputados.gob.mx,Chiapas,5,53093,morena
+22,Flor de María Esponda Torres,flor.esponda@diputados.gob.mx,Chiapas,6,61892,morena
+23,Azucena Arreola Trinidad,azucena.arreola@diputados.gob.mx,Chiapas,7,61878,morena
+24,Roberto Armando Albores Gleason,roberto.albores@diputados.gob.mx,Chiapas,8,62034,pt
+25,Guillermo Rafael Santiago Rodríguez,guillermo.santiago@diputados.gob.mx,Chiapas,9,61812,morena
+26,Deliamaria Gonzalez Flandez,deliamaria.gonzalez@diputados.gob.mx,Chiapas,10,59544,verde
+27,Rosario del Carmen Moreno Villatoro,rosario.moreno@diputados.gob.mx,Chiapas,11,61816,morena
+28,Rosa Irene Urbina Castañeda,rosa.urbina@diputados.gob.mx,Chiapas,12,4302,morena
+29,Jorge Luis Villatoro Osorio,jorge.villatoro@diputados.gob.mx,Chiapas,13,59098,verde
+30,Daniel Murguía Lardizábal,daniel.murguia@diputados.gob.mx,Chihuahua,1,61227,morena
+31,Teresita de Jesús Vargas Meraz,teresita.vargas@diputados.gob.mx,Chihuahua,2,61230,morena
+32,Lilia Aguilar Gil,lilia.aguilar@diputados.gob.mx,Chihuahua,3,62058,pt
+33,Alejandro Pérez Cuéllar,alejandro.perez@diputados.gob.mx,Chihuahua,4,59612,verde
+34,Juan Antonio Meléndez Ortega,juan.melendez@diputados.gob.mx,Chihuahua,5,59457,pri
+35,María Angélica Granados Trespalacios,maria.granados@diputados.gob.mx,Chihuahua,6,59966,pan
+36,Jesús Roberto Corral Ordóñez,jesus.corral@diputados.gob.mx,Chihuahua,7,62032,pt
+37,César Alejandro Domínguez Domínguez,cesar.dominguez@diputados.gob.mx,Chihuahua,8,59422,pri
+38,Noel Chávez Velázquez,noel.chavez@diputados.gob.mx,Chihuahua,9,59442,pri
+39,César Arnulfo Cravioto Romero (LICENCIA),cesar.cravioto@diputados.gob.mx,Ciudad de México,1,,morena
+40,José Alberto Benavides Castañeda,jose.benavides@diputados.gob.mx,Ciudad de México,2,62007,pt
+41,Gabriela Georgina Jiménez Godoy,georgina.jimenez@diputados.gob.mx,Ciudad de México,3,61290,morena
+42,María de los Dolores Padierna Luna,maria.padierna@diputados.gob.mx,Ciudad de México,4,61382,morena
+43,Carlos Alberto Ulloa Pérez,carlos.ulloa@diputados.gob.mx,Ciudad de México,5,67103,morena
+44,Daniel Campos Plancarte,daniel.campos@diputados.gob.mx,Ciudad de México,6,61296,morena
+45,Juan Guillermo Rendón Gómez,juan.rendon@diputados.gob.mx,Ciudad de México,7,61299,morena
+46,Ana María Lomeli Robles,ana.lomeli@diputados.gob.mx,Ciudad de México,8,59098,verde
+47,Rigoberto Salgado Vázquez (LICENCIA),rigoberto.salgado@diputados.gob.mx,Ciudad de México,9,61256,morena
+48,Margarita Ester Zavala Gómez del Campo,margarita.zavala@diputados.gob.mx,Ciudad de México,10,59892,pan
+49,Elena Edith Segura Trejo,elena.segura@diputados.gob.mx,Ciudad de México,11,61370,morena
+50,Mónica Elizabeth Sandoval Hernández,monica.sandoval@diputados.gob.mx,Ciudad de México,12,59419,pri
+51,Francisco Javier Sánchez Cervantes,javier.sanchez@diputados.gob.mx,Ciudad de México,13,61252,morena
+52,Carlos Hernández Mirón,carlos.miron@diputados.gob.mx,Ciudad de México,14,61382,morena
+53,Federico Döring Casar,federico.doring@diputados.gob.mx,Ciudad de México,15,61626,pan
+54,Carina Piceno,carina.piceno@diputados.gob.mx,Ciudad de México,16,61608,morena
+55,Carlos Arturo Madrazo Silva,carlos.a.madrazo@diputados.gob.mx,Ciudad de México,17,59516,verde
+56,Gabriel García Hernández,gabriel.hernandez@diputados.gob.mx,Ciudad de México,18,61294,morena
+57,Héctor Saúl Téllez Hernández,hectorsaul.tellez@diputados.gob.mx,Ciudad de México,19,59906,pan
+58,Ana Karina Rojo Pimentel,ana.rojo@diputados.gob.mx,Ciudad de México,20,62050,pt
+59,José Carlos Acosta Ruiz (LICENCIA),jose.acosta@diputados.gob.mx,Ciudad de México,21,61176,morena
+60,Marisela Zúñiga Cerón,marisela.zuniga@diputados.gob.mx,Ciudad de México,22,61254,morena
+61,Brígido Ramiro Moreno Hernández,brigido.moreno@diputados.gob.mx,Coahuila,1,62054,pt
+62,Francisco Javier Borrego Adame,francisco.borrego@diputados.gob.mx,Coahuila,2,61561,morena
+63,Theodoros Kalionchiz De la Fuente,theodoros.kalionchiz@diputados.gob.mx,Coahuila,3,59885,pan
+64,Yerico Abramo Masso,yerico.abramo@diputados.gob.mx,Coahuila,4,59144,pri
+65,José Guillermo Anaya Llamas,jose.anaya@diputados.gob.mx,Coahuila,5,61635,pan
+66,Cintia Cuevas Sánchez,cintia.cuevas@diputados.gob.mx,Coahuila,6,61783,morena
+67,Antonio Lorenzo Castro Villarreal,antonio.castro@diputados.gob.mx,Coahuila,7,61120,morena
+68,Hilda Magdalena Licerio Valdes,hilda.licerio@diputados.gob.mx,Coahuila,8,68823,verde
+69,Leoncio Alfonso Morán Sánchez,leoncio.moran@diputados.gob.mx,Colima,1,61245,morena
+70,Gricelda Valencia de la Mora,gricelda.valencia@diputados.gob.mx,Colima,2,61547,morena
+71,Martha Olivia García Vidaña,olivia.garcia@diputados.gob.mx,Durango,1,61282,morena
+72,Betzabé Martínez Arango (LICENCIA),betzabe.martinez@diputados.gob.mx,Durango,2,61506,morena
+73,Gerardo Villarreal Solis,gerardo.villarreal@diputados.gob.mx,Durango,3,59522,verde
+74,Silvia Patricia Jiménez Delgado,patricia.jimenez@diputados.gob.mx,Durango,4,59968,pan
+75,Luis Gerardo Sánchez Sánchez,luisgerardo.sanchez@diputados.gob.mx,Guanajuato,1,59413,pri
+76,Alma Rosa De la Vega Vargas,alma.delavega@diputados.gob.mx,Guanajuato,2,61541,morena
+77,Fernando Torres Graciano,fernando.torres@diputados.gob.mx,Guanajuato,3,59890,pan
+78,Francisco Javier Estrada Domínguez,fjavier.estrada@diputados.gob.mx,Guanajuato,4,61539,morena
+79,Éctor Jaime Ramírez Barba,ector.ramirez@diputados.gob.mx,Guanajuato,5,59983,pan
+80,Laura Cristina Márquez Alcalá,laura.marquez@diputados.gob.mx,Guanajuato,6,59888,pan
+81,Diana Estefanía Gutiérrez Valtierra,estefania.gutierrez@diputados.gob.mx,Guanajuato,7,61637,pan
+82,Ernesto Alejandro Prieto Gallardo,ernesto.prieto@diputados.gob.mx,Guanajuato,8,61166,morena
+83,Diego Angel Rodríguez Barroso,diego.rodriguez@diputados.gob.mx,Guanajuato,9,59917,pan
+84,Alejandro Calderón Díaz,alejandro.calderon@diputados.gob.mx,Guanajuato,10,67832,morena
+85,Miguel Ángel Salim Alle,miguel.salim@diputados.gob.mx,Guanajuato,11,61704,pan
+86,María Magdalena Rosales Cruz,mmagdalena.rosales@diputados.gob.mx,Guanajuato,12,61136,morena
+87,Lucero Higareda Segura,lucero.higareda@diputados.gob.mx,Guanajuato,13,61538,morena
+88,Juana Acosta Trujillo,juana.acosta@diputados.gob.mx,Guanajuato,14,67937,morena
+89,José Javier Aguirre Gallardo,jose.aguirre@diputados.gob.mx,Guanajuato,15,61212,morena
+90,Celeste Mora Eguiluz,celeste.mora@diputados.gob.mx,Guerrero,1,61134,morena
+91,Yoloczin Lizbeth Domínguez Serna,yoloczin.dominguez@diputados.gob.mx,Guerrero,2,61163,morena
+92,Ma. del Carmen Cabrera Lagunas,madelcarmen.cabrera@diputados.gob.mx,Guerrero,3,59507,verde
+93,Javier Taja Ramírez,javier.taja@diputados.gob.mx,Guerrero,4,61202,morena
+94,Gerardo Olivares Mejía,gerardo.olivares@diputados.gob.mx,Guerrero,5,61559,pt
+95,María del Carmen Nava García,maria.nava@diputados.gob.mx,Guerrero,6,67935,verde
+96,Carlos Sánchez Barrios,carlos.sanchezb@diputados.gob.mx,Guerrero,7,61790,morena
+97,Marco Antonio De La Mora Torreblanca,marco.delamora@diputados.gob.mx,Guerrero,8,59587,verde
+98,Daniel Andrade Zurutuza,daniel.andrade@diputados.gob.mx,Hidalgo,1,61730,morena
+99,Ciria Yamile Salomón Durán,yamile.salomon@diputados.gob.mx,Hidalgo,2,68823,verde
+100,Tatiana Tonantzin P. Ángeles Moreno,tatiana.angeles@diputados.gob.mx,Hidalgo,3,52096,morena
+101,Alma Lidia De La Vega Sánchez,lidia.delavega@diputados.gob.mx,Hidalgo,4,68143,morena
+102,Astrit Viridiana Cornejo Gómez,astrit.cornejo@diputados.gob.mx,Hidalgo,5,61737,morena
+103,Ricardo Crespo Arroyo,ricardo.crespo@diputados.gob.mx,Hidalgo,6,61748,morena
+104,Mirna María de la Luz Rubio Sánchez,mariadelaluz.rubio@diputados.gob.mx,Hidalgo,7,61743,morena
+105,Francisco Javier Guízar Macías,francisco.guizar@diputados.gob.mx,Jalisco,1,61360,pt
+106,Tecutli José Guadalupe Gómez Villalobos,tecutli.gomez@diputados.gob.mx,Jalisco,2,67972,mc
+107,José Mario Iñiguez Franco,jose.iniguez@diputados.gob.mx,Jalisco,3,61706,pan
+108,Raúl Álvarez Villaseñor,raul.alvarez@diputados.gob.mx,Jalisco,4,61557,morena
+109,Bruno Blancas Mercado,bruno.blancas@diputados.gob.mx,Jalisco,5,61360,morena
+110,Beatriz Carranza Gómez,beatriz.carranza@diputados.gob.mx,Jalisco,6,61320,morena
+111,Claudia García Hernández,claudia.garcia@diputados.gob.mx,Jalisco,7,61595,morena
+112,Paola Milagros Espinosa Sánchez,paola.espinosa@diputados.gob.mx,Jalisco,8,59890,pan
+113,Favio Castellanos Polanco,favio.castellanos@diputados.gob.mx,Jalisco,9,61531,morena
+114,Omar Antonio Borboa Becerra (LICENCIA),omar.borboa@diputados.gob.mx,Jalisco,10,59911,pan
+115,Merilyn Gómez Pozos,merilyn.gomez@diputados.gob.mx,Jalisco,11,61778,morena
+116,Sandra Beatriz González Pérez,sandra.gonzalez@diputados.gob.mx,Jalisco,12,61250,morena
+117,José Luis Sánchez González,jluis.sanchez@diputados.gob.mx,Jalisco,13,62024,pt
+118,Marcela Michel López,marcela.michel@diputados.gob.mx,Jalisco,14,61368,morena
+119,Alonso de Jesús Vázquez Jiménez,alonso.vazquez@diputados.gob.mx,Jalisco,15,59954,pan
+120,Alberto Maldonado Chavarín,alberto.maldonado@diputados.gob.mx,Jalisco,16,61373,morena
+121,Antonio de Jesús Ramírez Ramos,antoniodej.ramirez@diputados.gob.mx,Jalisco,17,59524,verde
+122,Haidyd Arreola Lopez,haidyd.arreola@diputados.gob.mx,Jalisco,18,61322,morena
+123,Clara Cárdenas Galván,clara.cardenas@diputados.gob.mx,Jalisco,19,61350,morena
+124,Katia Alejandra Castillo Lozano,katia.castillo@diputados.gob.mx,Jalisco,20,61260,morena
+125,María Luisa Mendoza Mondragón,marialuisa.mendoza@diputados.gob.mx,Estado de México,1,68850,verde
+126,Dionicia Vázquez García,dionicia.vazquez@diputados.gob.mx,Estado de México,2,61511,morena
+127,Diana Castillo Gabino,diana.castillo@diputados.gob.mx,Estado de México,3,62425,pt
+128,Melva Carrasco Godínez,melva.carrasco@diputados.gob.mx,Estado de México,4,61482,morena
+129,Patricia Galindo Alarcón,patricia.galindo@diputados.gob.mx,Estado de México,5,62114,pt
+130,Julieta Villalpando Riquelme,julieta.villalpando@diputados.gob.mx,Estado de México,6,53050,morena
+131,Xóchitl Nashielly Zagal Ramírez,xochitl.zagal@diputados.gob.mx,Estado de México,7,61488,morena
+132,Anay Beltrán Reyes,anay.beltran@diputados.gob.mx,Estado de México,8,61462,morena
+133,Ivan Marin Rangel,ivan.marin@diputados.gob.mx,Estado de México,9,68866,verde
+134,Luis Fernando Vilchis Contreras,luis.vilchis@diputados.gob.mx,Estado de México,10,67900,pt
+135,Xóchitl Teresa Arzola Vargas,xochitl.arzola@diputados.gob.mx,Estado de México,11,61504,morena
+136,Armando Corona Arvizu,armando.corona@diputados.gob.mx,Estado de México,12,61809,morena
+137,Alma Monserrat Córdoba Navarrete (LICENCIA),alma.cordoba@diputados.gob.mx,Estado de México,13,61500,morena
+138,Claudia Leticia Garfias Alcantara,claudia.garfias@diputados.gob.mx,Estado de México,14,61498,morena
+139,Josefina Anaya Martínez,josefina.anaya@diputados.gob.mx,Estado de México,15,61490,morena
+140,Emilio Manzanilla Téllez,emilio.manzanilla@diputados.gob.mx,Estado de México,16,62026,pt
+141,Juan Hugo De la Rosa García,juan.delarosa@diputados.gob.mx,Estado de México,17,61502,morena
+142,Claudia Sánchez Juárez,claudia.sanchez@diputados.gob.mx,Estado de México,18,68856,verde
+143,Gabriela Valdepeñas González,gabriela.valdepenas@diputados.gob.mx,Estado de México,19,61466,morena
+144,Montserrat Ruiz Páez,montserrat.ruiz@diputados.gob.mx,Estado de México,20,61450,morena
+145,Iván Millán Contreras,ivan.millan@diputados.gob.mx,Estado de México,21,61454,morena
+146,Martha Amalia Moya Bastón,martha.moya@diputados.gob.mx,Estado de México,22,59890,pan
+147,Luis Alberto Carballo Gutiérrez,luis.carballo@diputados.gob.mx,Estado de México,23,,verde
+148,José Luis Durán Reveles,joseluis.duran@diputados.gob.mx,Estado de México,24,68850,verde
+149,Leide Avilés Domínguez,leide.aviles@diputados.gob.mx,Estado de México,25,61556,morena
+150,Luis Enrique Miranda Barrera,luis.miranda@diputados.gob.mx,Estado de México,26,68852,verde
+151,Wblester Santiago Pineda,wblester.santiago@diputados.gob.mx,Estado de México,27,62410,pt
+152,Roberto Ángel Domínguez Rodríguez,roberto.dominguez@diputados.gob.mx,Estado de México,28,61430,morena
+153,Gerardo Ulloa Pérez,gerardo.ulloa@diputados.gob.mx,Estado de México,29,61508,morena
+154,César Agustín Hernández Pérez,cesar.hernandez@diputados.gob.mx,Estado de México,30,61438,morena
+155,Juan Angel Bautista Bravo,juan.bautista@diputados.gob.mx,Estado de México,31,61850,morena
+156,Luis Enrique Martínez Ventura,enrique.martinez@diputados.gob.mx,Estado de México,32,62020,pt
+157,Anais Miriam Burgos Hernández,anais.burgos@diputados.gob.mx,Estado de México,33,61460,morena
+158,Mónica Angélica Álvarez Nemer,monica.alvarez@diputados.gob.mx,Estado de México,34,61496,morena
+159,Arturo Roberto Hernández Tapia,arturo.hernandez@diputados.gob.mx,Estado de México,35,61458,morena
+160,Juan Carlos Varela Domínguez,juan.varela@diputados.gob.mx,Estado de México,36,61464,morena
+161,Pedro Mario Zenteno Santaella,pedro.zenteno@diputados.gob.mx,Estado de México,37,61492,morena
+162,Jesús Martín Cuanalo Araujo,jesus.cuanalo@diputados.gob.mx,Estado de México,38,68876,verde
+163,José Luis Montalvo Luna,jose.montalvo@diputados.gob.mx,Estado de México,39,62052,pt
+164,Azucena Huerta Romero,azucena.huerta@diputados.gob.mx,Estado de México,40,68876,verde
+165,Leonel Godoy Rangel,leonel.godoy@diputados.gob.mx,Michoacán,1,61800,morena
+166,José Luis Cruz Lucatero,joseluis.cruz@diputados.gob.mx,Michoacán,2,61153,morena
+167,Mary Carmen Bernal Martínez,mary.bernal@diputados.gob.mx,Michoacán,3,62056,pt
+168,Rosa Guadalupe Ortega Tiburcio,rosa.ortega@diputados.gob.mx,Michoacán,4,61151,morena
+169,Delhi Miroslava Shember Domínguez,delhi.shember@diputados.gob.mx,Michoacán,5,61122,morena
+170,José Luis Téllez Marín,joseluis.tellez@diputados.gob.mx,Michoacán,6,61560,pt
+171,Marcela Velázquez Vázquez,marcela.velazquez@diputados.gob.mx,Michoacán,7,61124,morena
+172,Ernesto Núñez Aguilar,ernesto.nunez@diputados.gob.mx,Michoacán,8,59560,verde
+173,Guadalupe Araceli Mendoza Arias,araceli.mendoza@diputados.gob.mx,Michoacán,9,"61597,61598",Partido no encontrado
+174,David Alejandro Cortés Mendoza,david.cortes@diputados.gob.mx,Michoacán,10,59889,pan
+175,Vanessa López Carrillo,vanessa.lopez@diputados.gob.mx,Michoacán,11,62048,pt
+176,Sandra Anaya Villegas,sandra.anaya@diputados.gob.mx,Morelos,1,61332,morena
+177,Ariadna Barrera Vázquez,ariadna.barrera@diputados.gob.mx,Morelos,2,61358,morena
+178,Cindy Winkler Trujillo,cindy.winkler@diputados.gob.mx,Morelos,3,59504,verde
+179,Juan Ángel Flores Bustamante,angel.flores@diputados.gob.mx,Morelos,4,61334,morena
+180,Agustín Alonso Gutiérrez,agustin.alonso@diputados.gob.mx,Morelos,5,61258,morena
+181,Any Marilú Porras Baylón,any.porras@diputados.gob.mx,Nayarit,1,61857,morena
+182,Beatriz Andrea Navarro Pérez,beatriz.navarro@diputados.gob.mx,Nayarit,2,61500,morena
+183,Jorge Armando Ortiz Rodríguez,jorge.ortiz@diputados.gob.mx,Nayarit,3,62018,pt
+184,Homero Ricardo Niño de Rivera Vela,homero.ninoderivera@diputados.gob.mx,Nuevo León,1,59900,pan
+185,Andrés Mauricio Cantú Ramírez,andres.cantu@diputados.gob.mx,Nuevo León,2,61582,pri
+186,Clara Luz Flores Carrales (LICENCIA),clara.flores@diputados.gob.mx,Nuevo León,3,61176,morena
+187,Amparo Lilia Olivares Castañeda,lily.olivares@diputados.gob.mx,Nuevo León,4,61637,pan
+188,Santiago González Soto,santiago.gonzalez@diputados.gob.mx,Nuevo León,5,62028,pt
+189,Annia Sarahí Gómez Cárdenas,annia.gomez@diputados.gob.mx,Nuevo León,6,59892,pan
+190,Carlos Alberto Guevara Garza,alberto.guevara@diputados.gob.mx,Nuevo León,7,68868,verde
+191,Adriana Belinda Quiroz Gallegos,adriana.quiroz@diputados.gob.mx,Nuevo León,8,61147,morena
+192,Juan Francisco Espinoza Eguía,francisco.espinoza@diputados.gob.mx,Nuevo León,9,59430,pri
+193,Ana Isabel González González,ana.gonzalez@diputados.gob.mx,Nuevo León,10,59418,pri
+194,Pedro Garza Treviño (LICENCIA),pedro.garza@diputados.gob.mx,Nuevo León,11,59917,pan
+195,Héctor Alfonso de la Garza Villarreal,hector.delagarza@diputados.gob.mx,Nuevo León,12,59098,verde
+196,Luis Orlando Quiroga Treviño,luis.quiroga@diputados.gob.mx,Nuevo León,13,68868,verde
+197,José Gloria López,jose.gloria@diputados.gob.mx,Nuevo León,14,67111,pt
+198,Miriam de los Angeles Vázquez Ruíz,miriam.vazquez@diputados.gob.mx,Oaxaca,1,61190,morena
+199,Irma Juan Carlos,irma.juan@diputados.gob.mx,Oaxaca,2,55048,morena
+200,Margarita García García,margarita.garcia@diputados.gob.mx,Oaxaca,3,62038,pt
+201,Naty Poob Pijy Jiménez Vásquez,naty.jimenez@diputados.gob.mx,Oaxaca,4,61192,morena
+202,Carol Antonio Altamirano,carol.antonio@diputados.gob.mx,Oaxaca,5,61527,morena
+203,José Alejandro López Sánchez,jose.lopez@diputados.gob.mx,Oaxaca,6,62421,pt
+204,Gloria Sánchez López,gloria.sanchez@diputados.gob.mx,Oaxaca,7,68835,morena
+205,Raúl Bolaños-Cacho Cué,raul.bolanos@diputados.gob.mx,Oaxaca,8,59616,verde
+206,María del Carmen Bautista Peláez,maria.bautista@diputados.gob.mx,Oaxaca,9,61549,morena
+207,Carmelo Cruz Mendoza,carmelo.cruz@diputados.gob.mx,Oaxaca,10,61161,morena
+208,Gissel Santander Soto,gissel.santander@diputados.gob.mx,Puebla,1,61440,morena
+209,Fatima Almendra Cruz Peláez,fatima.cruz@diputados.gob.mx,Puebla,2,59524,verde
+210,María de los Ángeles Ballesteros García,maria.ballesteros@diputados.gob.mx,Puebla,3,61446,morena
+211,Juan Antonio González Hernández,juanantonio.gonzalez@diputados.gob.mx,Puebla,4,61340,morena
+212,Rafaela Vianey García Romero,vianey.garcia@diputados.gob.mx,Puebla,5,61404,morena
+213,Alejandro Carvajal Hidalgo,alejandro.carvajal@diputados.gob.mx,Puebla,6,61402,morena
+214,Claudia Rivera Vivanco,claudia.rivera@diputados.gob.mx,Puebla,7,61448,morena
+215,Carlos Ignacio Mier Bañuelos,carlos.mier@diputados.gob.mx,Puebla,8,61444,morena
+216,José Antonio Gali López,jose.gali@diputados.gob.mx,Puebla,9,59622,verde
+217,María Fabiola Karina Pérez Popoca,karina.perez@diputados.gob.mx,Puebla,10,61408,morena
+218,José Antonio López Ruíz,antonio.lopez@diputados.gob.mx,Puebla,11,62022,pt
+219,Nora Yessica Merino Escamilla,nora.escamilla@diputados.gob.mx,Puebla,12,62040,pt
+220,Mario Miguel Carrillo Cubillas,mario.carrillo@diputados.gob.mx,Puebla,13,61406,morena
+221,Eduardo Castillo López,eduardo.castillo@diputados.gob.mx,Puebla,14,1809,morena
+222,María del Rosario Orozco Caballero,maria.orozco@diputados.gob.mx,Puebla,15,61470,morena
+223,Adolfo Alatriste Cantú,adolfo.alatriste@diputados.gob.mx,Puebla,16,67935,verde
+224,Gilberto Herrera Ruiz,gilberto.ruiz@diputados.gob.mx,Querétaro,1,59818,morena
+225,Ricardo Astudillo Suárez,ricardo.astudillo@diputados.gob.mx,Querétaro,2,59560,verde
+226,Ma. Lorena García Jimeno Alcocer,lorena.garcia@diputados.gob.mx,Querétaro,3,59915,pan
+227,Roberto Sosa Pichardo,roberto.sosa@diputados.gob.mx,Querétaro,4,61635,pan
+228,Mario Calzada Mercado,mario.calzada@diputados.gob.mx,Querétaro,5,59460,pri
+229,Luis Humberto Fernández Fuentes,humberto.fernandez@diputados.gob.mx,Querétaro,6,59886,morena
+230,Juan Luis Carrillo Soberanis,juan.carrillo@diputados.gob.mx,Quintana Roo,1,59587,verde
+231,Elda María Xix Euan (LICENCIA),elda.xix@diputados.gob.mx,Quintana Roo,2,59958,morena
+232,Luis Humberto Aldana Navarro,luis.aldana@diputados.gob.mx,Quintana Roo,3,68826,morena
+233,Mildred Concepción Ávila Vera,mildred.avila@diputados.gob.mx,Quintana Roo,4,68896,morena
+234,Aremy Velazco Bautista,aremy.velazco@diputados.gob.mx,San Luis Potosí,1,61412,morena
+235,José Luis Fernández Martínez,joseluis.fernandez@diputados.gob.mx,San Luis Potosí,2,59506,verde
+236,Oscar Bautista Villegas,oscar.bautista@diputados.gob.mx,San Luis Potosí,3,59622,verde
+237,Francisco Adrián Castillo Morales,francisco.castillo@diputados.gob.mx,San Luis Potosí,4,61432,morena
+238,David Azuara Zúñiga,david.azuara@diputados.gob.mx,San Luis Potosí,5,59888,pan
+239,Juan Carlos Valladares Eichelmann,juan.valladares@diputados.gob.mx,San Luis Potosí,6,59550,verde
+240,Briceyda García Antonio,briceyda.garcia@diputados.gob.mx,San Luis Potosí,7,61410,morena
+241,Graciela Domínguez Nava,graciela.dominguez@diputados.gob.mx,Sinaloa,1,68881,morena
+242,Ana Elizabeth Ayala Leyva,ana.ayala@diputados.gob.mx,Sinaloa,2,68281,morena
+243,Jesús Fernando García Hernández,jesus.garcia@diputados.gob.mx,Sinaloa,3,62012,pt
+244,Felicita Pompa Robles,felicita.pompa@diputados.gob.mx,Sinaloa,4,59877,morena
+245,Jesús Alfonso Ibarra Ramos,jesus.ibarra@diputados.gob.mx,Sinaloa,5,61870,morena
+246,Olegaria Carrazco Macías,olegaria.carrazco@diputados.gob.mx,Sinaloa,6,59827,morena
+247,Merary Villegas Sánchez,merary.villegas@diputados.gob.mx,Sinaloa,7,56081,morena
+248,Manuel de Jesús Baldenebro Arredondo,manuel.baldenebro@diputados.gob.mx,Sonora,1,67881,morena
+249,Jesús Antonio Pujol Irastorza,jesus.pujol@diputados.gob.mx,Sonora,2,61418,morena
+250,Diana Karina Barreras Samaniego,diana.barreras@diputados.gob.mx,Sonora,3,62042,pt
+251,Ramón Angel Flores Robles,ramon.flores@diputados.gob.mx,Sonora,4,62406,pt
+252,Jacobo Mendoza Ruiz,jacobo.mendoza@diputados.gob.mx,Sonora,5,67880,morena
+253,Anabel Acosta Islas,anabel.acosta@diputados.gob.mx,Sonora,6,59612,verde
+254,Alma Manuela Higuera Esquer,alma.higuera@diputados.gob.mx,Sonora,7,68895,morena
+255,Julio Ernesto Gutiérrez Bocanegra,julio.gutierrez@diputados.gob.mx,Tabasco,1,61159,morena
+256,Iván Peña Vidal,ivan.pena@diputados.gob.mx,Tabasco,2,61180,morena
+257,Rosa Margarita Graniel Zenteno,rosa.graniel@diputados.gob.mx,Tabasco,3,61186,morena
+258,Jaime Humberto Lastra Bastar,jaime.lastra@diputados.gob.mx,Tabasco,4,61175,morena
+259,Beatriz Milland Pérez,beatriz.milland@diputados.gob.mx,Tabasco,5,61178,morena
+260,Tey Mollinedo Cano,tey.mollinedo@diputados.gob.mx,Tabasco,6,61182,morena
+261,Carlos Enrique Canturosas Villarreal,carlos.canturosas@diputados.gob.mx,Tamaulipas,1,68871,verde
+262,Claudia Alejandra Hernández Sáenz,alejandra.hernandez@diputados.gob.mx,Tamaulipas,2,61863,morena
+263,Casandra Prisilla De Los Santos Flores,casandra.delossantos@diputados.gob.mx,Tamaulipas,3,68875,verde
+264,Mario Alberto López Hernández,alberto.lopez@diputados.gob.mx,Tamaulipas,4,68871,verde
+265,José Braña Mojica,jose.brana@diputados.gob.mx,Tamaulipas,5,68872,verde
+266,Blanca Araceli Narro Panameño,blanca.narro@diputados.gob.mx,Tamaulipas,6,61868,morena
+267,Olga Juliana Elizondo Guerra,olga.elizondo@diputados.gob.mx,Tamaulipas,7,62410,pt
+268,Jesús Antonio Nader Nasrallah,jesus.nader@diputados.gob.mx,Tamaulipas,8,61706,pan
+269,José Alejandro Aguilar López,jalejandro.aguilar@diputados.gob.mx,Tlaxcala,1,62036,pt
+270,Raymundo Vázquez Conchas,raymundo.vazquez@diputados.gob.mx,Tlaxcala,2,55283,morena
+271,Irma Yordana Garay Loredo,irma.garay@diputados.gob.mx,Tlaxcala,3,62014,pt
+272,María del Carmen Pinete Vargas (DECESO),maria.pinete@diputados.gob.mx,Veracruz,1,59502,verde
+273,Elizabeth Cervantes de la Cruz,elizabeth.cervantes@diputados.gob.mx,Veracruz,2,61424,morena
+274,Magaly Armenta Oliveros,magaly.armenta@diputados.gob.mx,Veracruz,3,61426,morena
+275,María Josefina Gamboa Torales,maria.gamboa@diputados.gob.mx,Veracruz,4,61629,pan
+276,Francisco Javier Velázquez Vallejo,javier.velazquez@diputados.gob.mx,Veracruz,5,61420,morena
+277,Jaime Humberto Pérez Bernabe,jaime.perez@diputados.gob.mx,Veracruz,6,61478,morena
+278,Mónica Herrera Villavicencio,monica.herrera@diputados.gob.mx,Veracruz,7,61679,morena
+279,Jorge Alberto Mier Acolt,jorge.mier@diputados.gob.mx,Veracruz,8,61394,morena
+280,Adrián González Naveda,adrian.gonzalez@diputados.gob.mx,Veracruz,9,62067,pt
+281,Ana Miriam Ferráez Centeno,ana.ferraez@diputados.gob.mx,Veracruz,10,61474,morena
+282,Roberto Ramos Alor,roberto.ramos@diputados.gob.mx,Veracruz,11,61480,morena
+283,Rosa Hernández Espejo (LICENCIA),rosa.espejo@diputados.gob.mx,Veracruz,12,61486,morena
+284,Blanca Estela Hernández Rodríguez,blanca.hernandez@diputados.gob.mx,Veracruz,13,59444,verde
+285,Jessica Ramírez Cisneros,jessica.ramirez@diputados.gob.mx,Veracruz,14,61428,morena
+286,Dulce María Corina Villegas Guarneros,dulce.villegas@diputados.gob.mx,Veracruz,15,61422,morena
+287,Zenyazen Roberto Escobar García,zenyazen.escobar@diputados.gob.mx,Veracruz,16,61521,morena
+288,Margarita Corro Mendoza,margarita.corro@diputados.gob.mx,Veracruz,17,61396,morena
+289,Benito Aguas Atlahua (DECESO),benito.aguas@diputados.gob.mx,Veracruz,18,59098,verde
+290,Paola Tenorio Adame,paola.tenorio@diputados.gob.mx,Veracruz,19,61514,morena
+291,Rocío Natalí Barrera Puc,natali.barrera@diputados.gob.mx,Yucatán,1,61194,morena
+292,Jorge Luis Sánchez Reyes,jorgeluis.sanchez@diputados.gob.mx,Yucatán,2,54244,morena
+293,Óscar Iván Brito Zapata,oscar.brito@diputados.gob.mx,Yucatán,3,61196,morena
+294,María Isabel Rodríguez Heredia,isabel.rodriguez@diputados.gob.mx,Yucatán,4,59914,pan
+295,Jazmín Yaneli Villanueva Moo,jazmin.villanueva@diputados.gob.mx,Yucatán,5,59845,morena
+296,Jessica Saiden Quiroz,jessica.saiden@diputados.gob.mx,Yucatán,6,67292,morena
+297,María Soledad Luévano Cantú,maria.luevano@diputados.gob.mx,Zacatecas,1,61239,morena
+298,Julia Arcelia Olguín Serna,julia.olguin@diputados.gob.mx,Zacatecas,2,67807,morena
+299,Ulises Mejía Haro,ulises.mejia@diputados.gob.mx,Zacatecas,3,61234,morena
+300,Ana Luisa del Muro García,ana.delmuro@diputados.gob.mx,Zacatecas,4,62411,pt
+301,Adasa Saray Vázquez,adasa.saray@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59842,morena
+302,Gilberto Daniel Castillo García,gilberto.castillo@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61326,morena
+303,Alma Marina Vitela Rodríguez,alma.vitela@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61599,morena
+304,Hugo Eric Flores Cervantes,hugo.flores@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61562,morena
+305,Mayra Dolores Palomar González,mayra.palomar@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61551,morena
+306,Pedro Miguel Haces Barba,pedro.haces@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59809,morena
+307,Dora Alicia Moreno Méndez,dora.moreno@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,67882,morena
+308,Fernando Jorge Castro Trenti,fernando.castro@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,67837-68444,morena
+309,Nadia Yadira Sepúlveda García,nadia.sepulveda@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61328,morena
+310,Carlos Alfonso Candelaria López (LICENCIA),carlos.candelaria@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,,morena
+311,Karina Isabel Martínez Montaño,karina.martinez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,68825,morena
+312,Carlos Ventura Palacios Rodríguez,carlos.palacios@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61529,morena
+313,Giselle Yunueen Arellano Ávila,giselle.arellano@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61248,morena
+314,Hector Armando Cabada Alvidrez,hector.cabada@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61841,morena
+315,Eva María Vásquez Hernández,eva.vasquez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59900,pan
+316,Pablo Vázquez Ahued,pablo.vazquez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62638,mc
+317,César Israel Damián Retes,cesar.damian@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59918,pan
+318,Paulina Rubio Fernández,paulina.rubio@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59888,pan
+319,Luis Agustín Rodríguez Torres,agustin.rodriguez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59968,pan
+320,Carmen Rocío González Alonso,carmen.alonso@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59966,pan
+321,Francisco Pelayo Covarrubias,francisco.pelayo@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61631,pan
+322,Verónica Pérez Herrera,veronica.perez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61631,pan
+323,Miguel Angel Monraz Ibarra,miguel.monraz@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59864,pan
+324,Arturo Yañez Cuellar,arturo.yanez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,55121,pri
+325,Graciela Ortiz González,graciela.gonzalez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59469,pri
+326,Mario Zamora Gastélum,mario.zamora@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59474,pri
+327,Sylvana Beltrones Sánchez (LICENCIA),sylvana.beltrones@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,,pri
+328,Hector Melesio Cuen Ojeda (LICENCIA),hector.cuen@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,,pri
+329,Ana Erika Santana González,ana.santana@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59637,verde
+330,Alejandra Chedraui Peralta,alejandra.chedraui@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61372,morena
+331,Mayra Espino Suárez,mayra.espino@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59522,verde
+332,Greycy Marian Durán Alarcón,greycy.duran@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62401,pt
+333,Amarante Gonzalo Gómez Alarcón,amarante.gomez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62010,pt
+334,Patricia Mercado Castro,patricia.mercado@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62630,mc
+335,Hugo Manuel Luna Vázquez,hugo.luna@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62650,mc
+336,Claudia Gabriela Salas Rodríguez,claudia.salas@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62614,mc
+337,Gustavo Adolfo De Hoyos Walther,gustavo.dehoyos@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62612,mc
+338,Patricia Flores Elizondo,patricia.flores@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62618,mc
+339,Jorge Alfredo Lozoya Santillán,jorge.lozoya@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62616,mc
+340,Gloria Elizabeth Núñez Sánchez,gloria.nunez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62683,mc
+341,Ricardo Monreal Ávila,ricardo.monreal@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61215,morena
+342,Antares Guadalupe Vázquez Alatorre,antares.vazquez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61116,morena
+343,Arturo Ávila Anaya,francisco.avila@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,54230,morena
+344,Petra Romero Gomez,petra.romero@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61114,morena
+345,Napoleón Gómez Urrutia (LICENCIA),napoleon.gomez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61573,morena
+346,Amalia López de la Cruz,amalia.lopez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61820,morena
+347,Jorge Alberto Mendoza Sánchez (LICENCIA),alberto.mendoza@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,,morena
+348,Olga Leticia Chávez Rojas,olga.chavez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61112,morena
+349,Gabino Morales Mendoza,gabino.morales@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61414,morena
+350,Magda Erika Salgado Ponce,magda.salgado@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61262,morena
+351,Adrián Oseguera Kernion,adrian.oseguera@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61545,morena
+352,César Augusto Rendón García,cesar.rendon@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59966,pan
+353,Rosalia León Rosas,rosalia.leon@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62046,pt
+354,César Augusto Verástegui Ostos,cesar.verastegui@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59889,pan
+355,Nancy Aracely Olguín Díaz,nancy.olguin@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61637,pan
+356,Luis Enrique García López (LICENCIA),luisenrique.garcia@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59917,pan
+357,Elizabeth Martínez Álvarez,elizabeth.alvarez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59864,pan
+358,Alan Sahir Márquez Becerra,alan.marquez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61637,pan
+359,Blanca Leticia Gutiérrez Garza,blanca.gutierrez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59911,pan
+360,Víctor Manuel Pérez Díaz,manuel.perez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59911,pan
+361,Nubia Iris Castillo Medina,nubia.castillo@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59887,pan
+362,Marcelo de Jesús Torres Cofiño,marcelo.torres@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61626,pan
+363,Noemí Berenice Luna Ayala,noemi.luna@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59983,pan
+364,Rubén Ignacio Moreira Valdez,ruben.moreira@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59410,pri
+365,Marcela Guerra Castillo,marcela.guerra@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59476,pri
+366,Miguel Alejandro Alonso Reyes,miguel.alonso@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,67934,pri
+367,Verónica Martínez García,veronica.martinez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59432,pri
+368,Erubiel Lorenzo Alonso Que,erubiel.alonso@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59436,pri
+369,Fuensanta Guadalupe Guerrero Esquivel,fuensanta.guerrero@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61585,pri
+370,Carlos Alberto Puente Salas,carlos.puente@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59608,verde
+371,Ma. Leonor Noyola Cervantes,leonor.noyola@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59625,verde
+372,Omar Alejandro Acosta Ornelas (LICENCIA),omar.acosta@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,,verde
+373,María Graciela Gaitán Díaz,maria.gaitan@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59625,verde
+374,Olga Lidia Herrera Natividad,olga.herrera@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62065,pt
+375,Ricardo Sóstenes Mejía Berdeja,ricardo.mejia@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62085,pt
+376,Irais Virginia Reyes De la Torre,irais.reyes@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62622,mc
+377,Miguel Ángel Sánchez Rivera,miguelangel.sanchez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62646,mc
+378,Paola Michell Longoria López,paola.longoria@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62600,mc
+379,Raúl Lozano Caballero (LICENCIA),raul.lozano@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62644,mc
+380,Anayeli Muñoz Moreno,anayeli.munoz@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62632,mc
+381,Rosa María Castro Salinas,rosamaria.castro@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61128,morena
+382,Kenia Gisell Muñiz Cabrera,kenia.muniz@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,58200,morena
+383,Carmen Patricia Armendáriz Guerra,carmen.armendariz@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61853,morena
+384,Luis Arturo Oliver Cen,luis.oliver@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61295,morena
+385,Zayra Linette Fernández Sarabia,zayra.fernandez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61198,morena
+386,Humberto Coss y León Zúñiga,humberto.cossyleon@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61604,morena
+387,Herminia López Santiago,herminia.lopez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59810,morena
+388,Aniceto Polanco Morales,aniceto.polanco@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61208,morena
+389,Sonia Rincón Chanona,sonia.rincon@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61832,morena
+390,Aciel Sibaja Mendoza,aciel.sibaja@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61188,morena
+391,Rocío Adriana Abreu Artiñano,rocio.abreu@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61625,morena
+392,Venustiano Caamal Cocom,venustiano.caamal@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61200,morena
+393,Karen Yaiti Calcaneo Constantino,karen.calcaneo@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61822,morena
+394,Juan Carlos Natale López (LICENCIA),juancarlosnatale@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,,morena
+395,Luz María Rodríguez Pérez,luzmaria.rodriguez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61569,morena
+396,Eleazar Guerrero Pérez,eleazar.guerrero@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61713,morena
+397,Bertha Osorio Ferral,bertha.osorio@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61484,morena
+398,María del Rosario Guzmán Avilés,mdelrosario.guzman@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59908,pan
+399,Martha Aracely Cruz Jiménez,martha.cruz@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62424,pt
+400,Julen Rementería Del Puerto,julen.rementeria@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59954,pan
+401,Claudia Quiñones Garrido,claudia.quinones@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59968,pan
+402,José Elías Lixa Abimerhi,elias.lixa@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,3124,pan
+403,Abril Ferreyro Rosado,abril.ferreyro@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59914,pan
+404,Ernesto Sánchez Rodríguez,ernesto.sanchez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61706,pan
+405,Lorena Piñón Rivera,lorena.pinon@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59434,pri
+406,Christian Mishel Castro Bello,christian.castro@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59449,pri
+407,Ariana del Rocio Rejón Lara,ariana.rejon@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59454,pri
+408,Emilio Lara Calderón,emilio.lara@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59455,pri
+409,Julio Javier Scherer Pareyón,julio.scherer@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59614,verde
+410,Karina Alejandra Trujillo Trujillo,karina.trujillo@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59504,verde
+411,Javier Octavio Herrera Borunda,javier.herrera@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59610,verde
+412,Santy Montemayor Castillo,santy.montemayor@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59630,morena
+413,Alejandro Avilés Álvarez,alejandro.aviles@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59507,verde
+414,Francisco Amadeo Espinosa Ramos,francisco.espinosa@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,67895,pt
+415,Maribel Martínez Ruiz,mmartinez.ruiz@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62102,pt
+416,Pedro Vázquez González,pedro.vazquez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62098,pt
+417,Sergio Gil Rullán,sergio.gil@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62634,mc
+418,Ivonne Aracelly Ortega Pacheco,ivonne.ortega@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62660,mc
+419,Francisco Javier Farias Bailon,francisco.farias@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62628,mc
+420,María de Fátima García León,mariadefatima.garcia@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62647,mc
+421,Ifigenia Martha Martínez y Hernández (DECESO),ifigenia.martinez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,,morena
+422,Cuauhtémoc Blanco Bravo,cuauhtemoc.blanco@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61366,morena
+423,Maiella Martha Gabriela Gómez Maldonado,maiella.gomez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61535,morena
+424,Arturo Olivares Cerda,arturo.olivares@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61270,morena
+425,Julieta Kristal Vences Valencia,julieta.vences@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61400,morena
+426,Jaime Genaro López Vela,jaime.lopez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,66418,morena
+427,Maribel Solache González,maribel.solache@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61349,morena
+428,Daniel Asaf Manjarrez,daniel.asaf@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61577,morena
+429,Eunice Abigail Mendoza Ramírez,eunice.mendoza@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61739,morena
+430,Julio César Moreno Rivera,julio.moreno@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61370,morena
+431,Olga María Sánchez Cordero Dávila,olga.sanchezcordero@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61417,morena
+432,Sergio Mayer Bretón,sergio.mayer@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61280,morena
+433,María Teresa Ealy Díaz,maria.ealy@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61605,morena
+434,Carlos Alonso Castillo Pérez,carlos.castillo@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61620,morena
+435,Monica Fernández Cesar,monica.fernandez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61266,morena
+436,Jesús Valdés Peña,jesus.valdes@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61553,morena
+437,María Rosete,maria.rosete@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61543,morena
+438,Manuel Vazquez Arellano,manuel.arellano@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61130,morena
+439,Kenia López Rabadán,kenia.lopez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61629,pan
+440,Jorge Romero Herrera (LICENCIA),jromero.herrera@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,,pan
+441,Liliana Ortiz Pérez,liliana.ortiz@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59887,pan
+442,Rodrigo Miranda Berumen (LICENCIA),rodrigo.miranda@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,,pan
+443,Genoveva Huerta Villegas,genoveva.huerta@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59915,pan
+444,Víctor Adrián Martínez Terrazas,adrian.martinez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59889,pan
+445,Mariana Guadalupe Jiménez Zamora,mariana.jimenez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59918,mc
+446,Xitlalic Ceja García,xitlalic.ceja@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59451,pri
+447,Israel Betanzos Cortes,israel.betanzos@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59411,pri
+448,Nadia Navarro Acevedo,nadia.navarro@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59467,pri
+449,Carlos Eduardo Gutiérrez Mancilla,carlos.gutierrez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59485,pri
+450,Felipe Miguel Delgado Carrillo,felipe.delgado@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59550,verde
+451,Nayeli Arlen Fernández Cruz,nayeli.fernandez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59618,verde
+452,Ricardo Madrid Pérez,ricardo.madrid@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59626,verde
+453,Celia Esther Fonseca Galicia,celia.fonseca@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59516,verde
+454,Reginaldo Sandoval Flores,reginaldo.sandoval@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62072,pt
+455,Magdalena del Socorro Núñez Monreal,magdalena.nunez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62044,pt
+456,Asael Hernández Cerón,asael.hernandez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59900,pan
+457,Claudia Ruiz Massieu Salinas,claudia.ruizmassieu@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62636,mc
+458,Juan Ignacio Zavala Gutiérrez,juan.zavala@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,66381,mc
+459,Amancay González Franco,amancay.gonzalez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62654,mc
+460,Gibrán Ramírez Reyes,gibran.ramirez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,55114,mc
+461,Catalina Díaz Vilchis,catalina.diaz@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,51108,morena
+462,Fernando Mendoza Arce,fernando.mendoza@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61516,morena
+463,María Damaris Silva Santiago,damaris.silva@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61204,morena
+464,Alfonso Ramírez Cuéllar,alfonso.ramirez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61765,morena
+465,Diana Isela López Orozco,diana.lopez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61512,morena
+466,Víctor Hugo Lobo Román,victor.lobo@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61564,morena
+467,Roselia Suárez Montes de Oca,roselia.suarez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61126,morena
+468,Manuel de Jesús Espino Barrientos,manuel.espino@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,2286,morena
+469,Mónica Miriam Granillo Velazco (LICENCIA),monica.granillo@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61495,morena
+470,Francisco Javier Cabiedes Uranga (LICENCIA),francisco.cabiedes@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,,morena
+471,Mariana Benítez Tiburcio,mariana.benitez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61184,morena
+472,Vidal Llerenas Morales (LICENCIA),vidal.llerenas@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,,morena
+473,Rosalinda Savala Díaz,rosalinda.savala@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61149,morena
+474,Sergio Carlos Gutiérrez Luna,sergio.gutierrez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,66340,morena
+475,Rufina Benítez Estrada,rufina.benitez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,68836,morena
+476,Ofelia Socorro Jasso Nieto,ofelia.jasso@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59424,pri
+477,Héctor Pedroza Jiménez,hector.pedroza@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,68866,verde
+478,Tania Palacios Kuri,tania.palacios@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61704,pan
+479,José Manuel Hinojosa Pérez,jose.hinojosa@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59954,pan
+480,Teresa Ginez Serrano,teresa.ginez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59908,pan
+481,Germán Martínez Cázares,german.martinez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59885,pan
+482,Ana María Balderas Trejo,ana.balderas@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61629,pan
+483,Armando Tejeda Cid,armando.tejeda@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59932,pan
+484,Julia Licet Jiménez Angulo,julia.jimenez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61626,pan
+485,Víctor Samuel Palma César,victor.palma@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59446,pri
+486,Leticia Barrera Maldonado,leticia.barrera@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59425,pri
+487,Hugo Eduardo Gutiérrez Arroyo,hugo.gutierrez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59466,pri
+488,Abigail Arredondo Ramos,abigail.arredondo@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59456,pri
+489,Emilio Suárez Licona,emilio.suarez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61588,pri
+490,Laura Ivonne Ruíz Moreno,laura.ruiz@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,61583,pri
+491,Gabriela Benavides Cobos,gabriela.benavides@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59626,verde
+492,Eruviel Ávila Villegas,eruviel.avila@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,59942,verde
+493,Liliana Carbajal Méndez,liliana.carbajal@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,68852,verde
+494,María Isidra De la Luz Rivas,maria.delaluz@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62016,pt
+495,Javier Vázquez Calixto,javier.vazquez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62412,pt
+496,Gildardo Pérez Gabino,gildardo.perez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62626,mc
+497,Laura Irais Ballesteros Mancilla,laura.ballesteros@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,53069,mc
+498,Juan Ignacio Samperio Montaño,juan.samperio@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62619,mc
+499,Laura Hernández García,laura.hernandez@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,67973,mc
+500,Juan Armando Ruiz Hernández,juan.ruiz@diputados.gob.mx,Entidad no encontrada,Distrito no encontrado,62610,mc
