@@ -1,0 +1,88 @@
+/* Estilos generales */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: #f4f7f9;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+}
+/* Encabezado */
+header {
+  text-align: center;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 20px;
+  margin-bottom: 25px;
+}
+header h1 {
+  color: #2c3e50;
+  margin: 0;
+}
+header p {
+  color: #7f8c8d;
+  font-size: 1.1em;
+}
+/* Caja de búsqueda */
+.search-box {
+  margin-bottom: 25px;
+}
+#busqueda {
+  width: 100%;
+  padding: 15px;
+  font-size: 16px;
+  border: 2px solid #bdc3c7;
+  border-radius: 8px;
+  box-sizing: border-box;
+  transition: border-color 0.3s ease;
+}
+#busqueda:focus {
+  outline: none;
+  border-color: #00422c; /* Color del senado */
+}
+/* Grid para los resultados */
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+}
+/* Tarjeta de resultado */
+.result-card {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.result-card h3 {
+  margin: 0 0 8px 0;
+  color: #00422c;
+  font-size: 1.2em;
+}
+.result-card p {
+  margin: 4px 0;
+  color: #555;
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+.result-card .partido-info {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.result-card .partido-badge {
+    padding: 4px 10px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}

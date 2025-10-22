@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Directorio de Diputados LXVI</title>
+    <style>
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f7f6;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        #buscador {
+            width: 100%;
+            font-size: 1.2rem;
+            padding: 12px 15px;
+            margin-bottom: 25px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-sizing: border-box; 
+        }
+        #directorio-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); /* Un poco más ancho */
+            gap: 20px;
+        }
+        .diputado-card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            background: #ffffff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .diputado-card h3 {
+            margin-top: 0;
+            color: #0056b3;
+            display: flex; /* Para alinear el nombre y la etiqueta */
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        .diputado-card p {
+            margin: 8px 0;
+            line-height: 1.5;
+            word-break: break-word; /* Para emails largos */
+        }
+        
+        /* --- ¡ESTE ES EL CSS PARA LAS ETIQUETAS DE PARTIDO! --- */
+        .party-tag {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            color: white;
+            text-transform: uppercase;
+            white-space: nowrap; /* Evita que el texto se parta */
+        }
+        /* Colores oficiales de los partidos (Diputados) */
+        .party-tag.pan { background-color: #004a99; }
+        .party-tag.pri { background-color: #e4002b; }
+        .party-tag.prd { background-color: #ffd400; color: #333; }
+        .party-tag.pvem { background-color: #4c9c2e; }
+        .party-tag.pt { background-color: #c70000; }
+        .party-tag.mc { background-color: #ff8000; }
+        .party-tag.morena { background-color: #800000; } /* Guinda */
+        /* Color para 'sin partido' o no encontrado */
+        .party-tag.default, .party-tag.sp { background-color: #6c757d; } 
+        /* --- FIN DEL CSS NUEVO --- */
+        
+    </style>
+</head>
+<body>
+
+    <h1>Directorio de Diputados LXVI</h1>
+    
+    <input type="text" id="buscador" 
+           placeholder="Buscar por nombre, partido, entidad o distrito...">
+    
+    <div id="directorio-container">
+        </div>
+
+    <script src="papaparse.min.js"></script>
+    
+    <script src="script.js"></script>
+</body>
+</html>
