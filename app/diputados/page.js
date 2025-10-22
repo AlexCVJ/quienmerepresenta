@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import Papa from 'papaparse';
 
 export default function DiputadosPage() {
   const [diputados, setDiputados] = useState([]);
@@ -19,27 +18,29 @@ export default function DiputadosPage() {
       .replace(/[\u0300-\u036f]/g, '');
   };
 
-  // Cargar CSV al montar el componente
+  // Cargar JSON al montar el componente
   useEffect(() => {
-    const RUTA_CSV = '/data/directorio_diputados_final.csv';
+    const RUTA_JSON = '/data/diputados.json';
 
-    Papa.parse(RUTA_CSV, {
-      download: true,
-      header: true,
-      skipEmptyLines: true,
-      encoding: 'UTF-8',
-      complete: (results) => {
-        setDiputados(results.data);
-        setFilteredDiputados(results.data);
+    fetch(RUTA_JSON)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+      })
+      .then((data) => {
+        setDiputados(data.diputados);
+        setFilteredDiputados(data.diputados);
         setLoading(false);
-        console.log('¡Éxito! CSV cargado:', results.data.length, 'diputados');
-      },
-      error: (err) => {
-        console.error('Error al cargar o procesar el CSV:', err);
-        setError(`No se pudo cargar el archivo ${RUTA_CSV}.`);
+        console.log('¡Éxito! JSON cargado:', data.diputados.length, 'diputados');
+        console.log('Metadata:', data.metadata);
+      })
+      .catch((err) => {
+        console.error('Error al cargar JSON:', err);
+        setError(`No se pudo cargar el archivo ${RUTA_JSON}.`);
         setLoading(false);
-      },
-    });
+      });
   }, []);
 
   // Manejar búsqueda
@@ -55,13 +56,17 @@ export default function DiputadosPage() {
       const nombreNorm = normalizarTexto(dip.nombre);
       const entidadNorm = normalizarTexto(dip.entidad);
       const distritoNorm = normalizarTexto(dip.distrito);
-      const partidoNorm = normalizarTexto(dip.partido);
+      const partidoNorm = normalizarTexto(dip.partido?.codigo);
+      const emailNorm = normalizarTexto(dip.email);
+      const circuitoNorm = normalizarTexto(dip.circuito);
 
       return (
         nombreNorm.includes(busquedaNormalizada) ||
         entidadNorm.includes(busquedaNormalizada) ||
         distritoNorm.includes(busquedaNormalizada) ||
-        partidoNorm.includes(busquedaNormalizada)
+        partidoNorm.includes(busquedaNormalizada) ||
+        emailNorm.includes(busquedaNormalizada) ||
+        circuitoNorm.includes(busquedaNormalizada)
       );
     });
 
@@ -153,6 +158,55 @@ export default function DiputadosPage() {
           background-color: #6c757d;
         }
 
+        .diputado-foto {
+          width: 120px;
+          height: 120px;
+          margin: 0 auto 15px;
+          border-radius: 50%;
+          overflow: hidden;
+          border: 3px solid #ddd;
+          background-color: #f0f0f0;
+        }
+        .diputado-foto img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+
+        .tipo-eleccion {
+          font-size: 0.9rem;
+          color: #666;
+          font-style: italic;
+          margin-top: -5px !important;
+        }
+
+        .comisiones-section {
+          margin-top: 15px;
+          padding-top: 15px;
+          border-top: 1px solid #eee;
+        }
+        .comisiones-section strong {
+          color: #555;
+          font-size: 0.9rem;
+        }
+        .comisiones-list {
+          margin: 8px 0;
+          padding-left: 20px;
+          font-size: 0.85rem;
+          color: #666;
+          max-height: 150px;
+          overflow-y: auto;
+        }
+        .comisiones-list li {
+          margin: 4px 0;
+          line-height: 1.4;
+        }
+        .comisiones-list em {
+          color: #0056b3;
+          font-style: normal;
+          font-weight: 600;
+        }
+
         .error {
           color: red;
           text-align: center;
@@ -185,33 +239,75 @@ export default function DiputadosPage() {
 
           const entidad = dip.entidad || 'N/A';
           const distrito = dip.distrito || 'N/A';
+          const circuito = dip.circuito || 'N/A';
           const email = dip.email || 'N/A';
           const extension = dip.extension || 'N/A';
+          const suplente = dip.suplente || 'N/A';
+          const fechaNacimiento = dip.fecha_nacimiento || null;
+          const tipoEleccion = dip.tipo_eleccion || null;
+          const fotoUrl = dip.foto_url || null;
+          const comisiones = dip.comisiones || [];
 
-          const partido = dip.partido || 'default';
-          let partidoNombre = dip.partido || 'S/P';
+          const partidoCodigo = dip.partido?.codigo || 'default';
+          let partidoNombre = dip.partido?.codigo || 'S/P';
           if (partidoNombre === 'default' || partidoNombre === 'sp') partidoNombre = 'S/P';
 
           return (
-            <div key={`${dip.id_diputado || index}-${dip.nombre}`} className="diputado-card">
+            <div key={`${dip.id || index}-${dip.nombre}`} className="diputado-card">
+              {fotoUrl && (
+                <div className="diputado-foto">
+                  <img
+                    src={`https://sitl.diputados.gob.mx/LXVI_leg/${fotoUrl}`}
+                    alt={`Foto de ${dip.nombre}`}
+                    loading="lazy"
+                  />
+                </div>
+              )}
               <h3>
                 {dip.nombre}
-                <span className={`party-tag ${partido.toLowerCase()}`}>
+                <span className={`party-tag ${partidoCodigo.toLowerCase()}`}>
                   {partidoNombre.toUpperCase()}
                 </span>
               </h3>
+              {tipoEleccion && (
+                <p className="tipo-eleccion">
+                  <strong>Tipo:</strong> {tipoEleccion}
+                </p>
+              )}
               <p>
-                <strong>Entidad:</strong> {entidad}
+                <strong>Entidad:</strong> {entidad} | <strong>Distrito:</strong> {distrito}
               </p>
               <p>
-                <strong>Distrito:</strong> {distrito}
+                <strong>Circuito:</strong> {circuito}
               </p>
+              {fechaNacimiento && (
+                <p>
+                  <strong>Fecha de nacimiento:</strong> {fechaNacimiento}
+                </p>
+              )}
               <p>
                 <strong>Email:</strong> {email}
               </p>
               <p>
                 <strong>Teléfono:</strong> 55 5036 0000 | <strong>Ext:</strong> {extension}
               </p>
+              {suplente !== 'N/A' && (
+                <p>
+                  <strong>Suplente:</strong> {suplente}
+                </p>
+              )}
+              {comisiones.length > 0 && (
+                <div className="comisiones-section">
+                  <strong>Comisiones ({comisiones.length}):</strong>
+                  <ul className="comisiones-list">
+                    {comisiones.map((com, idx) => (
+                      <li key={idx}>
+                        {com.nombre} {com.cargo && <em>({com.cargo})</em>}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
             </div>
           );
         })}

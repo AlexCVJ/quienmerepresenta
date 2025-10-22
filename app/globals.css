@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-gradient-to-br from-slate-50 to-slate-100 text-slate-900;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-gradient-to-r from-gaming-pink via-gaming-orange to-gaming-light bg-clip-text text-transparent;
+  }
+
+  .animate-gradient {
+    background-size: 300% 300%;
+    animation: gradient-x 8s ease infinite;
+  }
+}

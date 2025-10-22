@@ -45,3 +45,4 @@ env/
 logs/
 *.csv.bak
 *.xml.bak
+logs
