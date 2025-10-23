@@ -1,0 +1,17 @@
+# robots.txt para Quién Me Representa
+# NO AL IMPUESTO A VIDEOJUEGOS - #elgamingsalva
+
+User-agent: *
+Allow: /
+
+# Permitir acceso a todos los directorios importantes
+Allow: /diputados
+Allow: /senadores
+Allow: /data/
+
+# Disallow archivos innecesarios
+Disallow: /_next/static/
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://quienmerepresenta.mx/sitemap.xml

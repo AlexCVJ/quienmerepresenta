@@ -389,6 +389,28 @@ export default function DiputadosPage() {
         .party-tag.default,
         .party-tag.sp { background-color: #6c757d; }
 
+        .phone-link {
+          display: inline-flex;
+          align-items: center;
+          gap: 0.5rem;
+          color: #0056b3;
+          text-decoration: none;
+          padding: 0.5rem 1rem;
+          border-radius: 8px;
+          background: #e3f2fd;
+          transition: all 0.2s ease;
+          margin-top: 0.5rem;
+          font-weight: 600;
+        }
+        .phone-link:hover {
+          background: #bbdefb;
+          transform: translateY(-2px);
+          box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        .phone-icon {
+          font-size: 1.2rem;
+        }
+
         .diputado-foto {
           width: 100px;
           height: 100px;
@@ -693,6 +715,13 @@ export default function DiputadosPage() {
                             <strong>Suplente:</strong> {suplente}
                           </p>
                         )}
+
+                        {/* Botón de llamada */}
+                        <a href="tel:+525550360000" className="phone-link">
+                          <span className="phone-icon">📞</span>
+                          <span>Llamar ahora</span>
+                        </a>
+
                         {comisiones.length > 0 && (
                           <div className="comisiones-section">
                             <strong>Comisiones ({comisiones.length}):</strong>
