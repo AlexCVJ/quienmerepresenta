@@ -261,11 +261,7 @@ export default function Home() {
             <p className="text-slate-400">
               Una iniciativa de la comunidad gaming mexicana
             </p>
-            <div className="mt-6">
-              <p className="text-sm text-slate-500">
-                GPL-3.0 License | Open Source
-              </p>
-            </div>
+           
           </div>
         </div>
       </footer>
