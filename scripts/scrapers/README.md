@@ -25,6 +25,17 @@ cp directorio_diputados_final.csv ../../../public/data/
 
 ### Actualizar Directorio de Senadores
 
+**Opción 1: Convertir XML existente a JSON (recomendado)**
+
+```bash
+cd scripts/scrapers/senadores
+python xml_to_json_senadores.py
+```
+
+Este script lee el XML de `public/data/directorioSenadores.xml` y genera automáticamente `directorioSenadores.json` en la misma carpeta.
+
+**Opción 2: Descargar nuevo XML desde senado.gob.mx**
+
 ```bash
 cd scripts/scrapers/senadores
 python scrapper_Diputados.py
@@ -35,6 +46,8 @@ Este script generará `directorioSenadores.xml`. Después de ejecutarlo, copia e
 ```bash
 cp directorioSenadores.xml ../../../public/data/
 ```
+
+Luego ejecuta el conversor XML a JSON (Opción 1).
 
 ## Notas Importantes
 
@@ -51,5 +64,29 @@ scripts/scrapers/
 │   ├── Scrapper_Diputados_Final.py  # Scraper principal (500 perfiles)
 │   └── scrapper_Diputados.py        # Scraper alternativo
 └── senadores/
-    └── scrapper_Diputados.py        # Scraper de senadores
+    ├── scrapper_Diputados.py        # Scraper de senadores (descarga XML)
+    └── xml_to_json_senadores.py     # Conversor XML → JSON
 ```
+
+## Formatos de Datos
+
+### Senadores (JSON)
+
+El archivo `directorioSenadores.json` contiene un array con 128 senadores:
+
+```json
+{
+  "numero": 1,
+  "nombre": "Heriberto Marcelo Aguilar Castillo",
+  "partido": "morena",
+  "telefono": "55 5345 3000",
+  "extension": "3245 y 3915",
+  "correo": "heriberto.aguilar@senado.gob.mx",
+  "estado": "Sonora"
+}
+```
+
+### Diputados (CSV)
+
+El archivo `directorio_diputados_final.csv` contiene 500 diputados con columnas:
+- id_diputado, nombre, email, entidad, distrito, extension, partido

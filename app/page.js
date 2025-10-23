@@ -41,6 +41,62 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Quick Access Buttons */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-16 relative z-10 mb-12">
+        <div className={`transition-all duration-1000 delay-150 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
+          <div className="bg-white rounded-2xl shadow-2xl p-6 sm:p-8">
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 mb-4 text-center">
+              Encuentra a tus representantes
+            </h2>
+            <p className="text-center text-slate-600 mb-6 max-w-2xl mx-auto">
+              Accede directamente a los directorios completos de Diputados y Senadores
+            </p>
+
+            <div className="grid sm:grid-cols-2 gap-4">
+              {/* Diputados Button */}
+              <Link href="/diputados">
+                <div className="group relative overflow-hidden bg-gradient-to-br from-blue-600 to-blue-800 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 cursor-pointer">
+                  <div className="absolute inset-0 bg-black opacity-0 group-hover:opacity-10 transition-opacity duration-300"></div>
+                  <div className="relative p-6">
+                    <div className="flex items-center justify-between mb-2">
+                      <h3 className="text-xl sm:text-2xl font-bold text-white">
+                        📋 Diputados
+                      </h3>
+                      <svg className="w-6 h-6 text-white group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                      </svg>
+                    </div>
+                    <p className="text-blue-100 text-sm">
+                      Congreso de México - LXVI Legislatura
+                    </p>
+                  </div>
+                </div>
+              </Link>
+
+              {/* Senadores Button */}
+              <Link href="/senadores">
+                <div className="group relative overflow-hidden bg-gradient-to-br from-purple-600 to-purple-800 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 cursor-pointer">
+                  <div className="absolute inset-0 bg-black opacity-0 group-hover:opacity-10 transition-opacity duration-300"></div>
+                  <div className="relative p-6">
+                    <div className="flex items-center justify-between mb-2">
+                      <h3 className="text-xl sm:text-2xl font-bold text-white">
+                        🏛️ Senadores
+                      </h3>
+                      <svg className="w-6 h-6 text-white group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                      </svg>
+                    </div>
+                    <p className="text-purple-100 text-sm">
+                      Congreso de México - LXV Legislatura
+                    </p>
+                  </div>
+                </div>
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Main Content */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-20">
         <div className={`transition-all duration-1000 delay-300 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>

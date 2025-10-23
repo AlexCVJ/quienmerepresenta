@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import Link from 'next/link';
 
 export default function DiputadosPage() {
   const [diputados, setDiputados] = useState([]);
@@ -145,6 +146,7 @@ export default function DiputadosPage() {
           color: white;
           padding: 2rem 1rem;
           box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+          position: relative;
         }
         .header h1 {
           margin: 0;
@@ -157,6 +159,28 @@ export default function DiputadosPage() {
           opacity: 0.9;
           margin-top: 0.5rem;
           font-size: 0.95rem;
+        }
+        .home-btn {
+          position: absolute;
+          top: 1rem;
+          left: 1rem;
+          background: rgba(255, 255, 255, 0.2);
+          color: white;
+          border: 2px solid rgba(255, 255, 255, 0.3);
+          padding: 0.5rem 1rem;
+          border-radius: 8px;
+          font-weight: 600;
+          cursor: pointer;
+          transition: all 0.3s ease;
+          text-decoration: none;
+          display: inline-flex;
+          align-items: center;
+          gap: 0.5rem;
+        }
+        .home-btn:hover {
+          background: rgba(255, 255, 255, 0.3);
+          border-color: rgba(255, 255, 255, 0.5);
+          transform: translateY(-2px);
         }
         .mobile-filter-btn {
           display: none;
@@ -348,23 +372,30 @@ export default function DiputadosPage() {
           white-space: nowrap;
           box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
-        .party-tag.pan { background-color: #004a99; }
-        .party-tag.pri { background-color: #e4002b; }
+        .party-tag.pan { background-color: #0033a0; color: white; }
+        .party-tag.pri {
+          background: linear-gradient(to right, #006847 33%, #ffffff 33%, #ffffff 66%, #ce1126 66%);
+          color: #000;
+        }
         .party-tag.prd { background-color: #ffd400; color: #333; }
-        .party-tag.pvem { background-color: #4c9c2e; }
-        .party-tag.pt { background-color: #c70000; }
-        .party-tag.mc { background-color: #ff8000; }
-        .party-tag.morena { background-color: #800000; }
+        .party-tag.pvem,
+        .party-tag.verde { background-color: #54a53b; color: white; }
+        .party-tag.pt {
+          background: linear-gradient(135deg, #da251d 50%, #ffd700 50%);
+          color: white;
+        }
+        .party-tag.mc { background-color: #ff8000; color: white; }
+        .party-tag.morena { background-color: #a0204c; color: white; }
         .party-tag.default,
         .party-tag.sp { background-color: #6c757d; }
 
         .diputado-foto {
-          width: 120px;
-          height: 120px;
-          margin: 0 auto 15px;
+          width: 100px;
+          height: 100px;
+          margin: 0 auto 1rem;
           border-radius: 50%;
           overflow: hidden;
-          border: 3px solid #ddd;
+          border: 3px solid #e0e0e0;
           background-color: #f0f0f0;
         }
         .diputado-foto img {
@@ -372,17 +403,15 @@ export default function DiputadosPage() {
           height: 100%;
           object-fit: cover;
         }
-
         .tipo-eleccion {
-          font-size: 0.9rem;
+          font-size: 0.85rem;
           color: #666;
           font-style: italic;
           margin-top: -5px !important;
         }
-
         .comisiones-section {
-          margin-top: 15px;
-          padding-top: 15px;
+          margin-top: 1rem;
+          padding-top: 1rem;
           border-top: 1px solid #eee;
         }
         .comisiones-section strong {
@@ -390,15 +419,15 @@ export default function DiputadosPage() {
           font-size: 0.9rem;
         }
         .comisiones-list {
-          margin: 8px 0;
-          padding-left: 20px;
+          margin: 0.5rem 0;
+          padding-left: 1.25rem;
           font-size: 0.85rem;
           color: #666;
           max-height: 150px;
           overflow-y: auto;
         }
         .comisiones-list li {
-          margin: 4px 0;
+          margin: 0.25rem 0;
           line-height: 1.4;
         }
         .comisiones-list em {
@@ -406,111 +435,284 @@ export default function DiputadosPage() {
           font-style: normal;
           font-weight: 600;
         }
-
         .error {
-          color: red;
+          color: #f44336;
           text-align: center;
-          padding: 20px;
+          padding: 2rem;
+          background: white;
+          border-radius: 12px;
+          margin: 2rem;
         }
         .loading {
           text-align: center;
-          padding: 20px;
+          padding: 2rem;
           color: #666;
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 768px) {
+          .header h1 {
+            font-size: 1.5rem;
+          }
+          .content-wrapper {
+            flex-direction: column;
+            padding: 1rem;
+            gap: 1rem;
+          }
+          .sidebar {
+            position: fixed;
+            top: 0;
+            left: ${sidebarOpen ? '0' : '-100%'};
+            width: 100%;
+            max-width: 320px;
+            height: 100vh;
+            max-height: 100vh;
+            z-index: 999;
+            transition: left 0.3s ease;
+            border-radius: 0;
+          }
+          .sidebar-overlay {
+            display: ${sidebarOpen ? 'block' : 'none'};
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.5);
+            z-index: 998;
+          }
+          .mobile-filter-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          }
+          .directorio-container {
+            grid-template-columns: 1fr;
+          }
+          .search-results-header {
+            flex-direction: column;
+            gap: 0.5rem;
+            align-items: flex-start;
+          }
+        }
+
+        @media (max-width: 480px) {
+          .header {
+            padding: 1.5rem 1rem;
+          }
+          .header h1 {
+            font-size: 1.25rem;
+          }
+          .diputado-card {
+            padding: 1rem;
+          }
+          .diputado-card h3 {
+            font-size: 1rem;
+          }
         }
       `}</style>
 
-      <h1>Directorio de Diputados LXVI</h1>
+      <div className="page-wrapper">
+        <div className="header">
+          <Link href="/" className="home-btn">
+            <span>←</span>
+            <span>Inicio</span>
+          </Link>
+          <h1>Directorio de Diputados LXVI</h1>
+          <p className="subtitle">Encuentra y contacta a tus representantes</p>
+        </div>
 
-      <input
-        type="text"
-        className="buscador"
-        placeholder="Buscar por nombre, partido, entidad o distrito..."
-        value={searchTerm}
-        onChange={(e) => setSearchTerm(e.target.value)}
-        disabled={loading}
-      />
+        {/* Overlay para mobile */}
+        <div
+          className="sidebar-overlay"
+          onClick={() => setSidebarOpen(false)}
+        />
 
-      {loading && <div className="loading">Cargando directorio de diputados...</div>}
-      {error && <div className="error"><strong>Error Crítico:</strong> {error}</div>}
+        {/* Botón flotante para filtros en mobile */}
+        <button
+          className="mobile-filter-btn"
+          onClick={() => setSidebarOpen(!sidebarOpen)}
+          aria-label="Abrir filtros"
+        >
+          🔍
+        </button>
 
-      <div className="directorio-container">
-        {!loading && !error && filteredDiputados.map((dip, index) => {
-          if (!dip || !dip.nombre) return null;
+        <div className="content-wrapper">
+          {/* Sidebar con filtros */}
+          <aside className="sidebar">
+            <h3>
+              Filtros
+              {totalFiltrosActivos > 0 && (
+                <span className="filter-badge">{totalFiltrosActivos}</span>
+              )}
+            </h3>
 
-          const entidad = dip.entidad || 'N/A';
-          const distrito = dip.distrito || 'N/A';
-          const circuito = dip.circuito || 'N/A';
-          const email = dip.email || 'N/A';
-          const extension = dip.extension || 'N/A';
-          const suplente = dip.suplente || 'N/A';
-          const fechaNacimiento = dip.fecha_nacimiento || null;
-          const tipoEleccion = dip.tipo_eleccion || null;
-          const fotoUrl = dip.foto_url || null;
-          const comisiones = dip.comisiones || [];
+            {/* Filtro por partido */}
+            <div className="filter-section">
+              <h4>Partido Político</h4>
+              {partidosUnicos.map(partido => (
+                <div key={partido} className="filter-checkbox">
+                  <input
+                    type="checkbox"
+                    id={`partido-${partido}`}
+                    checked={selectedPartidos.includes(partido)}
+                    onChange={() => togglePartido(partido)}
+                  />
+                  <label htmlFor={`partido-${partido}`}>
+                    <span className={`party-tag ${partido.toLowerCase()}`}>
+                      {partido}
+                    </span>
+                  </label>
+                </div>
+              ))}
+            </div>
 
-          const partidoCodigo = dip.partido?.codigo || 'default';
-          let partidoNombre = dip.partido?.codigo || 'S/P';
-          if (partidoNombre === 'default' || partidoNombre === 'sp') partidoNombre = 'S/P';
+            {/* Filtro por entidad */}
+            <div className="filter-section">
+              <h4>Entidad Federativa</h4>
+              <select
+                className="filter-select"
+                value={selectedEntidad}
+                onChange={(e) => setSelectedEntidad(e.target.value)}
+              >
+                <option value="">Todas las entidades</option>
+                {entidadesUnicas.map(entidad => (
+                  <option key={entidad} value={entidad}>
+                    {entidad}
+                  </option>
+                ))}
+              </select>
+            </div>
 
-          return (
-            <div key={`${dip.id || index}-${dip.nombre}`} className="diputado-card">
-              {fotoUrl && (
-                <div className="diputado-foto">
-                  <img
-                    src={fotoUrl}
-                    alt={`Foto de ${dip.nombre}`}
-                    loading="lazy"
+            {/* Filtro por tipo de elección */}
+            <div className="filter-section">
+              <h4>Tipo de Elección</h4>
+              {tiposEleccionUnicos.map(tipo => (
+                <div key={tipo} className="filter-checkbox">
+                  <input
+                    type="checkbox"
+                    id={`tipo-${tipo}`}
+                    checked={selectedTipoEleccion.includes(tipo)}
+                    onChange={() => toggleTipoEleccion(tipo)}
+                  />
+                  <label htmlFor={`tipo-${tipo}`}>{tipo}</label>
+                </div>
+              ))}
+            </div>
+
+            {/* Botón limpiar filtros */}
+            <button
+              className="clear-filters-btn"
+              onClick={limpiarFiltros}
+              disabled={totalFiltrosActivos === 0 && !searchTerm}
+            >
+              Limpiar filtros
+            </button>
+          </aside>
+
+          {/* Contenido principal */}
+          <main className="main-content">
+            {loading && <div className="loading">Cargando directorio de diputados...</div>}
+            {error && <div className="error"><strong>Error Crítico:</strong> {error}</div>}
+
+            {!loading && !error && (
+              <>
+                <div className="search-results-header">
+                  <div className="results-count">
+                    {filteredDiputados.length} {filteredDiputados.length === 1 ? 'diputado encontrado' : 'diputados encontrados'}
+                  </div>
+                  <input
+                    type="text"
+                    className="buscador"
+                    placeholder="Buscar por nombre, partido, entidad..."
+                    value={searchTerm}
+                    onChange={(e) => setSearchTerm(e.target.value)}
                   />
                 </div>
-              )}
-              <h3>
-                {dip.nombre}
-                <span className={`party-tag ${partidoCodigo.toLowerCase()}`}>
-                  {partidoNombre.toUpperCase()}
-                </span>
-              </h3>
-              {tipoEleccion && (
-                <p className="tipo-eleccion">
-                  <strong>Tipo:</strong> {tipoEleccion}
-                </p>
-              )}
-              <p>
-                <strong>Entidad:</strong> {entidad} | <strong>Distrito:</strong> {distrito}
-              </p>
-              <p>
-                <strong>Circuito:</strong> {circuito}
-              </p>
-              {fechaNacimiento && (
-                <p>
-                  <strong>Fecha de nacimiento:</strong> {fechaNacimiento}
-                </p>
-              )}
-              <p>
-                <strong>Email:</strong> {email}
-              </p>
-              <p>
-                <strong>Teléfono:</strong> 55 5036 0000 | <strong>Ext:</strong> {extension}
-              </p>
-              {suplente !== 'N/A' && (
-                <p>
-                  <strong>Suplente:</strong> {suplente}
-                </p>
-              )}
-              {comisiones.length > 0 && (
-                <div className="comisiones-section">
-                  <strong>Comisiones ({comisiones.length}):</strong>
-                  <ul className="comisiones-list">
-                    {comisiones.map((com, idx) => (
-                      <li key={idx}>
-                        {com.nombre} {com.cargo && <em>({com.cargo})</em>}
-                      </li>
-                    ))}
-                  </ul>
+
+                <div className="directorio-container">
+                  {filteredDiputados.map((dip, index) => {
+                    if (!dip || !dip.nombre) return null;
+
+                    const entidad = dip.entidad || 'N/A';
+                    const distrito = dip.distrito || 'N/A';
+                    const circuito = dip.circuito || 'N/A';
+                    const email = dip.email || 'N/A';
+                    const extension = dip.extension || 'N/A';
+                    const suplente = dip.suplente || 'N/A';
+                    const fechaNacimiento = dip.fecha_nacimiento || null;
+                    const tipoEleccion = dip.tipo_eleccion || null;
+                    const fotoUrl = dip.foto_url || null;
+                    const comisiones = dip.comisiones || [];
+
+                    const partidoCodigo = dip.partido?.codigo || 'default';
+                    let partidoNombre = dip.partido?.codigo || 'S/P';
+                    if (partidoNombre === 'default' || partidoNombre === 'sp') partidoNombre = 'S/P';
+
+                    return (
+                      <div key={`${dip.id || index}-${dip.nombre}`} className="diputado-card">
+                        {fotoUrl && (
+                          <div className="diputado-foto">
+                            <img
+                              src={fotoUrl}
+                              alt={`Foto de ${dip.nombre}`}
+                              loading="lazy"
+                            />
+                          </div>
+                        )}
+                        <h3>
+                          {dip.nombre}
+                          <span className={`party-tag ${partidoCodigo.toLowerCase()}`}>
+                            {partidoNombre.toUpperCase()}
+                          </span>
+                        </h3>
+                        {tipoEleccion && (
+                          <p className="tipo-eleccion">
+                            <strong>Tipo:</strong> {tipoEleccion}
+                          </p>
+                        )}
+                        <p>
+                          <strong>Entidad:</strong> {entidad} | <strong>Distrito:</strong> {distrito}
+                        </p>
+                        <p>
+                          <strong>Circuito:</strong> {circuito}
+                        </p>
+                        {fechaNacimiento && (
+                          <p>
+                            <strong>Fecha de nacimiento:</strong> {fechaNacimiento}
+                          </p>
+                        )}
+                        <p>
+                          <strong>Email:</strong> {email}
+                        </p>
+                        <p>
+                          <strong>Teléfono:</strong> 55 5036 0000 | <strong>Ext:</strong> {extension}
+                        </p>
+                        {suplente !== 'N/A' && (
+                          <p>
+                            <strong>Suplente:</strong> {suplente}
+                          </p>
+                        )}
+                        {comisiones.length > 0 && (
+                          <div className="comisiones-section">
+                            <strong>Comisiones ({comisiones.length}):</strong>
+                            <ul className="comisiones-list">
+                              {comisiones.map((com, idx) => (
+                                <li key={idx}>
+                                  {com.nombre} {com.cargo && <em>({com.cargo})</em>}
+                                </li>
+                              ))}
+                            </ul>
+                          </div>
+                        )}
+                      </div>
+                    );
+                  })}
                 </div>
-              )}
-            </div>
-          );
-        })}
+              </>
+            )}
+          </main>
+        </div>
       </div>
     </>
   );

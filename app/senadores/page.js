@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import Link from 'next/link';
 
 export default function SenadoresPage() {
   const [senadores, setSenadores] = useState([]);
@@ -9,61 +10,24 @@ export default function SenadoresPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  const coloresPartidos = {
-    'MORENA': '#a02c2c',
-    'PAN': '#0033a0',
-    'PRI': '#006642',
-    'MC': '#ff7f00',
-    'PVEM': '#84c44c',
-    'PT': '#d40000',
-    'PRD': '#ffde00',
-    'PES': '#663399',
-    'SGP': '#808080'
-  };
-
-  // Cargar XML al montar el componente
+  // Cargar JSON al montar el componente
   useEffect(() => {
-    const urlXmlLocal = '/data/directorioSenadores.xml';
+    const urlJsonLocal = '/data/directorioSenadores.json';
 
-    fetch(urlXmlLocal)
+    fetch(urlJsonLocal)
       .then(response => {
         if (!response.ok) throw new Error(`Error: ${response.statusText}`);
-        return response.text();
+        return response.json();
       })
-      .then(data => {
-        const parser = new DOMParser();
-        const xmlDoc = parser.parseFromString(data, 'application/xml');
-
-        console.log('Documento XML parseado:', xmlDoc);
-
-        const senadoresNodes = xmlDoc.getElementsByTagName('datos');
-        console.log('Total de senadores encontrados en el XML:', senadoresNodes.length);
-
-        const getText = (node, tagName) =>
-          node.getElementsByTagName(tagName)[0]?.textContent || 'No disponible';
-
-        const senadoresData = [];
-        for (let node of senadoresNodes) {
-          senadoresData.push({
-            nombre: getText(node, 'nombre'),
-            partido: getText(node, 'fraccion'),
-            entidad: getText(node, 'estado'),
-            tipoEleccion: getText(node, 'tipoEleccion'),
-            rolComision: getText(node, 'rolComision'),
-            email: getText(node, 'correo'),
-            telefono: getText(node, 'telefono'),
-            extension: getText(node, 'extencion'),
-            suplente: getText(node, 'suplente')
-          });
-        }
-
+      .then(senadoresData => {
+        console.log('Total de senadores encontrados:', senadoresData.length);
         setSenadores(senadoresData);
         setFilteredSenadores(senadoresData);
         setLoading(false);
       })
       .catch(error => {
-        console.error('Error al cargar el archivo XML local:', error);
-        setError('No se pudo cargar el archivo XML local. Asegúrate de que el archivo se llame directorioSenadores.xml y esté en /data/');
+        console.error('Error al cargar el archivo JSON:', error);
+        setError('No se pudo cargar el directorio de senadores. Por favor, intenta nuevamente más tarde.');
         setLoading(false);
       });
   }, []);
@@ -80,11 +44,9 @@ export default function SenadoresPage() {
       return (
         senador.nombre.toLowerCase().includes(query) ||
         senador.partido.toLowerCase().includes(query) ||
-        senador.entidad.toLowerCase().includes(query) ||
-        senador.tipoEleccion.toLowerCase().includes(query) ||
-        senador.rolComision.toLowerCase().includes(query) ||
-        senador.email.toLowerCase().includes(query) ||
-        senador.suplente.toLowerCase().includes(query)
+        senador.estado.toLowerCase().includes(query) ||
+        senador.correo.toLowerCase().includes(query) ||
+        senador.extension.toLowerCase().includes(query)
       );
     });
 
@@ -111,6 +73,7 @@ export default function SenadoresPage() {
           text-align: center;
           padding: 40px 20px;
           color: white;
+          position: relative;
         }
 
         header h1 {
@@ -123,6 +86,30 @@ export default function SenadoresPage() {
           font-size: 1.1rem;
           margin: 0;
           opacity: 0.9;
+        }
+
+        .home-btn {
+          position: absolute;
+          top: 1rem;
+          left: 1rem;
+          background: rgba(255, 255, 255, 0.2);
+          color: white;
+          border: 2px solid rgba(255, 255, 255, 0.3);
+          padding: 0.5rem 1rem;
+          border-radius: 8px;
+          font-weight: 600;
+          cursor: pointer;
+          transition: all 0.3s ease;
+          text-decoration: none;
+          display: inline-flex;
+          align-items: center;
+          gap: 0.5rem;
+        }
+
+        .home-btn:hover {
+          background: rgba(255, 255, 255, 0.3);
+          border-color: rgba(255, 255, 255, 0.5);
+          transform: translateY(-2px);
         }
 
         .search-box {
@@ -216,10 +203,31 @@ export default function SenadoresPage() {
           padding: 40px;
           font-size: 1.1rem;
         }
+
+        .partido-pan { background-color: #0033a0; color: white; }
+        .partido-pri {
+          background: linear-gradient(to right, #006847 33%, #ffffff 33%, #ffffff 66%, #ce1126 66%);
+          color: #000;
+        }
+        .partido-prd { background-color: #ffd400; color: #333; }
+        .partido-pvem,
+        .partido-verde { background-color: #54a53b; color: white; }
+        .partido-pt {
+          background: linear-gradient(135deg, #da251d 50%, #ffd700 50%);
+          color: white;
+        }
+        .partido-mc { background-color: #ff8000; color: white; }
+        .partido-movimiento-ciudadano { background-color: #ff8000; color: white; }
+        .partido-morena { background-color: #a0204c; color: white; }
+        .partido-sg { background-color: #6c757d; color: white; }
       `}</style>
 
       <div className="container">
         <header>
+          <Link href="/" className="home-btn">
+            <span>←</span>
+            <span>Inicio</span>
+          </Link>
           <h1>Directorio de Senadores de México</h1>
           <p>Busca información detallada por nombre, partido, estado, comisión y más.</p>
         </header>
@@ -243,24 +251,20 @@ export default function SenadoresPage() {
               <div className="no-results">No se encontraron senadores que coincidan con tu búsqueda.</div>
             )}
 
-            {!loading && !error && filteredSenadores.map((senador, index) => {
-              const colorFondo = coloresPartidos[senador.partido] || '#6c757d';
-              const colorTexto = senador.partido === 'PRD' ? '#000000' : '#FFFFFF';
+            {!loading && !error && filteredSenadores.map((senador) => {
+              const partidoClass = `partido-badge partido-${senador.partido.toLowerCase().replace(/\s+/g, '-')}`;
 
               return (
-                <div key={`${index}-${senador.nombre}`} className="result-card">
+                <div key={senador.numero} className="result-card">
                   <h3>{senador.nombre}</h3>
                   <div className="partido-info">
-                    <span
-                      className="partido-badge"
-                      style={{ backgroundColor: colorFondo, color: colorTexto }}
-                    >
+                    <span className={partidoClass}>
                       {senador.partido}
                     </span>
-                    <strong>{senador.entidad}</strong>
+                    <strong>{senador.estado}</strong>
                   </div>
                   <p>
-                    <strong>Email:</strong> {senador.email}
+                    <strong>Email:</strong> {senador.correo}
                   </p>
                   <p>
                     <strong>Teléfono:</strong> {senador.telefono}

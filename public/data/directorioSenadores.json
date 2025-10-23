@@ -1,0 +1,1154 @@
+[
+  {
+    "numero": 1,
+    "nombre": "Heriberto Marcelo Aguilar Castillo",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3245 y 3915",
+    "correo": "heriberto.aguilar@senado.gob.mx",
+    "estado": "Sonora"
+  },
+  {
+    "numero": 2,
+    "nombre": "José Antonio Cruz Álvarez Lima",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3144, 5562, 3465 y 5951",
+    "correo": "alvarez.lima@senado.gob.mx",
+    "estado": "Tlaxcala"
+  },
+  {
+    "numero": 3,
+    "nombre": "Ricardo Anaya Cortés",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "4079 y 3323",
+    "correo": "ricardo.anaya@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 4,
+    "nombre": "Alberto Anaya Gutiérrez",
+    "partido": "PT",
+    "telefono": "55 5345 3000",
+    "extension": "4112",
+    "correo": "alberto.anaya@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 5,
+    "nombre": "Claudia Edith Anaya Mota",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "5303 y 3184",
+    "correo": "claudia.anaya@senado.gob.mx",
+    "estado": "Zacatecas"
+  },
+  {
+    "numero": 6,
+    "nombre": "Pablo Guillermo Angulo Briceño",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "3901",
+    "correo": "pablo.angulo@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 7,
+    "nombre": "Manuel Añorve Baños",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "5910, 3768",
+    "correo": "manuel.anorve@senado.gob.mx",
+    "estado": "Guerrero"
+  },
+  {
+    "numero": 8,
+    "nombre": "Alejandra Berenice Arias Trevilla",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3340, 5141, 2978 y 3448",
+    "correo": "alejandra.arias@senado.gob.mx",
+    "estado": "Tabasco"
+  },
+  {
+    "numero": 9,
+    "nombre": "Reyna Celeste Ascencio Ortega",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "4211",
+    "correo": "reyna.ascencio@senado.gob.mx",
+    "estado": "Michoacán de Ocampo"
+  },
+  {
+    "numero": 10,
+    "nombre": "Anabell Ávalos Zempoalteca",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "3588, 5913 y 3141",
+    "correo": "anabell.avalos@senado.gob.mx",
+    "estado": "Tlaxcala"
+  },
+  {
+    "numero": 11,
+    "nombre": "Armando Ayala Robles",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3593, 3598 y 3595",
+    "correo": "armando.ayala@senado.gob.mx",
+    "estado": "Baja California"
+  },
+  {
+    "numero": 12,
+    "nombre": "Geovanna Bañuelos De La Torre",
+    "partido": "PT",
+    "telefono": "55 5345 3000",
+    "extension": "3088, 382 y 3570",
+    "correo": "geovanna.banuelos@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 13,
+    "nombre": "Alejandra Barrales Magdaleno",
+    "partido": "Movimiento Ciudadano",
+    "telefono": "55 5345 3000",
+    "extension": "3327",
+    "correo": "alejandra.barrales@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 14,
+    "nombre": "Francisco Daniel Barreda Pavón",
+    "partido": "Movimiento Ciudadano",
+    "telefono": "55 5345 3000",
+    "extension": "5446, 5565 y 5444",
+    "correo": "francisco.barreda@senado.gob.mx, o.francisco.barreda@senado.gob.mx",
+    "estado": "Campeche"
+  },
+  {
+    "numero": 15,
+    "nombre": "Raymundo Bolaños Azocar",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3806 y 3459",
+    "correo": "raymundo.bolanos@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 16,
+    "nombre": "Raquel Bonilla Herrera",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3332 y 5602",
+    "correo": "raquel.bonilla@senado.gob.mx",
+    "estado": "Veracruz de Ignacio de la Llave"
+  },
+  {
+    "numero": 17,
+    "nombre": "Jasmine María Bugarín",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "5820",
+    "correo": "o.jasmine.bugarin@senado.gob.mx",
+    "estado": "Nayarit"
+  },
+  {
+    "numero": 18,
+    "nombre": "Néstor Camarillo Medina",
+    "partido": "Movimiento Ciudadano",
+    "telefono": "55 5345 3000",
+    "extension": "5442 y 3028",
+    "correo": "nestor.camarillo@senado.gob.mx",
+    "estado": "Puebla"
+  },
+  {
+    "numero": 19,
+    "nombre": "Verónica Noemí Camino Farjat",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3293",
+    "correo": "veronica.camino@senado.gob.mx",
+    "estado": "Yucatán"
+  },
+  {
+    "numero": 20,
+    "nombre": "Gina Gerardina Campuzano González",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3031 y 3032",
+    "correo": "gina.campuzano@senado.gob.mx",
+    "estado": "Durango"
+  },
+  {
+    "numero": 21,
+    "nombre": "Óscar Cantón Zetina",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3194 y 5915",
+    "correo": "oscar.canton@senado.gob.mx",
+    "estado": "Tabasco"
+  },
+  {
+    "numero": 22,
+    "nombre": "Clemente Castañeda Hoeflich",
+    "partido": "Movimiento Ciudadano",
+    "telefono": "55 5345 3000",
+    "extension": "5131 y 3674",
+    "correo": "clemente.castaneda@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 23,
+    "nombre": "Laura Itzel Castillo Juárez",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "5390 y 5216",
+    "correo": "o.laura.castillo@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 24,
+    "nombre": "Karen Castrejón Trujillo",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "3424",
+    "correo": "karen.castrejon@senado.gob.mx",
+    "estado": "Ciudad de México"
+  },
+  {
+    "numero": 25,
+    "nombre": "Imelda Castro Castro",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3433 y 5921",
+    "correo": "imelda.castro@senado.gob.mx",
+    "estado": "Sinaloa"
+  },
+  {
+    "numero": 26,
+    "nombre": "Alfonso Cepeda Salas",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3013 y 5597",
+    "correo": "alfonso.cepeda@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 27,
+    "nombre": "Andrea Chávez Treviño",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "5463 y 3281",
+    "correo": "andrea.chavez@senado.gob.mx",
+    "estado": "Chihuahua"
+  },
+  {
+    "numero": 28,
+    "nombre": "María Guadalupe Chavira De La Rosa",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "4115, 4116 y 3563",
+    "correo": "Sin Informacion",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 29,
+    "nombre": "Francisco Chíguil Figueroa",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "4081",
+    "correo": "francisco.chiguil@senado.gob.mx",
+    "estado": "Ciudad de México"
+  },
+  {
+    "numero": 30,
+    "nombre": "Luis Donaldo Colosio Riojas",
+    "partido": "Movimiento Ciudadano",
+    "telefono": "55 5345 3000",
+    "extension": "5214, 5036 y 3096",
+    "correo": "luis.colosio@senado.gob.mx",
+    "estado": "Nuevo León"
+  },
+  {
+    "numero": 31,
+    "nombre": "María del Rocío Corona Nakamura",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "3970, 5499 y 2170.",
+    "correo": "rocio.corona@senado.gob.mx",
+    "estado": "Jalisco"
+  },
+  {
+    "numero": 32,
+    "nombre": "Javier Corral Jurado",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3519 y 3392",
+    "correo": "javier.corralj@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 33,
+    "nombre": "Luisa Cortés García",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "5311, 5434 y 3649",
+    "correo": "luisa.cortes@senado.gob.mx",
+    "estado": "Oaxaca"
+  },
+  {
+    "numero": 34,
+    "nombre": "Marko Cortés Mendoza",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3251",
+    "correo": "o.marko.cortes@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 35,
+    "nombre": "José Manuel Cruz Castellanos",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3628 y 5064",
+    "correo": "jose.cruzc@senado.gob.mx",
+    "estado": "Chiapas"
+  },
+  {
+    "numero": 36,
+    "nombre": "Homero Davis Castro",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3224 y 3940",
+    "correo": "o.homero.davis@senado.gob.mx",
+    "estado": "Baja California Sur"
+  },
+  {
+    "numero": 37,
+    "nombre": "Sasil De León Villard",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3553",
+    "correo": "sasil.deleon@senado.gob.mx",
+    "estado": "Chiapas"
+  },
+  {
+    "numero": 38,
+    "nombre": "Blanca Judith Díaz Delgado",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3133 y 3110",
+    "correo": "blanca.diaz@senado.gob.mx",
+    "estado": "Nuevo León"
+  },
+  {
+    "numero": 39,
+    "nombre": "María de Jesús Díaz Marmolejo",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "5389 y 5072",
+    "correo": "maria.diazm@senado.gob.mx",
+    "estado": "Aguascalientes"
+  },
+  {
+    "numero": 40,
+    "nombre": "Verónica Díaz Robles",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "5365 y 5802",
+    "correo": "veronica.diaz@senado.gob.mx",
+    "estado": "Zacatecas"
+  },
+  {
+    "numero": 41,
+    "nombre": "Agustín Dorantes Lámbarri",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3484",
+    "correo": "agustin.dorantes@senado.gob.mx",
+    "estado": "Querétaro"
+  },
+  {
+    "numero": 42,
+    "nombre": "Alejandro Esquer Verdugo",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3254 y 5160",
+    "correo": "o.alejandro.esquer@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 43,
+    "nombre": "Laura Esquivel Torres",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3395 y 5173",
+    "correo": "laura.esquivel@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 44,
+    "nombre": "Laura Estrada Mauro",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3648",
+    "correo": "laura.estradam@senado.gob.mx",
+    "estado": "Oaxaca"
+  },
+  {
+    "numero": 45,
+    "nombre": "Sandra Luz Falcón Venegas",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "5377",
+    "correo": "sandra.falcon@senado.gob.mx",
+    "estado": "Estado de México"
+  },
+  {
+    "numero": 46,
+    "nombre": "Waldo Fernández González",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "3053 y 5140",
+    "correo": "waldo.fernandez@senado.gob.mx",
+    "estado": "Nuevo León"
+  },
+  {
+    "numero": 47,
+    "nombre": "Gerardo Fernández Noroña",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3273, 4051 y 5289",
+    "correo": "gerardo.norona@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 48,
+    "nombre": "Amalia Dolores García Medina",
+    "partido": "Movimiento Ciudadano",
+    "telefono": "55 5345 3000",
+    "extension": "5352",
+    "correo": "amalia.garcia@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 49,
+    "nombre": "Ángel García Yáñez",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "3605, 3836, 3320 y 3586",
+    "correo": "angel.garcia@senado.gob.mx",
+    "estado": "Morelos"
+  },
+  {
+    "numero": 50,
+    "nombre": "José Ramón Gómez Leal",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "5199",
+    "correo": "jose.gomezle@senado.gob.mx",
+    "estado": "Tamaulipas"
+  },
+  {
+    "numero": 51,
+    "nombre": "Alma Anahí González Hernández",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3257, 4128, 5877 y 5075",
+    "correo": "anahi.gonzalez@senado.gob.mx",
+    "estado": "Quintana Roo"
+  },
+  {
+    "numero": 52,
+    "nombre": "Michel González Márquez",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3409, 3666 y 4167",
+    "correo": "michel.gonzalez@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 53,
+    "nombre": "Ruth González Silva",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "5250 y 3808",
+    "correo": "ruth.gonzalez@senado.gob.mx",
+    "estado": "San Luis Potosí"
+  },
+  {
+    "numero": 54,
+    "nombre": "Alejandro González Yáñez",
+    "partido": "PT",
+    "telefono": "55 5345 3000",
+    "extension": "4143 y 3026",
+    "correo": "alejandro.gonzalezy@senado.gob.mx",
+    "estado": "Durango"
+  },
+  {
+    "numero": 55,
+    "nombre": "Cecilia Guadalupe Guadiana Mandujano",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "2373 y 5346",
+    "correo": "cecilia.guadiana@senado.gob.mx",
+    "estado": "Coahuila de Zaragoza"
+  },
+  {
+    "numero": 56,
+    "nombre": "Juanita Guerra Mena",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "5156 y 3302",
+    "correo": "juanita.guerra@senado.gob.mx",
+    "estado": "Morelos"
+  },
+  {
+    "numero": 57,
+    "nombre": "Mariela Gutiérrez Escalante",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3657",
+    "correo": "o.mariela.gutierrez@senado.gob.mx",
+    "estado": "Estado de México"
+  },
+  {
+    "numero": 58,
+    "nombre": "Susana Harp Iturribarría",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3272",
+    "correo": "susanaharp@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 59,
+    "nombre": "Ana Karen Hernández Aceves",
+    "partido": "PT",
+    "telefono": "55 5345 3000",
+    "extension": "5545, 3084 y 5177",
+    "correo": "ana.hernandeza@senado.gob.mx",
+    "estado": "Colima"
+  },
+  {
+    "numero": 60,
+    "nombre": "Gilberto Hernández Villafuerte",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "5053, 3061 y 5157",
+    "correo": "gilberto.hernandez@senado.gob.mx",
+    "estado": "San Luis Potosí"
+  },
+  {
+    "numero": 61,
+    "nombre": "José Sabino Herrera Dagdug",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3520 y 3660",
+    "correo": "jose.herrerad@senado.gob.mx",
+    "estado": "Tabasco"
+  },
+  {
+    "numero": 62,
+    "nombre": "Manuel Huerta Ladrón de Guevara",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3169, 3762 y 3763",
+    "correo": "manuel.huerta@senado.gob.mx",
+    "estado": "Veracruz de Ignacio de la Llave"
+  },
+  {
+    "numero": 63,
+    "nombre": "Enrique Inzunza Cázarez",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3204",
+    "correo": "enrique.inzunza@senado.gob.mx",
+    "estado": "Sinaloa"
+  },
+  {
+    "numero": 64,
+    "nombre": "Erik Iván Jaimes Archundia",
+    "partido": "SG",
+    "telefono": "55 5345 3000",
+    "extension": "Sin Informacion",
+    "correo": "Sin Informacion",
+    "estado": "Sonora"
+  },
+  {
+    "numero": 65,
+    "nombre": "Miguel Pavel Jarero Velázquez",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "5113, 3183 y 3159",
+    "correo": "miguel.jarero@senado.gob.mx",
+    "estado": "Nayarit"
+  },
+  {
+    "numero": 66,
+    "nombre": "María Martina Kantún Can",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "5204, 3345 y 5286",
+    "correo": "maria.kantun@senado.gob.mx",
+    "estado": "Campeche"
+  },
+  {
+    "numero": 67,
+    "nombre": "Juan Carlos Loera de la Rosa",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3284, 5304 y 4107",
+    "correo": "o.juan.loera@senado.gob.mx",
+    "estado": "Chihuahua"
+  },
+  {
+    "numero": 68,
+    "nombre": "Carlos Lomelí Bolaños",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "5116 y 3922",
+    "correo": "carlos.lomeli@senado.gob.mx",
+    "estado": "Jalisco"
+  },
+  {
+    "numero": 69,
+    "nombre": "Cynthia Iliana López Castro",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3992",
+    "correo": "cynthialopezcastro@senado.gob.mx",
+    "estado": "Ciudad de México"
+  },
+  {
+    "numero": 70,
+    "nombre": "Edith López Hernández",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3407 y 5995",
+    "correo": "edith.lopez@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 71,
+    "nombre": "Adán Augusto López Hernández",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3120, 2206 y 5959",
+    "correo": "adan.lopez@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 72,
+    "nombre": "Virginia Magaña Fonseca",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "4043, 3131 y 5422",
+    "correo": "virginia.magana@senado.gob.mx",
+    "estado": "Guanajuato"
+  },
+  {
+    "numero": 73,
+    "nombre": "Miguel Márquez Márquez",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3029",
+    "correo": "miguel.marquez@senado.gob.mx",
+    "estado": "Guanajuato"
+  },
+  {
+    "numero": 74,
+    "nombre": "Juan Antonio Martín del Campo Martín del Campo",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3179 y 5857",
+    "correo": "martindelcampo@senado.gob.mx",
+    "estado": "Aguascalientes"
+  },
+  {
+    "numero": 75,
+    "nombre": "Mayuli Latifa Martínez Simón",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "5397, 3533 y 3216",
+    "correo": "oficina.mayuli.martinez@senado.gob.mx",
+    "estado": "Quintana Roo"
+  },
+  {
+    "numero": 76,
+    "nombre": "Luis Armando Melgar Bravo",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "5330 y 5938",
+    "correo": "luis.melgar@senado.gob.mx",
+    "estado": "Chiapas"
+  },
+  {
+    "numero": 77,
+    "nombre": "Virgilio Mendoza Amezcua",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "3658, 5310 y 5390",
+    "correo": "virgilio.mendoza@senado.gob.mx",
+    "estado": "Colima"
+  },
+  {
+    "numero": 78,
+    "nombre": "Víctor Mercado Salgado",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3978, 2993 y 3359",
+    "correo": "victor.mercado@senado.gob.mx",
+    "estado": "Morelos"
+  },
+  {
+    "numero": 79,
+    "nombre": "Martha Lucía Micher Camarena",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3278 y 5144",
+    "correo": "malu.micher@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 80,
+    "nombre": "Ignacio Mier Velazco",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3063",
+    "correo": "ignacio.mier@senado.gob.mx",
+    "estado": "Puebla"
+  },
+  {
+    "numero": 81,
+    "nombre": "Beatriz Mojica Morga",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "2980, 2979 y 5827",
+    "correo": "beatriz.mojica@senado.gob.mx",
+    "estado": "Guerrero"
+  },
+  {
+    "numero": 82,
+    "nombre": "Saúl Monreal Ávila",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3482, 5816 y 5398",
+    "correo": "saul.monreal@senado.gob.mx",
+    "estado": "Zacatecas"
+  },
+  {
+    "numero": 83,
+    "nombre": "Antonino Morales Toledo",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "5906 y 5960",
+    "correo": "antonino.morales@senado.gob.mx",
+    "estado": "Oaxaca"
+  },
+  {
+    "numero": 84,
+    "nombre": "Alejandro Moreno Cárdenas",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "5592 y 3576",
+    "correo": "alejandro.moreno@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 85,
+    "nombre": "Raúl Morón Orozco",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3199 y 5340",
+    "correo": "raul.moron@senado.gob.mx",
+    "estado": "Michoacán de Ocampo"
+  },
+  {
+    "numero": 86,
+    "nombre": "Alejandro Murat Hinojosa",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3036",
+    "correo": "alejandro.murat@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 87,
+    "nombre": "María Guadalupe Murguía Gutiérrez",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3094",
+    "correo": "maria.murguia@senado.gob.mx",
+    "estado": "Querétaro"
+  },
+  {
+    "numero": 88,
+    "nombre": "Cuauhtémoc Ochoa Fernández",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3072 y 5226",
+    "correo": "cuauhtemoc.ochoa@senado.gob.mx",
+    "estado": "Hidalgo"
+  },
+  {
+    "numero": 89,
+    "nombre": "Simey Olvera Bautista",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3473 y 5934",
+    "correo": "simey.olvera@senado.gob.mx",
+    "estado": "Hidalgo"
+  },
+  {
+    "numero": 90,
+    "nombre": "Maki Esther Ortiz Domínguez",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "5335, 5496 y 3440",
+    "correo": "maki.ortiz@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 91,
+    "nombre": "Aníbal Ostoa Ortega",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "4509 y 3549",
+    "correo": "anibal.ostoa@senado.gob.mx",
+    "estado": "Campeche"
+  },
+  {
+    "numero": 92,
+    "nombre": "Yeidckol Polevnsky Gurwitz",
+    "partido": "PT",
+    "telefono": "55 5345 3000",
+    "extension": "3378 y 3213",
+    "correo": "yeidckol.polevnsky@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 93,
+    "nombre": "Francisco Javier Ramírez Acuña",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3012, 5569, 5441 y 3508",
+    "correo": "francisco.ramireza@senado.gob.mx",
+    "estado": "Jalisco"
+  },
+  {
+    "numero": 94,
+    "nombre": "Jorge Carlos Ramírez Marín",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "5448 y 3505",
+    "correo": "jcarlos.ramirez@senado.gob.mx",
+    "estado": "Yucatán"
+  },
+  {
+    "numero": 95,
+    "nombre": "Julieta Ramírez Padilla",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3597",
+    "correo": "julieta.ramirez@senado.gob.mx",
+    "estado": "Baja California"
+  },
+  {
+    "numero": 96,
+    "nombre": "Emmanuel Reyes Carmona",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3404, 3167, 5532 y 3037",
+    "correo": "emmanuel.reyes@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 97,
+    "nombre": "Ivideliza Reyes Hernández",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3019, 3020, 5801 y 5905",
+    "correo": "ivideliza.reyes@senado.gob.mx",
+    "estado": "Nayarit"
+  },
+  {
+    "numero": 98,
+    "nombre": "Miguel Ángel Riquelme Solís",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "5012, 5048 y 3490",
+    "correo": "miguel.riquelme@senado.gob.mx",
+    "estado": "Coahuila de Zaragoza"
+  },
+  {
+    "numero": 99,
+    "nombre": "Ana Lilia Rivera Rivera",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3260, 3342 y 5487",
+    "correo": "oficina.ana.lilia.rivera@senado.gob.mx",
+    "estado": "Tlaxcala"
+  },
+  {
+    "numero": 100,
+    "nombre": "Beatriz Silvia Robles Gutiérrez",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "5267, 3134 y 4213",
+    "correo": "beatriz.robles@senado.gob.mx",
+    "estado": "Querétaro"
+  },
+  {
+    "numero": 101,
+    "nombre": "Verónica Rodríguez Hernández",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3022 y 5245",
+    "correo": "veronica.rodriguez@senado.gob.mx",
+    "estado": "San Luis Potosí"
+  },
+  {
+    "numero": 102,
+    "nombre": "Mely Romero Celis",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "3583 y 3501",
+    "correo": "mely.romero@senado.gob.mx",
+    "estado": "Colima"
+  },
+  {
+    "numero": 103,
+    "nombre": "Karina Isabel Ruiz Ruiz",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3059, 3058 y 3057",
+    "correo": "karina.ruiz@senado.gob.mx, o.karina.ruiz@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 104,
+    "nombre": "Cristina Ruíz Sandoval",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "5273, 4127 y 3045",
+    "correo": "cristina.ruiz@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 105,
+    "nombre": "Nora Ruvalcaba Gámez",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3198 y 3171",
+    "correo": "nora.ruvalcaba@senado.gob.mx",
+    "estado": "Aguascalientes"
+  },
+  {
+    "numero": 106,
+    "nombre": "Luis Fernando Salazar Fernández",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3123 y 3554",
+    "correo": "luis.salazar@senado.gob.mx",
+    "estado": "Coahuila de Zaragoza"
+  },
+  {
+    "numero": 107,
+    "nombre": "J. Félix Salgado Macedonio",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3118, 3416 y 5392",
+    "correo": "jfelix.salgado@senado.gob.mx",
+    "estado": "Guerrero"
+  },
+  {
+    "numero": 108,
+    "nombre": "Lizeth Sánchez García",
+    "partido": "PT",
+    "telefono": "55 5345 3000",
+    "extension": "5020 y 5108",
+    "correo": "liz.sanchez@senado.gob.mx",
+    "estado": "Puebla"
+  },
+  {
+    "numero": 109,
+    "nombre": "Paloma Sánchez Ramos",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "3166 y 3565",
+    "correo": "paloma.sanchez@senado.gob.mx",
+    "estado": "Sinaloa"
+  },
+  {
+    "numero": 110,
+    "nombre": "Gustavo Sánchez Vásquez",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "5175 y 3261",
+    "correo": "gustavo.sanchez@senado.gob.mx",
+    "estado": "Baja California"
+  },
+  {
+    "numero": 111,
+    "nombre": "Imelda Sanmiguel Sánchez",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "5986, 2154 y 5983",
+    "correo": "imelda.sanmiguel@senado.gob.mx",
+    "estado": "Tamaulipas"
+  },
+  {
+    "numero": 112,
+    "nombre": "Araceli Saucedo Reyes",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3813 y 3343",
+    "correo": "araceli.saucedo@senado.gob.mx",
+    "estado": "Michoacán de Ocampo"
+  },
+  {
+    "numero": 113,
+    "nombre": "Eugenio Segura Vázquez",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3698, 3643 y 3253",
+    "correo": "eugenio.segura@senado.gob.mx",
+    "estado": "Quintana Roo"
+  },
+  {
+    "numero": 114,
+    "nombre": "Francisco Ricardo Sheffield Padilla",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3470",
+    "correo": "ricardo.sheffield@senado.gob.mx",
+    "estado": "Guanajuato"
+  },
+  {
+    "numero": 115,
+    "nombre": "Luis Alfonso Silva Romo",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "3670, 3054 y 5476",
+    "correo": "luis.silva@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 116,
+    "nombre": "Olga Patricia Sosa Ruíz",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3150 y 3196",
+    "correo": "olga.sosa@senado.gob.mx",
+    "estado": "Tamaulipas"
+  },
+  {
+    "numero": 117,
+    "nombre": "Lilly Téllez",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3388",
+    "correo": "lilly.tellez@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 118,
+    "nombre": "Karla Guadalupe Toledo Zamora",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "3534 y 3087",
+    "correo": "karla.toledo@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 119,
+    "nombre": "Jesús Lucía Trasviña Waldenrath",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "5523, 3191, 2377 y 3151",
+    "correo": "lucia.trasvina@senado.gob.mx",
+    "estado": "Baja California Sur"
+  },
+  {
+    "numero": 120,
+    "nombre": "Lilia Margarita Valdez Martínez",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "Sin Informacion",
+    "correo": "lilia.valdez@senado.gob.mx",
+    "estado": "Durango"
+  },
+  {
+    "numero": 121,
+    "nombre": "Lorenia Iveth Valles Sampedro",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3349 y 3902",
+    "correo": "lorenia.valles@senado.gob.mx",
+    "estado": "Sonora"
+  },
+  {
+    "numero": 122,
+    "nombre": "Enrique Vargas Del Villar",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3699 y 3527",
+    "correo": "enrique.vargas@senado.gob.mx",
+    "estado": "Estado de México"
+  },
+  {
+    "numero": 123,
+    "nombre": "Mario Humberto Vázquez Robles",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3217",
+    "correo": "mario.vazquezr@senado.gob.mx",
+    "estado": "Chihuahua"
+  },
+  {
+    "numero": 124,
+    "nombre": "Manuel Velasco Coello",
+    "partido": "PVEM",
+    "telefono": "55 5345 3000",
+    "extension": "3078",
+    "correo": "manuel.velasco@senado.gob.mx",
+    "estado": "Lista Nacional"
+  },
+  {
+    "numero": 125,
+    "nombre": "Carolina Viggiano Austria",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "3954 y 3481",
+    "correo": "o.alma.viggiano@senado.gob.mx",
+    "estado": "Hidalgo"
+  },
+  {
+    "numero": 126,
+    "nombre": "Miguel Ángel Yunes Márquez",
+    "partido": "morena",
+    "telefono": "55 5345 3000",
+    "extension": "3138, 5210 y 4137",
+    "correo": "miguel.yunes@senado.gob.mx",
+    "estado": "Veracruz de Ignacio de la Llave"
+  },
+  {
+    "numero": 127,
+    "nombre": "Rolando Rodrigo Zapata Bello",
+    "partido": "PRI",
+    "telefono": "55 5345 3000",
+    "extension": "4183",
+    "correo": "rolando.zapata@senado.gob.mx",
+    "estado": "Yucatán"
+  },
+  {
+    "numero": 128,
+    "nombre": "Susana Zatarain García",
+    "partido": "PAN",
+    "telefono": "55 5345 3000",
+    "extension": "3106 y 5549",
+    "correo": "susana.zatarain@senado.gob.mx",
+    "estado": "Baja California Sur"
+  }
+]
