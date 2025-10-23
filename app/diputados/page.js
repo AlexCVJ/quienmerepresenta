@@ -9,6 +9,12 @@ export default function DiputadosPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
+  // Estados para filtros
+  const [selectedPartidos, setSelectedPartidos] = useState([]);
+  const [selectedEntidad, setSelectedEntidad] = useState('');
+  const [selectedTipoEleccion, setSelectedTipoEleccion] = useState([]);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
+
   // Función de ayuda para normalizar texto (sin acentos)
   const normalizarTexto = (texto) => {
     if (!texto) return '';
@@ -43,69 +49,278 @@ export default function DiputadosPage() {
       });
   }, []);
 
-  // Manejar búsqueda
+  // Obtener listas únicas para filtros
+  const entidadesUnicas = [...new Set(diputados.map(d => d.entidad))].filter(Boolean).sort();
+  const partidosUnicos = [...new Set(diputados.map(d => d.partido?.codigo))].filter(Boolean).sort();
+  const tiposEleccionUnicos = [...new Set(diputados.map(d => d.tipo_eleccion))].filter(Boolean).sort();
+
+  // Manejar búsqueda y filtros
   useEffect(() => {
-    if (!searchTerm.trim()) {
-      setFilteredDiputados(diputados);
-      return;
+    let filtrados = [...diputados];
+
+    // Filtro por búsqueda
+    if (searchTerm.trim()) {
+      const busquedaNormalizada = normalizarTexto(searchTerm);
+      filtrados = filtrados.filter((dip) => {
+        const nombreNorm = normalizarTexto(dip.nombre);
+        const entidadNorm = normalizarTexto(dip.entidad);
+        const distritoNorm = normalizarTexto(dip.distrito);
+        const partidoNorm = normalizarTexto(dip.partido?.codigo);
+        const emailNorm = normalizarTexto(dip.email);
+        const circuitoNorm = normalizarTexto(dip.circuito);
+
+        return (
+          nombreNorm.includes(busquedaNormalizada) ||
+          entidadNorm.includes(busquedaNormalizada) ||
+          distritoNorm.includes(busquedaNormalizada) ||
+          partidoNorm.includes(busquedaNormalizada) ||
+          emailNorm.includes(busquedaNormalizada) ||
+          circuitoNorm.includes(busquedaNormalizada)
+        );
+      });
     }
 
-    const busquedaNormalizada = normalizarTexto(searchTerm);
-
-    const filtrados = diputados.filter((dip) => {
-      const nombreNorm = normalizarTexto(dip.nombre);
-      const entidadNorm = normalizarTexto(dip.entidad);
-      const distritoNorm = normalizarTexto(dip.distrito);
-      const partidoNorm = normalizarTexto(dip.partido?.codigo);
-      const emailNorm = normalizarTexto(dip.email);
-      const circuitoNorm = normalizarTexto(dip.circuito);
-
-      return (
-        nombreNorm.includes(busquedaNormalizada) ||
-        entidadNorm.includes(busquedaNormalizada) ||
-        distritoNorm.includes(busquedaNormalizada) ||
-        partidoNorm.includes(busquedaNormalizada) ||
-        emailNorm.includes(busquedaNormalizada) ||
-        circuitoNorm.includes(busquedaNormalizada)
+    // Filtro por partidos
+    if (selectedPartidos.length > 0) {
+      filtrados = filtrados.filter(dip =>
+        selectedPartidos.includes(dip.partido?.codigo)
       );
-    });
+    }
+
+    // Filtro por entidad
+    if (selectedEntidad) {
+      filtrados = filtrados.filter(dip => dip.entidad === selectedEntidad);
+    }
+
+    // Filtro por tipo de elección
+    if (selectedTipoEleccion.length > 0) {
+      filtrados = filtrados.filter(dip =>
+        selectedTipoEleccion.includes(dip.tipo_eleccion)
+      );
+    }
 
     setFilteredDiputados(filtrados);
-  }, [searchTerm, diputados]);
+  }, [searchTerm, diputados, selectedPartidos, selectedEntidad, selectedTipoEleccion]);
+
+  // Funciones para manejar filtros
+  const togglePartido = (partido) => {
+    setSelectedPartidos(prev =>
+      prev.includes(partido)
+        ? prev.filter(p => p !== partido)
+        : [...prev, partido]
+    );
+  };
+
+  const toggleTipoEleccion = (tipo) => {
+    setSelectedTipoEleccion(prev =>
+      prev.includes(tipo)
+        ? prev.filter(t => t !== tipo)
+        : [...prev, tipo]
+    );
+  };
+
+  const limpiarFiltros = () => {
+    setSelectedPartidos([]);
+    setSelectedEntidad('');
+    setSelectedTipoEleccion([]);
+    setSearchTerm('');
+  };
+
+  const totalFiltrosActivos = selectedPartidos.length +
+    (selectedEntidad ? 1 : 0) +
+    selectedTipoEleccion.length;
 
   return (
     <>
       <style jsx>{`
-        body {
-          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-          margin: 0;
-          padding: 20px;
+        * {
+          box-sizing: border-box;
+        }
+        .page-wrapper {
+          min-height: 100vh;
           background-color: #f4f7f6;
         }
-        h1 {
+        .header {
+          background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+          color: white;
+          padding: 2rem 1rem;
+          box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+          margin: 0;
           text-align: center;
+          font-size: 2rem;
+          font-weight: 700;
+        }
+        .header .subtitle {
+          text-align: center;
+          opacity: 0.9;
+          margin-top: 0.5rem;
+          font-size: 0.95rem;
+        }
+        .mobile-filter-btn {
+          display: none;
+          position: fixed;
+          bottom: 20px;
+          right: 20px;
+          background: #667eea;
+          color: white;
+          border: none;
+          border-radius: 50%;
+          width: 56px;
+          height: 56px;
+          font-size: 1.5rem;
+          cursor: pointer;
+          box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+          z-index: 1000;
+          transition: transform 0.2s;
+        }
+        .mobile-filter-btn:hover {
+          transform: scale(1.1);
+        }
+        .content-wrapper {
+          display: flex;
+          max-width: 1600px;
+          margin: 0 auto;
+          gap: 2rem;
+          padding: 2rem 1rem;
+        }
+        .sidebar {
+          width: 300px;
+          flex-shrink: 0;
+          background: white;
+          border-radius: 12px;
+          padding: 1.5rem;
+          box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+          align-self: flex-start;
+          position: sticky;
+          top: 20px;
+          max-height: calc(100vh - 40px);
+          overflow-y: auto;
+        }
+        .sidebar h3 {
+          margin: 0 0 1rem 0;
+          font-size: 1.1rem;
           color: #333;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+        }
+        .filter-badge {
+          background: #667eea;
+          color: white;
+          border-radius: 12px;
+          padding: 2px 8px;
+          font-size: 0.75rem;
+          font-weight: bold;
+        }
+        .filter-section {
+          margin-bottom: 1.5rem;
+          padding-bottom: 1.5rem;
+          border-bottom: 1px solid #e0e0e0;
+        }
+        .filter-section:last-child {
+          border-bottom: none;
+        }
+        .filter-section h4 {
+          font-size: 0.9rem;
+          color: #666;
+          margin: 0 0 0.75rem 0;
+          text-transform: uppercase;
+          letter-spacing: 0.5px;
+        }
+        .filter-checkbox {
+          display: flex;
+          align-items: center;
+          margin-bottom: 0.5rem;
+          cursor: pointer;
+          padding: 0.4rem;
+          border-radius: 6px;
+          transition: background 0.2s;
+        }
+        .filter-checkbox:hover {
+          background: #f5f5f5;
+        }
+        .filter-checkbox input {
+          margin-right: 0.5rem;
+          cursor: pointer;
+        }
+        .filter-checkbox label {
+          cursor: pointer;
+          font-size: 0.9rem;
+          flex: 1;
+        }
+        .filter-select {
+          width: 100%;
+          padding: 0.5rem;
+          border: 1px solid #ddd;
+          border-radius: 6px;
+          font-size: 0.9rem;
+          background: white;
+          cursor: pointer;
+        }
+        .clear-filters-btn {
+          width: 100%;
+          padding: 0.75rem;
+          background: #f44336;
+          color: white;
+          border: none;
+          border-radius: 6px;
+          cursor: pointer;
+          font-weight: 600;
+          font-size: 0.9rem;
+          transition: background 0.2s;
+        }
+        .clear-filters-btn:hover {
+          background: #d32f2f;
+        }
+        .clear-filters-btn:disabled {
+          background: #ccc;
+          cursor: not-allowed;
+        }
+        .main-content {
+          flex: 1;
+          min-width: 0;
+        }
+        .search-results-header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          margin-bottom: 1.5rem;
+          background: white;
+          padding: 1rem 1.5rem;
+          border-radius: 12px;
+          box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .results-count {
+          font-size: 1.1rem;
+          color: #333;
+          font-weight: 600;
         }
         .buscador {
           width: 100%;
-          font-size: 1.2rem;
-          padding: 12px 15px;
-          margin-bottom: 25px;
-          border: 1px solid #ccc;
+          font-size: 1rem;
+          padding: 0.75rem 1rem;
+          border: 1px solid #ddd;
           border-radius: 8px;
-          box-sizing: border-box;
+          margin-bottom: 1rem;
         }
         .directorio-container {
           display: grid;
           grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-          gap: 20px;
+          gap: 1.25rem;
         }
         .diputado-card {
-          border: 1px solid #ddd;
-          border-radius: 8px;
-          padding: 20px;
+          border: 1px solid #e0e0e0;
+          border-radius: 12px;
+          padding: 1.5rem;
           background: #ffffff;
-          box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+          transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .diputado-card:hover {
+          transform: translateY(-4px);
+          box-shadow: 0 8px 16px rgba(0, 0, 0, 0.12);
         }
         .diputado-card h3 {
           margin-top: 0;
@@ -114,49 +329,34 @@ export default function DiputadosPage() {
           justify-content: space-between;
           align-items: center;
           flex-wrap: wrap;
+          gap: 0.5rem;
         }
         .diputado-card p {
           margin: 8px 0;
-          line-height: 1.5;
+          line-height: 1.6;
           word-break: break-word;
+          font-size: 0.95rem;
         }
-
         .party-tag {
           display: inline-block;
-          padding: 4px 10px;
-          border-radius: 12px;
-          font-size: 0.8rem;
+          padding: 6px 12px;
+          border-radius: 16px;
+          font-size: 0.75rem;
           font-weight: bold;
           color: white;
           text-transform: uppercase;
           white-space: nowrap;
+          box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
-        .party-tag.pan {
-          background-color: #004a99;
-        }
-        .party-tag.pri {
-          background-color: #e4002b;
-        }
-        .party-tag.prd {
-          background-color: #ffd400;
-          color: #333;
-        }
-        .party-tag.pvem {
-          background-color: #4c9c2e;
-        }
-        .party-tag.pt {
-          background-color: #c70000;
-        }
-        .party-tag.mc {
-          background-color: #ff8000;
-        }
-        .party-tag.morena {
-          background-color: #800000;
-        }
+        .party-tag.pan { background-color: #004a99; }
+        .party-tag.pri { background-color: #e4002b; }
+        .party-tag.prd { background-color: #ffd400; color: #333; }
+        .party-tag.pvem { background-color: #4c9c2e; }
+        .party-tag.pt { background-color: #c70000; }
+        .party-tag.mc { background-color: #ff8000; }
+        .party-tag.morena { background-color: #800000; }
         .party-tag.default,
-        .party-tag.sp {
-          background-color: #6c757d;
-        }
+        .party-tag.sp { background-color: #6c757d; }
 
         .diputado-foto {
           width: 120px;
