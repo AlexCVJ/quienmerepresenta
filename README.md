@@ -190,5 +190,7 @@ Este proyecto es parte de la iniciativa **#elgamingsalva** para oponerse al impu
 
 **Hecho con ❤️ por la comunidad gaming de México por Alex de CulturaVJ y MagioBus**
 
+Viva La Resistance
+
 Para más información técnica, consulta [CLAUDE.md](CLAUDE.md).
 
