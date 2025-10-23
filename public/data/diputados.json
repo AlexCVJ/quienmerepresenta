@@ -4,7 +4,7 @@
       "id": 1,
       "tipo": "diputado",
       "nombre": "Humberto Ambriz Delgadillo",
-      "foto_url": "./fotos_lxviconfondo/359_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/359.jpg",
       "email": "humberto.ambriz@diputados.gob.mx",
       "extension": "59440",
       "partido": {
@@ -55,7 +55,7 @@
       "id": 2,
       "tipo": "diputado",
       "nombre": "Monica Becerra Moreno",
-      "foto_url": "./fotos_lxviconfondo/226_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/226.jpg",
       "email": "monica.becerra@diputados.gob.mx",
       "extension": "61631",
       "partido": {
@@ -102,7 +102,7 @@
       "id": 3,
       "tipo": "diputado",
       "nombre": "Paulo Gonzalo Martínez López",
-      "foto_url": "./fotos_lxviconfondo/227_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/227.jpg",
       "email": "paulo.martinez@diputados.gob.mx",
       "extension": "59980",
       "partido": {
@@ -149,7 +149,7 @@
       "id": 4,
       "tipo": "diputado",
       "nombre": "Alma Laura Ruiz López",
-      "foto_url": "./fotos_lxviconfondo/013_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/013.jpg",
       "email": "alma.ruiz@diputados.gob.mx",
       "extension": "61342",
       "partido": {
@@ -190,7 +190,7 @@
       "id": 5,
       "tipo": "diputado",
       "nombre": "Nancy Guadalupe Sánchez Arredondo",
-      "foto_url": "./fotos_lxviconfondo/230_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/230.jpg",
       "email": "nancy.sanchez@diputados.gob.mx",
       "extension": "61315",
       "partido": {
@@ -223,7 +223,7 @@
       "id": 6,
       "tipo": "diputado",
       "nombre": "Claudia Lisbeth Moreno Ramírez",
-      "foto_url": "./fotos_lxviconfondo/008_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/008.jpg",
       "email": "lisbeth.moreno@diputados.gob.mx",
       "extension": "61338",
       "partido": {
@@ -256,7 +256,7 @@
       "id": 7,
       "tipo": "diputado",
       "nombre": "Rocío López Gorosave",
-      "foto_url": "./fotos_lxviconfondo/005_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/005.jpg",
       "email": "rocio.lopez@diputados.gob.mx",
       "extension": "61354",
       "partido": {
@@ -301,7 +301,7 @@
       "id": 8,
       "tipo": "diputado",
       "nombre": "Evangelina Moreno Guerra",
-      "foto_url": "./fotos_lxviconfondo/020_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/020.jpg",
       "email": "evangelina.moreno@diputados.gob.mx",
       "extension": "61860",
       "partido": {
@@ -347,7 +347,7 @@
       "id": 9,
       "tipo": "diputado",
       "nombre": "Gilberto Herrera Solórzano",
-      "foto_url": "./fotos_lxviconfondo/015_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/015.jpg",
       "email": "gilberto.herrera@diputados.gob.mx",
       "extension": "61346",
       "partido": {
@@ -388,7 +388,7 @@
       "id": 10,
       "tipo": "diputado",
       "nombre": "José Armando Fernández Samaniego",
-      "foto_url": "./fotos_lxviconfondo/007_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/007.jpg",
       "email": "armando.fernandez@diputados.gob.mx",
       "extension": "61336",
       "partido": {
@@ -433,7 +433,7 @@
       "id": 11,
       "tipo": "diputado",
       "nombre": "Fausto Gallardo García",
-      "foto_url": "./fotos_lxviconfondo/453_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/453.jpg",
       "email": "fausto.gallardo@diputados.gob.mx",
       "extension": "59620",
       "partido": {
@@ -471,7 +471,7 @@
       "id": 12,
       "tipo": "diputado",
       "nombre": "Hilda Araceli Brown Figueredo",
-      "foto_url": "./fotos_lxviconfondo/010_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/010.jpg",
       "email": "hilda.brown@diputados.gob.mx",
       "extension": "61818",
       "partido": {
@@ -516,7 +516,7 @@
       "id": 13,
       "tipo": "diputado",
       "nombre": "Manuel Alejandro Cota Cárdenas",
-      "foto_url": "./fotos_lxviconfondo/476_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/476.jpg",
       "email": "manuel.cota@diputados.gob.mx",
       "extension": "59620",
       "partido": {
@@ -549,7 +549,7 @@
       "id": 14,
       "tipo": "diputado",
       "nombre": "Luis Armando Díaz",
-      "foto_url": "./fotos_lxviconfondo/107_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/107.jpg",
       "email": "luis.armando@diputados.gob.mx",
       "extension": "62030",
       "partido": {
@@ -595,7 +595,7 @@
       "id": 15,
       "tipo": "diputado",
       "nombre": "Elda Esther del Carmen Castillo Quintana",
-      "foto_url": "./fotos_lxviconfondo/012_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/012.jpg",
       "email": "elda.castillo@diputados.gob.mx",
       "extension": "61232",
       "partido": {
@@ -650,7 +650,7 @@
       "id": 16,
       "tipo": "diputado",
       "nombre": "Gabriela del Carmen Basto González",
-      "foto_url": "./fotos_lxviconfondo/022_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/022.jpg",
       "email": "gabriela.basto@diputados.gob.mx",
       "extension": "61235",
       "partido": {
@@ -695,7 +695,7 @@
       "id": 17,
       "tipo": "diputado",
       "nombre": "Carlos Morelos Rodríguez",
-      "foto_url": "./fotos_lxviconfondo/108_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/108.jpg",
       "email": "carlos.morelos@diputados.gob.mx",
       "extension": "67892",
       "partido": {
@@ -741,7 +741,7 @@
       "id": 18,
       "tipo": "diputado",
       "nombre": "Karina Margarita del Río Zenteno",
-      "foto_url": "./fotos_lxviconfondo/183_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/183.jpg",
       "email": "karina.delrio@diputados.gob.mx",
       "extension": "61506",
       "partido": {
@@ -795,7 +795,7 @@
       "id": 19,
       "tipo": "diputado",
       "nombre": "Alfredo Vázquez Vázquez",
-      "foto_url": "./fotos_lxviconfondo/181_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/181.jpg",
       "email": "alfredo.vazquez@diputados.gob.mx",
       "extension": "61399",
       "partido": {
@@ -841,7 +841,7 @@
       "id": 20,
       "tipo": "diputado",
       "nombre": "Joaquín Zebadúa Alva",
-      "foto_url": "./fotos_lxviconfondo/184_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/184.jpg",
       "email": "joaquin.zebadua@diputados.gob.mx",
       "extension": "61833",
       "partido": {
@@ -880,7 +880,7 @@
       "id": 21,
       "tipo": "diputado",
       "nombre": "Emilio Ramón Ramírez Guzmán",
-      "foto_url": "./fotos_lxviconfondo/180_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/180.jpg",
       "email": "emilio.ramirez@diputados.gob.mx",
       "extension": "53093",
       "partido": {
@@ -925,7 +925,7 @@
       "id": 22,
       "tipo": "diputado",
       "nombre": "Flor de María Esponda Torres",
-      "foto_url": "./fotos_lxviconfondo/196_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/196.jpg",
       "email": "flor.esponda@diputados.gob.mx",
       "extension": "61892",
       "partido": {
@@ -974,7 +974,7 @@
       "id": 23,
       "tipo": "diputado",
       "nombre": "Azucena Arreola Trinidad",
-      "foto_url": "./fotos_lxviconfondo/156_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/156.jpg",
       "email": "azucena.arreola@diputados.gob.mx",
       "extension": "61878",
       "partido": {
@@ -1019,7 +1019,7 @@
       "id": 24,
       "tipo": "diputado",
       "nombre": "Roberto Armando Albores Gleason",
-      "foto_url": "./fotos_lxviconfondo/133_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/133.jpg",
       "email": "roberto.albores@diputados.gob.mx",
       "extension": "62034",
       "partido": {
@@ -1065,7 +1065,7 @@
       "id": 25,
       "tipo": "diputado",
       "nombre": "Guillermo Rafael Santiago Rodríguez",
-      "foto_url": "./fotos_lxviconfondo/188_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/188.jpg",
       "email": "guillermo.santiago@diputados.gob.mx",
       "extension": "61812",
       "partido": {
@@ -1107,7 +1107,7 @@
       "id": 26,
       "tipo": "diputado",
       "nombre": "Deliamaria Gonzalez Flandez",
-      "foto_url": "./fotos_lxviconfondo/449_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/449.jpg",
       "email": "deliamaria.gonzalez@diputados.gob.mx",
       "extension": "59544",
       "partido": {
@@ -1154,7 +1154,7 @@
       "id": 27,
       "tipo": "diputado",
       "nombre": "Rosario del Carmen Moreno Villatoro",
-      "foto_url": "./fotos_lxviconfondo/179_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/179.jpg",
       "email": "rosario.moreno@diputados.gob.mx",
       "extension": "61816",
       "partido": {
@@ -1200,7 +1200,7 @@
       "id": 28,
       "tipo": "diputado",
       "nombre": "Rosa Irene Urbina Castañeda",
-      "foto_url": "./fotos_lxviconfondo/161_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/161.jpg",
       "email": "rosa.urbina@diputados.gob.mx",
       "extension": "4302",
       "partido": {
@@ -1255,7 +1255,7 @@
       "id": 29,
       "tipo": "diputado",
       "nombre": "Jorge Luis Villatoro Osorio",
-      "foto_url": "./fotos_lxviconfondo/428_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/428.jpg",
       "email": "jorge.villatoro@diputados.gob.mx",
       "extension": "59098",
       "partido": {
@@ -1301,7 +1301,7 @@
       "id": 30,
       "tipo": "diputado",
       "nombre": "Daniel Murguía Lardizábal",
-      "foto_url": "./fotos_lxviconfondo/419_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/419.jpg",
       "email": "daniel.murguia@diputados.gob.mx",
       "extension": "61227",
       "partido": {
@@ -1350,7 +1350,7 @@
       "id": 31,
       "tipo": "diputado",
       "nombre": "Teresita de Jesús Vargas Meraz",
-      "foto_url": "./fotos_lxviconfondo/029_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/029.jpg",
       "email": "teresita.vargas@diputados.gob.mx",
       "extension": "61230",
       "partido": {
@@ -1397,7 +1397,7 @@
       "id": 32,
       "tipo": "diputado",
       "nombre": "Lilia Aguilar Gil",
-      "foto_url": "./fotos_lxviconfondo/153_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/153.jpg",
       "email": "lilia.aguilar@diputados.gob.mx",
       "extension": "62058",
       "partido": {
@@ -1448,7 +1448,7 @@
       "id": 33,
       "tipo": "diputado",
       "nombre": "Alejandro Pérez Cuéllar",
-      "foto_url": "./fotos_lxviconfondo/498_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/498.jpg",
       "email": "alejandro.perez@diputados.gob.mx",
       "extension": "59612",
       "partido": {
@@ -1477,7 +1477,7 @@
       "id": 34,
       "tipo": "diputado",
       "nombre": "Juan Antonio Meléndez Ortega",
-      "foto_url": "./fotos_lxviconfondo/421_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/421.jpg",
       "email": "juan.melendez@diputados.gob.mx",
       "extension": "59457",
       "partido": {
@@ -1531,7 +1531,7 @@
       "id": 35,
       "tipo": "diputado",
       "nombre": "María Angélica Granados Trespalacios",
-      "foto_url": "./fotos_lxviconfondo/219_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/219.jpg",
       "email": "maria.granados@diputados.gob.mx",
       "extension": "59966",
       "partido": {
@@ -1579,7 +1579,7 @@
       "id": 36,
       "tipo": "diputado",
       "nombre": "Jesús Roberto Corral Ordóñez",
-      "foto_url": "./fotos_lxviconfondo/123_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/123.jpg",
       "email": "jesus.corral@diputados.gob.mx",
       "extension": "62032",
       "partido": {
@@ -1625,7 +1625,7 @@
       "id": 37,
       "tipo": "diputado",
       "nombre": "César Alejandro Domínguez Domínguez",
-      "foto_url": "./fotos_lxviconfondo/354_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/354.jpg",
       "email": "cesar.dominguez@diputados.gob.mx",
       "extension": "59422",
       "partido": {
@@ -1675,7 +1675,7 @@
       "id": 38,
       "tipo": "diputado",
       "nombre": "Noel Chávez Velázquez",
-      "foto_url": "./fotos_lxviconfondo/353_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/353.jpg",
       "email": "noel.chavez@diputados.gob.mx",
       "extension": "59442",
       "partido": {
@@ -1726,7 +1726,7 @@
       "id": 40,
       "tipo": "diputado",
       "nombre": "José Alberto Benavides Castañeda",
-      "foto_url": "./fotos_lxviconfondo/164_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/164.jpg",
       "email": "jose.benavides@diputados.gob.mx",
       "extension": "62007",
       "partido": {
@@ -1763,7 +1763,7 @@
       "id": 41,
       "tipo": "diputado",
       "nombre": "Gabriela Georgina Jiménez Godoy",
-      "foto_url": "./fotos_lxviconfondo/038_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/038.jpg",
       "email": "georgina.jimenez@diputados.gob.mx",
       "extension": "61290",
       "partido": {
@@ -1808,7 +1808,7 @@
       "id": 42,
       "tipo": "diputado",
       "nombre": "María de los Dolores Padierna Luna",
-      "foto_url": "./fotos_lxviconfondo/004_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/004.jpg",
       "email": "maria.padierna@diputados.gob.mx",
       "extension": "61382",
       "partido": {
@@ -1827,7 +1827,7 @@
       "id": 44,
       "tipo": "diputado",
       "nombre": "Daniel Campos Plancarte",
-      "foto_url": "./fotos_lxviconfondo/026_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/026.jpg",
       "email": "daniel.campos@diputados.gob.mx",
       "extension": "61296",
       "partido": {
@@ -1873,7 +1873,7 @@
       "id": 45,
       "tipo": "diputado",
       "nombre": "Juan Guillermo Rendón Gómez",
-      "foto_url": "./fotos_lxviconfondo/021_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/021.jpg",
       "email": "juan.rendon@diputados.gob.mx",
       "extension": "61299",
       "partido": {
@@ -1919,7 +1919,7 @@
       "id": 48,
       "tipo": "diputado",
       "nombre": "Margarita Ester Zavala Gómez del Campo",
-      "foto_url": "./fotos_lxviconfondo/202_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/202.jpg",
       "email": "margarita.zavala@diputados.gob.mx",
       "extension": "59892",
       "partido": {
@@ -1961,7 +1961,7 @@
       "id": 49,
       "tipo": "diputado",
       "nombre": "Elena Edith Segura Trejo",
-      "foto_url": "./fotos_lxviconfondo/027_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/027.jpg",
       "email": "elena.segura@diputados.gob.mx",
       "extension": "61370",
       "partido": {
@@ -2006,7 +2006,7 @@
       "id": 50,
       "tipo": "diputado",
       "nombre": "Mónica Elizabeth Sandoval Hernández",
-      "foto_url": "./fotos_lxviconfondo/387_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/387.jpg",
       "email": "monica.sandoval@diputados.gob.mx",
       "extension": "59419",
       "partido": {
@@ -2056,7 +2056,7 @@
       "id": 51,
       "tipo": "diputado",
       "nombre": "Francisco Javier Sánchez Cervantes",
-      "foto_url": "./fotos_lxviconfondo/014_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/014.jpg",
       "email": "javier.sanchez@diputados.gob.mx",
       "extension": "61252",
       "partido": {
@@ -2095,7 +2095,7 @@
       "id": 52,
       "tipo": "diputado",
       "nombre": "Carlos Hernández Mirón",
-      "foto_url": "./fotos_lxviconfondo/059_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/059.jpg",
       "email": "carlos.miron@diputados.gob.mx",
       "extension": "61382",
       "partido": {
@@ -2144,7 +2144,7 @@
       "id": 53,
       "tipo": "diputado",
       "nombre": "Federico Döring Casar",
-      "foto_url": "./fotos_lxviconfondo/209_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/209.jpg",
       "email": "federico.doring@diputados.gob.mx",
       "extension": "61626",
       "partido": {
@@ -2190,7 +2190,7 @@
       "id": 54,
       "tipo": "diputado",
       "nombre": "Carina Piceno",
-      "foto_url": "./fotos_lxviconfondo/030_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/030.jpg",
       "email": "carina.piceno@diputados.gob.mx",
       "extension": "61608",
       "partido": {
@@ -2240,7 +2240,7 @@
       "id": 55,
       "tipo": "diputado",
       "nombre": "Carlos Arturo Madrazo Silva",
-      "foto_url": "./fotos_lxviconfondo/438_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/438.jpg",
       "email": "carlos.a.madrazo@diputados.gob.mx",
       "extension": "59516",
       "partido": {
@@ -2283,7 +2283,7 @@
       "id": 56,
       "tipo": "diputado",
       "nombre": "Gabriel García Hernández",
-      "foto_url": "./fotos_lxviconfondo/162_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/162.jpg",
       "email": "gabriel.hernandez@diputados.gob.mx",
       "extension": "61294",
       "partido": {
@@ -2317,7 +2317,7 @@
       "id": 57,
       "tipo": "diputado",
       "nombre": "Héctor Saúl Téllez Hernández",
-      "foto_url": "./fotos_lxviconfondo/237_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/237.jpg",
       "email": "hectorsaul.tellez@diputados.gob.mx",
       "extension": "59906",
       "partido": {
@@ -2364,7 +2364,7 @@
       "id": 58,
       "tipo": "diputado",
       "nombre": "Ana Karina Rojo Pimentel",
-      "foto_url": "./fotos_lxviconfondo/125_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/125.jpg",
       "email": "ana.rojo@diputados.gob.mx",
       "extension": "62050",
       "partido": {
@@ -2411,7 +2411,7 @@
       "id": 60,
       "tipo": "diputado",
       "nombre": "Marisela Zúñiga Cerón",
-      "foto_url": "./fotos_lxviconfondo/019_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/019.jpg",
       "email": "marisela.zuniga@diputados.gob.mx",
       "extension": "61254",
       "partido": {
@@ -2453,7 +2453,7 @@
       "id": 61,
       "tipo": "diputado",
       "nombre": "Brígido Ramiro Moreno Hernández",
-      "foto_url": "./fotos_lxviconfondo/142_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/142.jpg",
       "email": "brigido.moreno@diputados.gob.mx",
       "extension": "62054",
       "partido": {
@@ -2499,7 +2499,7 @@
       "id": 62,
       "tipo": "diputado",
       "nombre": "Francisco Javier Borrego Adame",
-      "foto_url": "./fotos_lxviconfondo/055_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/055.jpg",
       "email": "francisco.borrego@diputados.gob.mx",
       "extension": "61561",
       "partido": {
@@ -2549,7 +2549,7 @@
       "id": 63,
       "tipo": "diputado",
       "nombre": "Theodoros Kalionchiz De la Fuente",
-      "foto_url": "./fotos_lxviconfondo/220_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/220.jpg",
       "email": "theodoros.kalionchiz@diputados.gob.mx",
       "extension": "59885",
       "partido": {
@@ -2594,7 +2594,7 @@
       "id": 64,
       "tipo": "diputado",
       "nombre": "Yerico Abramo Masso",
-      "foto_url": "./fotos_lxviconfondo/335_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/335.jpg",
       "email": "yerico.abramo@diputados.gob.mx",
       "extension": "59144",
       "partido": {
@@ -2643,7 +2643,7 @@
       "id": 65,
       "tipo": "diputado",
       "nombre": "José Guillermo Anaya Llamas",
-      "foto_url": "./fotos_lxviconfondo/221_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/221.jpg",
       "email": "jose.anaya@diputados.gob.mx",
       "extension": "61635",
       "partido": {
@@ -2690,7 +2690,7 @@
       "id": 66,
       "tipo": "diputado",
       "nombre": "Cintia Cuevas Sánchez",
-      "foto_url": "./fotos_lxviconfondo/034_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/034.jpg",
       "email": "cintia.cuevas@diputados.gob.mx",
       "extension": "61783",
       "partido": {
@@ -2739,7 +2739,7 @@
       "id": 67,
       "tipo": "diputado",
       "nombre": "Antonio Lorenzo Castro Villarreal",
-      "foto_url": "./fotos_lxviconfondo/039_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/039.jpg",
       "email": "antonio.castro@diputados.gob.mx",
       "extension": "61120",
       "partido": {
@@ -2785,7 +2785,7 @@
       "id": 68,
       "tipo": "diputado",
       "nombre": "Hilda Magdalena Licerio Valdes",
-      "foto_url": "./fotos_lxviconfondo/422_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/422.jpg",
       "email": "hilda.licerio@diputados.gob.mx",
       "extension": "68823",
       "partido": {
@@ -2831,7 +2831,7 @@
       "id": 69,
       "tipo": "diputado",
       "nombre": "Leoncio Alfonso Morán Sánchez",
-      "foto_url": "./fotos_lxviconfondo/057_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/057.jpg",
       "email": "leoncio.moran@diputados.gob.mx",
       "extension": "61245",
       "partido": {
@@ -2876,7 +2876,7 @@
       "id": 70,
       "tipo": "diputado",
       "nombre": "Gricelda Valencia de la Mora",
-      "foto_url": "./fotos_lxviconfondo/045_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/045.jpg",
       "email": "gricelda.valencia@diputados.gob.mx",
       "extension": "61547",
       "partido": {
@@ -2910,7 +2910,7 @@
       "id": 71,
       "tipo": "diputado",
       "nombre": "Martha Olivia García Vidaña",
-      "foto_url": "./fotos_lxviconfondo/061_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/061.jpg",
       "email": "olivia.garcia@diputados.gob.mx",
       "extension": "61282",
       "partido": {
@@ -2956,7 +2956,7 @@
       "id": 73,
       "tipo": "diputado",
       "nombre": "Gerardo Villarreal Solis",
-      "foto_url": "./fotos_lxviconfondo/479_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/479.jpg",
       "email": "gerardo.villarreal@diputados.gob.mx",
       "extension": "59522",
       "partido": {
@@ -3002,7 +3002,7 @@
       "id": 74,
       "tipo": "diputado",
       "nombre": "Silvia Patricia Jiménez Delgado",
-      "foto_url": "./fotos_lxviconfondo/225_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/225.jpg",
       "email": "patricia.jimenez@diputados.gob.mx",
       "extension": "59968",
       "partido": {
@@ -3049,7 +3049,7 @@
       "id": 75,
       "tipo": "diputado",
       "nombre": "Luis Gerardo Sánchez Sánchez",
-      "foto_url": "./fotos_lxviconfondo/370_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/370.jpg",
       "email": "luisgerardo.sanchez@diputados.gob.mx",
       "extension": "59413",
       "partido": {
@@ -3096,7 +3096,7 @@
       "id": 76,
       "tipo": "diputado",
       "nombre": "Alma Rosa De la Vega Vargas",
-      "foto_url": "./fotos_lxviconfondo/023_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/023.jpg",
       "email": "alma.delavega@diputados.gob.mx",
       "extension": "61541",
       "partido": {
@@ -3148,7 +3148,7 @@
       "id": 77,
       "tipo": "diputado",
       "nombre": "Fernando Torres Graciano",
-      "foto_url": "./fotos_lxviconfondo/233_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/233.jpg",
       "email": "fernando.torres@diputados.gob.mx",
       "extension": "59890",
       "partido": {
@@ -3194,7 +3194,7 @@
       "id": 78,
       "tipo": "diputado",
       "nombre": "Francisco Javier Estrada Domínguez",
-      "foto_url": "./fotos_lxviconfondo/018_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/018.jpg",
       "email": "fjavier.estrada@diputados.gob.mx",
       "extension": "61539",
       "partido": {
@@ -3244,7 +3244,7 @@
       "id": 79,
       "tipo": "diputado",
       "nombre": "Éctor Jaime Ramírez Barba",
-      "foto_url": "./fotos_lxviconfondo/214_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/214.jpg",
       "email": "ector.ramirez@diputados.gob.mx",
       "extension": "59983",
       "partido": {
@@ -3287,7 +3287,7 @@
       "id": 80,
       "tipo": "diputado",
       "nombre": "Laura Cristina Márquez Alcalá",
-      "foto_url": "./fotos_lxviconfondo/231_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/231.jpg",
       "email": "laura.marquez@diputados.gob.mx",
       "extension": "59888",
       "partido": {
@@ -3333,7 +3333,7 @@
       "id": 81,
       "tipo": "diputado",
       "nombre": "Diana Estefanía Gutiérrez Valtierra",
-      "foto_url": "./fotos_lxviconfondo/222_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/222.jpg",
       "email": "estefania.gutierrez@diputados.gob.mx",
       "extension": "61637",
       "partido": {
@@ -3380,7 +3380,7 @@
       "id": 82,
       "tipo": "diputado",
       "nombre": "Ernesto Alejandro Prieto Gallardo",
-      "foto_url": "./fotos_lxviconfondo/090_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/090.jpg",
       "email": "ernesto.prieto@diputados.gob.mx",
       "extension": "61166",
       "partido": {
@@ -3425,7 +3425,7 @@
       "id": 83,
       "tipo": "diputado",
       "nombre": "Diego Angel Rodríguez Barroso",
-      "foto_url": "./fotos_lxviconfondo/235_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/235.jpg",
       "email": "diego.rodriguez@diputados.gob.mx",
       "extension": "59917",
       "partido": {
@@ -3471,7 +3471,7 @@
       "id": 84,
       "tipo": "diputado",
       "nombre": "Alejandro Calderón Díaz",
-      "foto_url": "./fotos_lxviconfondo/071_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/071.jpg",
       "email": "alejandro.calderon@diputados.gob.mx",
       "extension": "67832",
       "partido": {
@@ -3516,7 +3516,7 @@
       "id": 85,
       "tipo": "diputado",
       "nombre": "Miguel Ángel Salim Alle",
-      "foto_url": "./fotos_lxviconfondo/203_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/203.jpg",
       "email": "miguel.salim@diputados.gob.mx",
       "extension": "61704",
       "partido": {
@@ -3559,7 +3559,7 @@
       "id": 86,
       "tipo": "diputado",
       "nombre": "María Magdalena Rosales Cruz",
-      "foto_url": "./fotos_lxviconfondo/066_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/066.jpg",
       "email": "mmagdalena.rosales@diputados.gob.mx",
       "extension": "61136",
       "partido": {
@@ -3612,7 +3612,7 @@
       "id": 87,
       "tipo": "diputado",
       "nombre": "Lucero Higareda Segura",
-      "foto_url": "./fotos_lxviconfondo/024_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/024.jpg",
       "email": "lucero.higareda@diputados.gob.mx",
       "extension": "61538",
       "partido": {
@@ -3658,7 +3658,7 @@
       "id": 88,
       "tipo": "diputado",
       "nombre": "Juana Acosta Trujillo",
-      "foto_url": "./fotos_lxviconfondo/089_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/089.jpg",
       "email": "juana.acosta@diputados.gob.mx",
       "extension": "67937",
       "partido": {
@@ -3700,7 +3700,7 @@
       "id": 89,
       "tipo": "diputado",
       "nombre": "José Javier Aguirre Gallardo",
-      "foto_url": "./fotos_lxviconfondo/011_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/011.jpg",
       "email": "jose.aguirre@diputados.gob.mx",
       "extension": "61212",
       "partido": {
@@ -3749,7 +3749,7 @@
       "id": 90,
       "tipo": "diputado",
       "nombre": "Celeste Mora Eguiluz",
-      "foto_url": "./fotos_lxviconfondo/135_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/135.jpg",
       "email": "celeste.mora@diputados.gob.mx",
       "extension": "61134",
       "partido": {
@@ -3796,7 +3796,7 @@
       "id": 91,
       "tipo": "diputado",
       "nombre": "Yoloczin Lizbeth Domínguez Serna",
-      "foto_url": "./fotos_lxviconfondo/043_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/043.jpg",
       "email": "yoloczin.dominguez@diputados.gob.mx",
       "extension": "61163",
       "partido": {
@@ -3829,7 +3829,7 @@
       "id": 92,
       "tipo": "diputado",
       "nombre": "Ma. del Carmen Cabrera Lagunas",
-      "foto_url": "./fotos_lxviconfondo/443_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/443.jpg",
       "email": "madelcarmen.cabrera@diputados.gob.mx",
       "extension": "59507",
       "partido": {
@@ -3875,7 +3875,7 @@
       "id": 93,
       "tipo": "diputado",
       "nombre": "Javier Taja Ramírez",
-      "foto_url": "./fotos_lxviconfondo/087_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/087.jpg",
       "email": "javier.taja@diputados.gob.mx",
       "extension": "61202",
       "partido": {
@@ -3920,7 +3920,7 @@
       "id": 94,
       "tipo": "diputado",
       "nombre": "Gerardo Olivares Mejía",
-      "foto_url": "./fotos_lxviconfondo/109_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/109.jpg",
       "email": "gerardo.olivares@diputados.gob.mx",
       "extension": "61559",
       "partido": {
@@ -3966,7 +3966,7 @@
       "id": 95,
       "tipo": "diputado",
       "nombre": "María del Carmen Nava García",
-      "foto_url": "./fotos_lxviconfondo/461_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/461.jpg",
       "email": "maria.nava@diputados.gob.mx",
       "extension": "67935",
       "partido": {
@@ -3999,7 +3999,7 @@
       "id": 96,
       "tipo": "diputado",
       "nombre": "Carlos Sánchez Barrios",
-      "foto_url": "./fotos_lxviconfondo/085_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/085.jpg",
       "email": "carlos.sanchezb@diputados.gob.mx",
       "extension": "61790",
       "partido": {
@@ -4028,7 +4028,7 @@
       "id": 97,
       "tipo": "diputado",
       "nombre": "Marco Antonio De La Mora Torreblanca",
-      "foto_url": "./fotos_lxviconfondo/468_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/468.jpg",
       "email": "marco.delamora@diputados.gob.mx",
       "extension": "59587",
       "partido": {
@@ -4075,7 +4075,7 @@
       "id": 98,
       "tipo": "diputado",
       "nombre": "Daniel Andrade Zurutuza",
-      "foto_url": "./fotos_lxviconfondo/198_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/198.jpg",
       "email": "daniel.andrade@diputados.gob.mx",
       "extension": "61730",
       "partido": {
@@ -4128,7 +4128,7 @@
       "id": 99,
       "tipo": "diputado",
       "nombre": "Ciria Yamile Salomón Durán",
-      "foto_url": "./fotos_lxviconfondo/482_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/482.jpg",
       "email": "yamile.salomon@diputados.gob.mx",
       "extension": "68823",
       "partido": {
@@ -4173,7 +4173,7 @@
       "id": 100,
       "tipo": "diputado",
       "nombre": "Tatiana Tonantzin P. Ángeles Moreno",
-      "foto_url": "./fotos_lxviconfondo/195_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/195.jpg",
       "email": "tatiana.angeles@diputados.gob.mx",
       "extension": "52096",
       "partido": {
@@ -4211,7 +4211,7 @@
       "id": 101,
       "tipo": "diputado",
       "nombre": "Alma Lidia De La Vega Sánchez",
-      "foto_url": "./fotos_lxviconfondo/207_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/207.jpg",
       "email": "lidia.delavega@diputados.gob.mx",
       "extension": "68143",
       "partido": {
@@ -4260,7 +4260,7 @@
       "id": 102,
       "tipo": "diputado",
       "nombre": "Astrit Viridiana Cornejo Gómez",
-      "foto_url": "./fotos_lxviconfondo/194_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/194.jpg",
       "email": "astrit.cornejo@diputados.gob.mx",
       "extension": "61737",
       "partido": {
@@ -4293,7 +4293,7 @@
       "id": 103,
       "tipo": "diputado",
       "nombre": "Ricardo Crespo Arroyo",
-      "foto_url": "./fotos_lxviconfondo/197_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/197.jpg",
       "email": "ricardo.crespo@diputados.gob.mx",
       "extension": "61748",
       "partido": {
@@ -4343,7 +4343,7 @@
       "id": 104,
       "tipo": "diputado",
       "nombre": "Mirna María de la Luz Rubio Sánchez",
-      "foto_url": "./fotos_lxviconfondo/193_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/193.jpg",
       "email": "mariadelaluz.rubio@diputados.gob.mx",
       "extension": "61743",
       "partido": {
@@ -4388,7 +4388,7 @@
       "id": 105,
       "tipo": "diputado",
       "nombre": "Francisco Javier Guízar Macías",
-      "foto_url": "./fotos_lxviconfondo/099_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/099.jpg",
       "email": "francisco.guizar@diputados.gob.mx",
       "extension": "61360",
       "partido": {
@@ -4434,7 +4434,7 @@
       "id": 106,
       "tipo": "diputado",
       "nombre": "Tecutli José Guadalupe Gómez Villalobos",
-      "foto_url": "./fotos_lxviconfondo/408_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/408.jpg",
       "email": "tecutli.gomez@diputados.gob.mx",
       "extension": "67972",
       "partido": {
@@ -4481,7 +4481,7 @@
       "id": 107,
       "tipo": "diputado",
       "nombre": "José Mario Iñiguez Franco",
-      "foto_url": "./fotos_lxviconfondo/200_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/200.jpg",
       "email": "jose.iniguez@diputados.gob.mx",
       "extension": "61706",
       "partido": {
@@ -4528,7 +4528,7 @@
       "id": 108,
       "tipo": "diputado",
       "nombre": "Raúl Álvarez Villaseñor",
-      "foto_url": "./fotos_lxviconfondo/001_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/001.jpg",
       "email": "raul.alvarez@diputados.gob.mx",
       "extension": "61557",
       "partido": {
@@ -4574,7 +4574,7 @@
       "id": 109,
       "tipo": "diputado",
       "nombre": "Bruno Blancas Mercado",
-      "foto_url": "./fotos_lxviconfondo/047_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/047.jpg",
       "email": "bruno.blancas@diputados.gob.mx",
       "extension": "61360",
       "partido": {
@@ -4607,7 +4607,7 @@
       "id": 110,
       "tipo": "diputado",
       "nombre": "Beatriz Carranza Gómez",
-      "foto_url": "./fotos_lxviconfondo/084_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/084.jpg",
       "email": "beatriz.carranza@diputados.gob.mx",
       "extension": "61320",
       "partido": {
@@ -4652,7 +4652,7 @@
       "id": 111,
       "tipo": "diputado",
       "nombre": "Claudia García Hernández",
-      "foto_url": "./fotos_lxviconfondo/375_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/375.jpg",
       "email": "claudia.garcia@diputados.gob.mx",
       "extension": "61595",
       "partido": {
@@ -4702,7 +4702,7 @@
       "id": 112,
       "tipo": "diputado",
       "nombre": "Paola Milagros Espinosa Sánchez",
-      "foto_url": "./fotos_lxviconfondo/206_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/206.jpg",
       "email": "paola.espinosa@diputados.gob.mx",
       "extension": "59890",
       "partido": {
@@ -4748,7 +4748,7 @@
       "id": 113,
       "tipo": "diputado",
       "nombre": "Favio Castellanos Polanco",
-      "foto_url": "./fotos_lxviconfondo/063_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/063.jpg",
       "email": "favio.castellanos@diputados.gob.mx",
       "extension": "61531",
       "partido": {
@@ -4802,7 +4802,7 @@
       "id": 115,
       "tipo": "diputado",
       "nombre": "Merilyn Gómez Pozos",
-      "foto_url": "./fotos_lxviconfondo/002_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/002.jpg",
       "email": "merilyn.gomez@diputados.gob.mx",
       "extension": "61778",
       "partido": {
@@ -4848,7 +4848,7 @@
       "id": 116,
       "tipo": "diputado",
       "nombre": "Sandra Beatriz González Pérez",
-      "foto_url": "./fotos_lxviconfondo/078_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/078.jpg",
       "email": "sandra.gonzalez@diputados.gob.mx",
       "extension": "61250",
       "partido": {
@@ -4898,7 +4898,7 @@
       "id": 117,
       "tipo": "diputado",
       "nombre": "José Luis Sánchez González",
-      "foto_url": "./fotos_lxviconfondo/101_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/101.jpg",
       "email": "jluis.sanchez@diputados.gob.mx",
       "extension": "62024",
       "partido": {
@@ -4952,7 +4952,7 @@
       "id": 118,
       "tipo": "diputado",
       "nombre": "Marcela Michel López",
-      "foto_url": "./fotos_lxviconfondo/448_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/448.jpg",
       "email": "marcela.michel@diputados.gob.mx",
       "extension": "61368",
       "partido": {
@@ -4985,7 +4985,7 @@
       "id": 119,
       "tipo": "diputado",
       "nombre": "Alonso de Jesús Vázquez Jiménez",
-      "foto_url": "./fotos_lxviconfondo/496_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/496.jpg",
       "email": "alonso.vazquez@diputados.gob.mx",
       "extension": "59954",
       "partido": {
@@ -5031,7 +5031,7 @@
       "id": 120,
       "tipo": "diputado",
       "nombre": "Alberto Maldonado Chavarín",
-      "foto_url": "./fotos_lxviconfondo/072_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/072.jpg",
       "email": "alberto.maldonado@diputados.gob.mx",
       "extension": "61373",
       "partido": {
@@ -5077,7 +5077,7 @@
       "id": 121,
       "tipo": "diputado",
       "nombre": "Antonio de Jesús Ramírez Ramos",
-      "foto_url": "./fotos_lxviconfondo/489_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/489.jpg",
       "email": "antoniodej.ramirez@diputados.gob.mx",
       "extension": "59524",
       "partido": {
@@ -5118,7 +5118,7 @@
       "id": 122,
       "tipo": "diputado",
       "nombre": "Haidyd Arreola Lopez",
-      "foto_url": "./fotos_lxviconfondo/086_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/086.jpg",
       "email": "haidyd.arreola@diputados.gob.mx",
       "extension": "61322",
       "partido": {
@@ -5163,7 +5163,7 @@
       "id": 123,
       "tipo": "diputado",
       "nombre": "Clara Cárdenas Galván",
-      "foto_url": "./fotos_lxviconfondo/032_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/032.jpg",
       "email": "clara.cardenas@diputados.gob.mx",
       "extension": "61350",
       "partido": {
@@ -5216,7 +5216,7 @@
       "id": 124,
       "tipo": "diputado",
       "nombre": "Katia Alejandra Castillo Lozano",
-      "foto_url": "./fotos_lxviconfondo/081_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/081.jpg",
       "email": "katia.castillo@diputados.gob.mx",
       "extension": "61260",
       "partido": {
@@ -5250,7 +5250,7 @@
       "id": 125,
       "tipo": "diputado",
       "nombre": "María Luisa Mendoza Mondragón",
-      "foto_url": "./fotos_lxviconfondo/470_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/470.jpg",
       "email": "marialuisa.mendoza@diputados.gob.mx",
       "extension": "68850",
       "partido": {
@@ -5297,7 +5297,7 @@
       "id": 126,
       "tipo": "diputado",
       "nombre": "Dionicia Vázquez García",
-      "foto_url": "./fotos_lxviconfondo/076_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/076.jpg",
       "email": "dionicia.vazquez@diputados.gob.mx",
       "extension": "61511",
       "partido": {
@@ -5343,7 +5343,7 @@
       "id": 127,
       "tipo": "diputado",
       "nombre": "Diana Castillo Gabino",
-      "foto_url": "./fotos_lxviconfondo/130_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/130.jpg",
       "email": "diana.castillo@diputados.gob.mx",
       "extension": "62425",
       "partido": {
@@ -5389,7 +5389,7 @@
       "id": 128,
       "tipo": "diputado",
       "nombre": "Melva Carrasco Godínez",
-      "foto_url": "./fotos_lxviconfondo/041_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/041.jpg",
       "email": "melva.carrasco@diputados.gob.mx",
       "extension": "61482",
       "partido": {
@@ -5439,7 +5439,7 @@
       "id": 129,
       "tipo": "diputado",
       "nombre": "Patricia Galindo Alarcón",
-      "foto_url": "./fotos_lxviconfondo/169_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/169.jpg",
       "email": "patricia.galindo@diputados.gob.mx",
       "extension": "62114",
       "partido": {
@@ -5485,7 +5485,7 @@
       "id": 130,
       "tipo": "diputado",
       "nombre": "Julieta Villalpando Riquelme",
-      "foto_url": "./fotos_lxviconfondo/054_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/054.jpg",
       "email": "julieta.villalpando@diputados.gob.mx",
       "extension": "53050",
       "partido": {
@@ -5517,7 +5517,7 @@
       "id": 131,
       "tipo": "diputado",
       "nombre": "Xóchitl Nashielly Zagal Ramírez",
-      "foto_url": "./fotos_lxviconfondo/075_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/075.jpg",
       "email": "xochitl.zagal@diputados.gob.mx",
       "extension": "61488",
       "partido": {
@@ -5563,7 +5563,7 @@
       "id": 132,
       "tipo": "diputado",
       "nombre": "Anay Beltrán Reyes",
-      "foto_url": "./fotos_lxviconfondo/065_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/065.jpg",
       "email": "anay.beltran@diputados.gob.mx",
       "extension": "61462",
       "partido": {
@@ -5597,7 +5597,7 @@
       "id": 133,
       "tipo": "diputado",
       "nombre": "Ivan Marin Rangel",
-      "foto_url": "./fotos_lxviconfondo/495_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/495.jpg",
       "email": "ivan.marin@diputados.gob.mx",
       "extension": "68866",
       "partido": {
@@ -5643,7 +5643,7 @@
       "id": 134,
       "tipo": "diputado",
       "nombre": "Luis Fernando Vilchis Contreras",
-      "foto_url": "./fotos_lxviconfondo/093_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/093.jpg",
       "email": "luis.vilchis@diputados.gob.mx",
       "extension": "67900",
       "partido": {
@@ -5691,7 +5691,7 @@
       "id": 135,
       "tipo": "diputado",
       "nombre": "Xóchitl Teresa Arzola Vargas",
-      "foto_url": "./fotos_lxviconfondo/060_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/060.jpg",
       "email": "xochitl.arzola@diputados.gob.mx",
       "extension": "61504",
       "partido": {
@@ -5741,7 +5741,7 @@
       "id": 136,
       "tipo": "diputado",
       "nombre": "Armando Corona Arvizu",
-      "foto_url": "./fotos_lxviconfondo/037_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/037.jpg",
       "email": "armando.corona@diputados.gob.mx",
       "extension": "61809",
       "partido": {
@@ -5775,7 +5775,7 @@
       "id": 138,
       "tipo": "diputado",
       "nombre": "Claudia Leticia Garfias Alcantara",
-      "foto_url": "./fotos_lxviconfondo/048_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/048.jpg",
       "email": "claudia.garfias@diputados.gob.mx",
       "extension": "61498",
       "partido": {
@@ -5830,7 +5830,7 @@
       "id": 139,
       "tipo": "diputado",
       "nombre": "Josefina Anaya Martínez",
-      "foto_url": "./fotos_lxviconfondo/044_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/044.jpg",
       "email": "josefina.anaya@diputados.gob.mx",
       "extension": "61490",
       "partido": {
@@ -5875,7 +5875,7 @@
       "id": 140,
       "tipo": "diputado",
       "nombre": "Emilio Manzanilla Téllez",
-      "foto_url": "./fotos_lxviconfondo/191_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/191.jpg",
       "email": "emilio.manzanilla@diputados.gob.mx",
       "extension": "62026",
       "partido": {
@@ -5921,7 +5921,7 @@
       "id": 141,
       "tipo": "diputado",
       "nombre": "Juan Hugo De la Rosa García",
-      "foto_url": "./fotos_lxviconfondo/046_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/046.jpg",
       "email": "juan.delarosa@diputados.gob.mx",
       "extension": "61502",
       "partido": {
@@ -5976,7 +5976,7 @@
       "id": 142,
       "tipo": "diputado",
       "nombre": "Claudia Sánchez Juárez",
-      "foto_url": "./fotos_lxviconfondo/458_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/458.jpg",
       "email": "claudia.sanchez@diputados.gob.mx",
       "extension": "68856",
       "partido": {
@@ -6020,7 +6020,7 @@
       "id": 143,
       "tipo": "diputado",
       "nombre": "Gabriela Valdepeñas González",
-      "foto_url": "./fotos_lxviconfondo/042_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/042.jpg",
       "email": "gabriela.valdepenas@diputados.gob.mx",
       "extension": "61466",
       "partido": {
@@ -6067,7 +6067,7 @@
       "id": 144,
       "tipo": "diputado",
       "nombre": "Montserrat Ruiz Páez",
-      "foto_url": "./fotos_lxviconfondo/077_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/077.jpg",
       "email": "montserrat.ruiz@diputados.gob.mx",
       "extension": "61450",
       "partido": {
@@ -6112,7 +6112,7 @@
       "id": 145,
       "tipo": "diputado",
       "nombre": "Iván Millán Contreras",
-      "foto_url": "./fotos_lxviconfondo/051_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/051.jpg",
       "email": "ivan.millan@diputados.gob.mx",
       "extension": "61454",
       "partido": {
@@ -6146,7 +6146,7 @@
       "id": 146,
       "tipo": "diputado",
       "nombre": "Martha Amalia Moya Bastón",
-      "foto_url": "./fotos_lxviconfondo/223_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/223.jpg",
       "email": "martha.moya@diputados.gob.mx",
       "extension": "59890",
       "partido": {
@@ -6192,7 +6192,7 @@
       "id": 148,
       "tipo": "diputado",
       "nombre": "José Luis Durán Reveles",
-      "foto_url": "./fotos_lxviconfondo/432_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/432.jpg",
       "email": "joseluis.duran@diputados.gob.mx",
       "extension": "68850",
       "partido": {
@@ -6248,7 +6248,7 @@
       "id": 149,
       "tipo": "diputado",
       "nombre": "Leide Avilés Domínguez",
-      "foto_url": "./fotos_lxviconfondo/050_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/050.jpg",
       "email": "leide.aviles@diputados.gob.mx",
       "extension": "61556",
       "partido": {
@@ -6297,7 +6297,7 @@
       "id": 150,
       "tipo": "diputado",
       "nombre": "Luis Enrique Miranda Barrera",
-      "foto_url": "./fotos_lxviconfondo/454_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/454.jpg",
       "email": "luis.miranda@diputados.gob.mx",
       "extension": "68852",
       "partido": {
@@ -6338,7 +6338,7 @@
       "id": 151,
       "tipo": "diputado",
       "nombre": "Wblester Santiago Pineda",
-      "foto_url": "./fotos_lxviconfondo/150_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/150.jpg",
       "email": "wblester.santiago@diputados.gob.mx",
       "extension": "62410",
       "partido": {
@@ -6384,7 +6384,7 @@
       "id": 152,
       "tipo": "diputado",
       "nombre": "Roberto Ángel Domínguez Rodríguez",
-      "foto_url": "./fotos_lxviconfondo/052_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/052.jpg",
       "email": "roberto.dominguez@diputados.gob.mx",
       "extension": "61430",
       "partido": {
@@ -6429,7 +6429,7 @@
       "id": 153,
       "tipo": "diputado",
       "nombre": "Gerardo Ulloa Pérez",
-      "foto_url": "./fotos_lxviconfondo/035_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/035.jpg",
       "email": "gerardo.ulloa@diputados.gob.mx",
       "extension": "61508",
       "partido": {
@@ -6475,7 +6475,7 @@
       "id": 154,
       "tipo": "diputado",
       "nombre": "César Agustín Hernández Pérez",
-      "foto_url": "./fotos_lxviconfondo/080_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/080.jpg",
       "email": "cesar.hernandez@diputados.gob.mx",
       "extension": "61438",
       "partido": {
@@ -6521,7 +6521,7 @@
       "id": 155,
       "tipo": "diputado",
       "nombre": "Juan Angel Bautista Bravo",
-      "foto_url": "./fotos_lxviconfondo/062_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/062.jpg",
       "email": "juan.bautista@diputados.gob.mx",
       "extension": "61850",
       "partido": {
@@ -6554,7 +6554,7 @@
       "id": 156,
       "tipo": "diputado",
       "nombre": "Luis Enrique Martínez Ventura",
-      "foto_url": "./fotos_lxviconfondo/117_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/117.jpg",
       "email": "enrique.martinez@diputados.gob.mx",
       "extension": "62020",
       "partido": {
@@ -6600,7 +6600,7 @@
       "id": 157,
       "tipo": "diputado",
       "nombre": "Anais Miriam Burgos Hernández",
-      "foto_url": "./fotos_lxviconfondo/070_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/070.jpg",
       "email": "anais.burgos@diputados.gob.mx",
       "extension": "61460",
       "partido": {
@@ -6646,7 +6646,7 @@
       "id": 158,
       "tipo": "diputado",
       "nombre": "Mónica Angélica Álvarez Nemer",
-      "foto_url": "./fotos_lxviconfondo/069_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/069.jpg",
       "email": "monica.alvarez@diputados.gob.mx",
       "extension": "61496",
       "partido": {
@@ -6704,7 +6704,7 @@
       "id": 159,
       "tipo": "diputado",
       "nombre": "Arturo Roberto Hernández Tapia",
-      "foto_url": "./fotos_lxviconfondo/056_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/056.jpg",
       "email": "arturo.hernandez@diputados.gob.mx",
       "extension": "61458",
       "partido": {
@@ -6749,7 +6749,7 @@
       "id": 160,
       "tipo": "diputado",
       "nombre": "Juan Carlos Varela Domínguez",
-      "foto_url": "./fotos_lxviconfondo/058_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/058.jpg",
       "email": "juan.varela@diputados.gob.mx",
       "extension": "61464",
       "partido": {
@@ -6794,7 +6794,7 @@
       "id": 161,
       "tipo": "diputado",
       "nombre": "Pedro Mario Zenteno Santaella",
-      "foto_url": "./fotos_lxviconfondo/067_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/067.jpg",
       "email": "pedro.zenteno@diputados.gob.mx",
       "extension": "61492",
       "partido": {
@@ -6839,7 +6839,7 @@
       "id": 162,
       "tipo": "diputado",
       "nombre": "Jesús Martín Cuanalo Araujo",
-      "foto_url": "./fotos_lxviconfondo/494_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/494.jpg",
       "email": "jesus.cuanalo@diputados.gob.mx",
       "extension": "68876",
       "partido": {
@@ -6885,7 +6885,7 @@
       "id": 163,
       "tipo": "diputado",
       "nombre": "José Luis Montalvo Luna",
-      "foto_url": "./fotos_lxviconfondo/137_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/137.jpg",
       "email": "jose.montalvo@diputados.gob.mx",
       "extension": "62052",
       "partido": {
@@ -6936,7 +6936,7 @@
       "id": 164,
       "tipo": "diputado",
       "nombre": "Azucena Huerta Romero",
-      "foto_url": "./fotos_lxviconfondo/486_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/486.jpg",
       "email": "azucena.huerta@diputados.gob.mx",
       "extension": "68876",
       "partido": {
@@ -6982,7 +6982,7 @@
       "id": 165,
       "tipo": "diputado",
       "nombre": "Leonel Godoy Rangel",
-      "foto_url": "./fotos_lxviconfondo/114_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/114.jpg",
       "email": "leonel.godoy@diputados.gob.mx",
       "extension": "61800",
       "partido": {
@@ -7023,7 +7023,7 @@
       "id": 166,
       "tipo": "diputado",
       "nombre": "José Luis Cruz Lucatero",
-      "foto_url": "./fotos_lxviconfondo/083_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/083.jpg",
       "email": "joseluis.cruz@diputados.gob.mx",
       "extension": "61153",
       "partido": {
@@ -7056,7 +7056,7 @@
       "id": 167,
       "tipo": "diputado",
       "nombre": "Mary Carmen Bernal Martínez",
-      "foto_url": "./fotos_lxviconfondo/097_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/097.jpg",
       "email": "mary.bernal@diputados.gob.mx",
       "extension": "62056",
       "partido": {
@@ -7107,7 +7107,7 @@
       "id": 168,
       "tipo": "diputado",
       "nombre": "Rosa Guadalupe Ortega Tiburcio",
-      "foto_url": "./fotos_lxviconfondo/079_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/079.jpg",
       "email": "rosa.ortega@diputados.gob.mx",
       "extension": "61151",
       "partido": {
@@ -7161,7 +7161,7 @@
       "id": 169,
       "tipo": "diputado",
       "nombre": "Delhi Miroslava Shember Domínguez",
-      "foto_url": "./fotos_lxviconfondo/088_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/088.jpg",
       "email": "delhi.shember@diputados.gob.mx",
       "extension": "61122",
       "partido": {
@@ -7216,7 +7216,7 @@
       "id": 170,
       "tipo": "diputado",
       "nombre": "José Luis Téllez Marín",
-      "foto_url": "./fotos_lxviconfondo/131_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/131.jpg",
       "email": "joseluis.tellez@diputados.gob.mx",
       "extension": "61560",
       "partido": {
@@ -7263,7 +7263,7 @@
       "id": 171,
       "tipo": "diputado",
       "nombre": "Marcela Velázquez Vázquez",
-      "foto_url": "./fotos_lxviconfondo/082_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/082.jpg",
       "email": "marcela.velazquez@diputados.gob.mx",
       "extension": "61124",
       "partido": {
@@ -7296,7 +7296,7 @@
       "id": 172,
       "tipo": "diputado",
       "nombre": "Ernesto Núñez Aguilar",
-      "foto_url": "./fotos_lxviconfondo/452_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/452.jpg",
       "email": "ernesto.nunez@diputados.gob.mx",
       "extension": "59560",
       "partido": {
@@ -7339,7 +7339,7 @@
       "id": 173,
       "tipo": "diputado",
       "nombre": "Guadalupe Araceli Mendoza Arias",
-      "foto_url": "./fotos_lxviconfondo/392_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/392.jpg",
       "email": "araceli.mendoza@diputados.gob.mx",
       "extension": "61597,61598",
       "partido": {
@@ -7358,7 +7358,7 @@
       "id": 174,
       "tipo": "diputado",
       "nombre": "David Alejandro Cortés Mendoza",
-      "foto_url": "./fotos_lxviconfondo/218_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/218.jpg",
       "email": "david.cortes@diputados.gob.mx",
       "extension": "59889",
       "partido": {
@@ -7405,7 +7405,7 @@
       "id": 175,
       "tipo": "diputado",
       "nombre": "Vanessa López Carrillo",
-      "foto_url": "./fotos_lxviconfondo/140_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/140.jpg",
       "email": "vanessa.lopez@diputados.gob.mx",
       "extension": "62048",
       "partido": {
@@ -7451,7 +7451,7 @@
       "id": 176,
       "tipo": "diputado",
       "nombre": "Sandra Anaya Villegas",
-      "foto_url": "./fotos_lxviconfondo/096_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/096.jpg",
       "email": "sandra.anaya@diputados.gob.mx",
       "extension": "61332",
       "partido": {
@@ -7497,7 +7497,7 @@
       "id": 177,
       "tipo": "diputado",
       "nombre": "Ariadna Barrera Vázquez",
-      "foto_url": "./fotos_lxviconfondo/110_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/110.jpg",
       "email": "ariadna.barrera@diputados.gob.mx",
       "extension": "61358",
       "partido": {
@@ -7547,7 +7547,7 @@
       "id": 178,
       "tipo": "diputado",
       "nombre": "Cindy Winkler Trujillo",
-      "foto_url": "./fotos_lxviconfondo/475_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/475.jpg",
       "email": "cindy.winkler@diputados.gob.mx",
       "extension": "59504",
       "partido": {
@@ -7580,7 +7580,7 @@
       "id": 179,
       "tipo": "diputado",
       "nombre": "Juan Ángel Flores Bustamante",
-      "foto_url": "./fotos_lxviconfondo/126_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/126.jpg",
       "email": "angel.flores@diputados.gob.mx",
       "extension": "61334",
       "partido": {
@@ -7625,7 +7625,7 @@
       "id": 180,
       "tipo": "diputado",
       "nombre": "Agustín Alonso Gutiérrez",
-      "foto_url": "./fotos_lxviconfondo/420_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/420.jpg",
       "email": "agustin.alonso@diputados.gob.mx",
       "extension": "61258",
       "partido": {
@@ -7671,7 +7671,7 @@
       "id": 181,
       "tipo": "diputado",
       "nombre": "Any Marilú Porras Baylón",
-      "foto_url": "./fotos_lxviconfondo/106_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/106.jpg",
       "email": "any.porras@diputados.gob.mx",
       "extension": "61857",
       "partido": {
@@ -7708,7 +7708,7 @@
       "id": 182,
       "tipo": "diputado",
       "nombre": "Beatriz Andrea Navarro Pérez",
-      "foto_url": "./fotos_lxviconfondo/128_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/128.jpg",
       "email": "beatriz.navarro@diputados.gob.mx",
       "extension": "61500",
       "partido": {
@@ -7742,7 +7742,7 @@
       "id": 183,
       "tipo": "diputado",
       "nombre": "Jorge Armando Ortiz Rodríguez",
-      "foto_url": "./fotos_lxviconfondo/149_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/149.jpg",
       "email": "jorge.ortiz@diputados.gob.mx",
       "extension": "62018",
       "partido": {
@@ -7788,7 +7788,7 @@
       "id": 184,
       "tipo": "diputado",
       "nombre": "Homero Ricardo Niño de Rivera Vela",
-      "foto_url": "./fotos_lxviconfondo/381_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/381.jpg",
       "email": "homero.ninoderivera@diputados.gob.mx",
       "extension": "59900",
       "partido": {
@@ -7834,7 +7834,7 @@
       "id": 185,
       "tipo": "diputado",
       "nombre": "Andrés Mauricio Cantú Ramírez",
-      "foto_url": "./fotos_lxviconfondo/350_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/350.jpg",
       "email": "andres.cantu@diputados.gob.mx",
       "extension": "61582",
       "partido": {
@@ -7876,7 +7876,7 @@
       "id": 187,
       "tipo": "diputado",
       "nombre": "Amparo Lilia Olivares Castañeda",
-      "foto_url": "./fotos_lxviconfondo/205_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/205.jpg",
       "email": "lily.olivares@diputados.gob.mx",
       "extension": "61637",
       "partido": {
@@ -7922,7 +7922,7 @@
       "id": 188,
       "tipo": "diputado",
       "nombre": "Santiago González Soto",
-      "foto_url": "./fotos_lxviconfondo/103_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/103.jpg",
       "email": "santiago.gonzalez@diputados.gob.mx",
       "extension": "62028",
       "partido": {
@@ -7968,7 +7968,7 @@
       "id": 189,
       "tipo": "diputado",
       "nombre": "Annia Sarahí Gómez Cárdenas",
-      "foto_url": "./fotos_lxviconfondo/216_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/216.jpg",
       "email": "annia.gomez@diputados.gob.mx",
       "extension": "59892",
       "partido": {
@@ -8016,7 +8016,7 @@
       "id": 190,
       "tipo": "diputado",
       "nombre": "Carlos Alberto Guevara Garza",
-      "foto_url": "./fotos_lxviconfondo/463_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/463.jpg",
       "email": "alberto.guevara@diputados.gob.mx",
       "extension": "68868",
       "partido": {
@@ -8049,7 +8049,7 @@
       "id": 191,
       "tipo": "diputado",
       "nombre": "Adriana Belinda Quiroz Gallegos",
-      "foto_url": "./fotos_lxviconfondo/159_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/159.jpg",
       "email": "adriana.quiroz@diputados.gob.mx",
       "extension": "61147",
       "partido": {
@@ -8104,7 +8104,7 @@
       "id": 192,
       "tipo": "diputado",
       "nombre": "Juan Francisco Espinoza Eguía",
-      "foto_url": "./fotos_lxviconfondo/384_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/384.jpg",
       "email": "francisco.espinoza@diputados.gob.mx",
       "extension": "59430",
       "partido": {
@@ -8159,7 +8159,7 @@
       "id": 193,
       "tipo": "diputado",
       "nombre": "Ana Isabel González González",
-      "foto_url": "./fotos_lxviconfondo/500_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/500.jpg",
       "email": "ana.gonzalez@diputados.gob.mx",
       "extension": "59418",
       "partido": {
@@ -8214,7 +8214,7 @@
       "id": 195,
       "tipo": "diputado",
       "nombre": "Héctor Alfonso de la Garza Villarreal",
-      "foto_url": "./fotos_lxviconfondo/471_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/471.jpg",
       "email": "hector.delagarza@diputados.gob.mx",
       "extension": "59098",
       "partido": {
@@ -8233,7 +8233,7 @@
       "id": 196,
       "tipo": "diputado",
       "nombre": "Luis Orlando Quiroga Treviño",
-      "foto_url": "./fotos_lxviconfondo/472_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/472.jpg",
       "email": "luis.quiroga@diputados.gob.mx",
       "extension": "68868",
       "partido": {
@@ -8280,7 +8280,7 @@
       "id": 197,
       "tipo": "diputado",
       "nombre": "José Gloria López",
-      "foto_url": "./fotos_lxviconfondo/115_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/115.jpg",
       "email": "jose.gloria@diputados.gob.mx",
       "extension": "67111",
       "partido": {
@@ -8326,7 +8326,7 @@
       "id": 198,
       "tipo": "diputado",
       "nombre": "Miriam de los Angeles Vázquez Ruíz",
-      "foto_url": "./fotos_lxviconfondo/127_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/127.jpg",
       "email": "miriam.vazquez@diputados.gob.mx",
       "extension": "61190",
       "partido": {
@@ -8372,7 +8372,7 @@
       "id": 199,
       "tipo": "diputado",
       "nombre": "Irma Juan Carlos",
-      "foto_url": "./fotos_lxviconfondo/105_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/105.jpg",
       "email": "irma.juan@diputados.gob.mx",
       "extension": "55048",
       "partido": {
@@ -8418,7 +8418,7 @@
       "id": 200,
       "tipo": "diputado",
       "nombre": "Margarita García García",
-      "foto_url": "./fotos_lxviconfondo/168_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/168.jpg",
       "email": "margarita.garcia@diputados.gob.mx",
       "extension": "62038",
       "partido": {
@@ -8466,7 +8466,7 @@
       "id": 201,
       "tipo": "diputado",
       "nombre": "Naty Poob Pijy Jiménez Vásquez",
-      "foto_url": "./fotos_lxviconfondo/152_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/152.jpg",
       "email": "naty.jimenez@diputados.gob.mx",
       "extension": "61192",
       "partido": {
@@ -8508,7 +8508,7 @@
       "id": 202,
       "tipo": "diputado",
       "nombre": "Carol Antonio Altamirano",
-      "foto_url": "./fotos_lxviconfondo/433_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/433.jpg",
       "email": "carol.antonio@diputados.gob.mx",
       "extension": "61527",
       "partido": {
@@ -8554,7 +8554,7 @@
       "id": 203,
       "tipo": "diputado",
       "nombre": "José Alejandro López Sánchez",
-      "foto_url": "./fotos_lxviconfondo/138_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/138.jpg",
       "email": "jose.lopez@diputados.gob.mx",
       "extension": "62421",
       "partido": {
@@ -8599,7 +8599,7 @@
       "id": 204,
       "tipo": "diputado",
       "nombre": "Gloria Sánchez López",
-      "foto_url": "./fotos_lxviconfondo/031_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/031.jpg",
       "email": "gloria.sanchez@diputados.gob.mx",
       "extension": "68835",
       "partido": {
@@ -8641,7 +8641,7 @@
       "id": 205,
       "tipo": "diputado",
       "nombre": "Raúl Bolaños-Cacho Cué",
-      "foto_url": "./fotos_lxviconfondo/429_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/429.jpg",
       "email": "raul.bolanos@diputados.gob.mx",
       "extension": "59616",
       "partido": {
@@ -8666,7 +8666,7 @@
       "id": 206,
       "tipo": "diputado",
       "nombre": "María del Carmen Bautista Peláez",
-      "foto_url": "./fotos_lxviconfondo/124_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/124.jpg",
       "email": "maria.bautista@diputados.gob.mx",
       "extension": "61549",
       "partido": {
@@ -8720,7 +8720,7 @@
       "id": 207,
       "tipo": "diputado",
       "nombre": "Carmelo Cruz Mendoza",
-      "foto_url": "./fotos_lxviconfondo/122_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/122.jpg",
       "email": "carmelo.cruz@diputados.gob.mx",
       "extension": "61161",
       "partido": {
@@ -8758,7 +8758,7 @@
       "id": 208,
       "tipo": "diputado",
       "nombre": "Gissel Santander Soto",
-      "foto_url": "./fotos_lxviconfondo/100_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/100.jpg",
       "email": "gissel.santander@diputados.gob.mx",
       "extension": "61440",
       "partido": {
@@ -8824,7 +8824,7 @@
       "id": 209,
       "tipo": "diputado",
       "nombre": "Fatima Almendra Cruz Peláez",
-      "foto_url": "./fotos_lxviconfondo/483_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/483.jpg",
       "email": "fatima.cruz@diputados.gob.mx",
       "extension": "59524",
       "partido": {
@@ -8862,7 +8862,7 @@
       "id": 210,
       "tipo": "diputado",
       "nombre": "María de los Ángeles Ballesteros García",
-      "foto_url": "./fotos_lxviconfondo/092_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/092.jpg",
       "email": "maria.ballesteros@diputados.gob.mx",
       "extension": "61446",
       "partido": {
@@ -8911,7 +8911,7 @@
       "id": 211,
       "tipo": "diputado",
       "nombre": "Juan Antonio González Hernández",
-      "foto_url": "./fotos_lxviconfondo/091_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/091.jpg",
       "email": "juanantonio.gonzalez@diputados.gob.mx",
       "extension": "61340",
       "partido": {
@@ -8957,7 +8957,7 @@
       "id": 212,
       "tipo": "diputado",
       "nombre": "Rafaela Vianey García Romero",
-      "foto_url": "./fotos_lxviconfondo/120_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/120.jpg",
       "email": "vianey.garcia@diputados.gob.mx",
       "extension": "61404",
       "partido": {
@@ -9003,7 +9003,7 @@
       "id": 213,
       "tipo": "diputado",
       "nombre": "Alejandro Carvajal Hidalgo",
-      "foto_url": "./fotos_lxviconfondo/185_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/185.jpg",
       "email": "alejandro.carvajal@diputados.gob.mx",
       "extension": "61402",
       "partido": {
@@ -9048,7 +9048,7 @@
       "id": 214,
       "tipo": "diputado",
       "nombre": "Claudia Rivera Vivanco",
-      "foto_url": "./fotos_lxviconfondo/095_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/095.jpg",
       "email": "claudia.rivera@diputados.gob.mx",
       "extension": "61448",
       "partido": {
@@ -9082,7 +9082,7 @@
       "id": 215,
       "tipo": "diputado",
       "nombre": "Carlos Ignacio Mier Bañuelos",
-      "foto_url": "./fotos_lxviconfondo/132_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/132.jpg",
       "email": "carlos.mier@diputados.gob.mx",
       "extension": "61444",
       "partido": {
@@ -9115,7 +9115,7 @@
       "id": 216,
       "tipo": "diputado",
       "nombre": "José Antonio Gali López",
-      "foto_url": "./fotos_lxviconfondo/480_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/480.jpg",
       "email": "jose.gali@diputados.gob.mx",
       "extension": "59622",
       "partido": {
@@ -9148,7 +9148,7 @@
       "id": 217,
       "tipo": "diputado",
       "nombre": "María Fabiola Karina Pérez Popoca",
-      "foto_url": "./fotos_lxviconfondo/112_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/112.jpg",
       "email": "karina.perez@diputados.gob.mx",
       "extension": "61408",
       "partido": {
@@ -9181,7 +9181,7 @@
       "id": 218,
       "tipo": "diputado",
       "nombre": "José Antonio López Ruíz",
-      "foto_url": "./fotos_lxviconfondo/129_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/129.jpg",
       "email": "antonio.lopez@diputados.gob.mx",
       "extension": "62022",
       "partido": {
@@ -9227,7 +9227,7 @@
       "id": 219,
       "tipo": "diputado",
       "nombre": "Nora Yessica Merino Escamilla",
-      "foto_url": "./fotos_lxviconfondo/182_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/182.jpg",
       "email": "nora.escamilla@diputados.gob.mx",
       "extension": "62040",
       "partido": {
@@ -9274,7 +9274,7 @@
       "id": 220,
       "tipo": "diputado",
       "nombre": "Mario Miguel Carrillo Cubillas",
-      "foto_url": "./fotos_lxviconfondo/141_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/141.jpg",
       "email": "mario.carrillo@diputados.gob.mx",
       "extension": "61406",
       "partido": {
@@ -9320,7 +9320,7 @@
       "id": 221,
       "tipo": "diputado",
       "nombre": "Eduardo Castillo López",
-      "foto_url": "./fotos_lxviconfondo/094_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/094.jpg",
       "email": "eduardo.castillo@diputados.gob.mx",
       "extension": "1809",
       "partido": {
@@ -9384,7 +9384,7 @@
       "id": 222,
       "tipo": "diputado",
       "nombre": "María del Rosario Orozco Caballero",
-      "foto_url": "./fotos_lxviconfondo/017_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/017.jpg",
       "email": "maria.orozco@diputados.gob.mx",
       "extension": "61470",
       "partido": {
@@ -9429,7 +9429,7 @@
       "id": 223,
       "tipo": "diputado",
       "nombre": "Adolfo Alatriste Cantú",
-      "foto_url": "./fotos_lxviconfondo/487_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/487.jpg",
       "email": "adolfo.alatriste@diputados.gob.mx",
       "extension": "67935",
       "partido": {
@@ -9475,7 +9475,7 @@
       "id": 224,
       "tipo": "diputado",
       "nombre": "Gilberto Herrera Ruiz",
-      "foto_url": "./fotos_lxviconfondo/102_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/102.jpg",
       "email": "gilberto.ruiz@diputados.gob.mx",
       "extension": "59818",
       "partido": {
@@ -9512,7 +9512,7 @@
       "id": 225,
       "tipo": "diputado",
       "nombre": "Ricardo Astudillo Suárez",
-      "foto_url": "./fotos_lxviconfondo/456_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/456.jpg",
       "email": "ricardo.astudillo@diputados.gob.mx",
       "extension": "59560",
       "partido": {
@@ -9559,7 +9559,7 @@
       "id": 226,
       "tipo": "diputado",
       "nombre": "Ma. Lorena García Jimeno Alcocer",
-      "foto_url": "./fotos_lxviconfondo/215_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/215.jpg",
       "email": "lorena.garcia@diputados.gob.mx",
       "extension": "59915",
       "partido": {
@@ -9605,7 +9605,7 @@
       "id": 227,
       "tipo": "diputado",
       "nombre": "Roberto Sosa Pichardo",
-      "foto_url": "./fotos_lxviconfondo/236_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/236.jpg",
       "email": "roberto.sosa@diputados.gob.mx",
       "extension": "61635",
       "partido": {
@@ -9651,7 +9651,7 @@
       "id": 228,
       "tipo": "diputado",
       "nombre": "Mario Calzada Mercado",
-      "foto_url": "./fotos_lxviconfondo/349_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/349.jpg",
       "email": "mario.calzada@diputados.gob.mx",
       "extension": "59460",
       "partido": {
@@ -9697,7 +9697,7 @@
       "id": 229,
       "tipo": "diputado",
       "nombre": "Luis Humberto Fernández Fuentes",
-      "foto_url": "./fotos_lxviconfondo/009_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/009.jpg",
       "email": "humberto.fernandez@diputados.gob.mx",
       "extension": "59886",
       "partido": {
@@ -9755,7 +9755,7 @@
       "id": 230,
       "tipo": "diputado",
       "nombre": "Juan Luis Carrillo Soberanis",
-      "foto_url": "./fotos_lxviconfondo/462_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/462.jpg",
       "email": "juan.carrillo@diputados.gob.mx",
       "extension": "59587",
       "partido": {
@@ -9793,7 +9793,7 @@
       "id": 232,
       "tipo": "diputado",
       "nombre": "Luis Humberto Aldana Navarro",
-      "foto_url": "./fotos_lxviconfondo/175_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/175.jpg",
       "email": "luis.aldana@diputados.gob.mx",
       "extension": "68826",
       "partido": {
@@ -9835,7 +9835,7 @@
       "id": 233,
       "tipo": "diputado",
       "nombre": "Mildred Concepción Ávila Vera",
-      "foto_url": "./fotos_lxviconfondo/173_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/173.jpg",
       "email": "mildred.avila@diputados.gob.mx",
       "extension": "68896",
       "partido": {
@@ -9881,7 +9881,7 @@
       "id": 234,
       "tipo": "diputado",
       "nombre": "Aremy Velazco Bautista",
-      "foto_url": "./fotos_lxviconfondo/111_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/111.jpg",
       "email": "aremy.velazco@diputados.gob.mx",
       "extension": "61412",
       "partido": {
@@ -9919,7 +9919,7 @@
       "id": 235,
       "tipo": "diputado",
       "nombre": "José Luis Fernández Martínez",
-      "foto_url": "./fotos_lxviconfondo/442_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/442.jpg",
       "email": "joseluis.fernandez@diputados.gob.mx",
       "extension": "59506",
       "partido": {
@@ -9958,7 +9958,7 @@
       "id": 236,
       "tipo": "diputado",
       "nombre": "Oscar Bautista Villegas",
-      "foto_url": "./fotos_lxviconfondo/493_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/493.jpg",
       "email": "oscar.bautista@diputados.gob.mx",
       "extension": "59622",
       "partido": {
@@ -10005,7 +10005,7 @@
       "id": 237,
       "tipo": "diputado",
       "nombre": "Francisco Adrián Castillo Morales",
-      "foto_url": "./fotos_lxviconfondo/163_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/163.jpg",
       "email": "francisco.castillo@diputados.gob.mx",
       "extension": "61432",
       "partido": {
@@ -10042,7 +10042,7 @@
       "id": 238,
       "tipo": "diputado",
       "nombre": "David Azuara Zúñiga",
-      "foto_url": "./fotos_lxviconfondo/217_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/217.jpg",
       "email": "david.azuara@diputados.gob.mx",
       "extension": "59888",
       "partido": {
@@ -10089,7 +10089,7 @@
       "id": 239,
       "tipo": "diputado",
       "nombre": "Juan Carlos Valladares Eichelmann",
-      "foto_url": "./fotos_lxviconfondo/444_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/444.jpg",
       "email": "juan.valladares@diputados.gob.mx",
       "extension": "59550",
       "partido": {
@@ -10131,7 +10131,7 @@
       "id": 240,
       "tipo": "diputado",
       "nombre": "Briceyda García Antonio",
-      "foto_url": "./fotos_lxviconfondo/155_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/155.jpg",
       "email": "briceyda.garcia@diputados.gob.mx",
       "extension": "61410",
       "partido": {
@@ -10172,7 +10172,7 @@
       "id": 241,
       "tipo": "diputado",
       "nombre": "Graciela Domínguez Nava",
-      "foto_url": "./fotos_lxviconfondo/382_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/382.jpg",
       "email": "graciela.dominguez@diputados.gob.mx",
       "extension": "68881",
       "partido": {
@@ -10209,7 +10209,7 @@
       "id": 242,
       "tipo": "diputado",
       "nombre": "Ana Elizabeth Ayala Leyva",
-      "foto_url": "./fotos_lxviconfondo/074_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/074.jpg",
       "email": "ana.ayala@diputados.gob.mx",
       "extension": "68281",
       "partido": {
@@ -10247,7 +10247,7 @@
       "id": 243,
       "tipo": "diputado",
       "nombre": "Jesús Fernando García Hernández",
-      "foto_url": "./fotos_lxviconfondo/104_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/104.jpg",
       "email": "jesus.garcia@diputados.gob.mx",
       "extension": "62012",
       "partido": {
@@ -10293,7 +10293,7 @@
       "id": 244,
       "tipo": "diputado",
       "nombre": "Felicita Pompa Robles",
-      "foto_url": "./fotos_lxviconfondo/016_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/016.jpg",
       "email": "felicita.pompa@diputados.gob.mx",
       "extension": "59877",
       "partido": {
@@ -10339,7 +10339,7 @@
       "id": 245,
       "tipo": "diputado",
       "nombre": "Jesús Alfonso Ibarra Ramos",
-      "foto_url": "./fotos_lxviconfondo/036_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/036.jpg",
       "email": "jesus.ibarra@diputados.gob.mx",
       "extension": "61870",
       "partido": {
@@ -10390,7 +10390,7 @@
       "id": 246,
       "tipo": "diputado",
       "nombre": "Olegaria Carrazco Macías",
-      "foto_url": "./fotos_lxviconfondo/160_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/160.jpg",
       "email": "olegaria.carrazco@diputados.gob.mx",
       "extension": "59827",
       "partido": {
@@ -10428,7 +10428,7 @@
       "id": 247,
       "tipo": "diputado",
       "nombre": "Merary Villegas Sánchez",
-      "foto_url": "./fotos_lxviconfondo/390_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/390.jpg",
       "email": "merary.villegas@diputados.gob.mx",
       "extension": "56081",
       "partido": {
@@ -10462,7 +10462,7 @@
       "id": 248,
       "tipo": "diputado",
       "nombre": "Manuel de Jesús Baldenebro Arredondo",
-      "foto_url": "./fotos_lxviconfondo/033_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/033.jpg",
       "email": "manuel.baldenebro@diputados.gob.mx",
       "extension": "67881",
       "partido": {
@@ -10504,7 +10504,7 @@
       "id": 249,
       "tipo": "diputado",
       "nombre": "Jesús Antonio Pujol Irastorza",
-      "foto_url": "./fotos_lxviconfondo/171_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/171.jpg",
       "email": "jesus.pujol@diputados.gob.mx",
       "extension": "61418",
       "partido": {
@@ -10554,7 +10554,7 @@
       "id": 250,
       "tipo": "diputado",
       "nombre": "Diana Karina Barreras Samaniego",
-      "foto_url": "./fotos_lxviconfondo/118_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/118.jpg",
       "email": "diana.barreras@diputados.gob.mx",
       "extension": "62042",
       "partido": {
@@ -10601,7 +10601,7 @@
       "id": 251,
       "tipo": "diputado",
       "nombre": "Ramón Angel Flores Robles",
-      "foto_url": "./fotos_lxviconfondo/098_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/098.jpg",
       "email": "ramon.flores@diputados.gob.mx",
       "extension": "62406",
       "partido": {
@@ -10648,7 +10648,7 @@
       "id": 252,
       "tipo": "diputado",
       "nombre": "Jacobo Mendoza Ruiz",
-      "foto_url": "./fotos_lxviconfondo/119_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/119.jpg",
       "email": "jacobo.mendoza@diputados.gob.mx",
       "extension": "67880",
       "partido": {
@@ -10686,7 +10686,7 @@
       "id": 253,
       "tipo": "diputado",
       "nombre": "Anabel Acosta Islas",
-      "foto_url": "./fotos_lxviconfondo/459_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/459.jpg",
       "email": "anabel.acosta@diputados.gob.mx",
       "extension": "59612",
       "partido": {
@@ -10719,7 +10719,7 @@
       "id": 254,
       "tipo": "diputado",
       "nombre": "Alma Manuela Higuera Esquer",
-      "foto_url": "./fotos_lxviconfondo/154_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/154.jpg",
       "email": "alma.higuera@diputados.gob.mx",
       "extension": "68895",
       "partido": {
@@ -10753,7 +10753,7 @@
       "id": 255,
       "tipo": "diputado",
       "nombre": "Julio Ernesto Gutiérrez Bocanegra",
-      "foto_url": "./fotos_lxviconfondo/116_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/116.jpg",
       "email": "julio.gutierrez@diputados.gob.mx",
       "extension": "61159",
       "partido": {
@@ -10786,7 +10786,7 @@
       "id": 256,
       "tipo": "diputado",
       "nombre": "Iván Peña Vidal",
-      "foto_url": "./fotos_lxviconfondo/146_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/146.jpg",
       "email": "ivan.pena@diputados.gob.mx",
       "extension": "61180",
       "partido": {
@@ -10820,7 +10820,7 @@
       "id": 257,
       "tipo": "diputado",
       "nombre": "Rosa Margarita Graniel Zenteno",
-      "foto_url": "./fotos_lxviconfondo/144_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/144.jpg",
       "email": "rosa.graniel@diputados.gob.mx",
       "extension": "61186",
       "partido": {
@@ -10865,7 +10865,7 @@
       "id": 258,
       "tipo": "diputado",
       "nombre": "Jaime Humberto Lastra Bastar",
-      "foto_url": "./fotos_lxviconfondo/147_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/147.jpg",
       "email": "jaime.lastra@diputados.gob.mx",
       "extension": "61175",
       "partido": {
@@ -10903,7 +10903,7 @@
       "id": 259,
       "tipo": "diputado",
       "nombre": "Beatriz Milland Pérez",
-      "foto_url": "./fotos_lxviconfondo/157_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/157.jpg",
       "email": "beatriz.milland@diputados.gob.mx",
       "extension": "61178",
       "partido": {
@@ -10948,7 +10948,7 @@
       "id": 260,
       "tipo": "diputado",
       "nombre": "Tey Mollinedo Cano",
-      "foto_url": "./fotos_lxviconfondo/151_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/151.jpg",
       "email": "tey.mollinedo@diputados.gob.mx",
       "extension": "61182",
       "partido": {
@@ -10995,7 +10995,7 @@
       "id": 261,
       "tipo": "diputado",
       "nombre": "Carlos Enrique Canturosas Villarreal",
-      "foto_url": "./fotos_lxviconfondo/464_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/464.jpg",
       "email": "carlos.canturosas@diputados.gob.mx",
       "extension": "68871",
       "partido": {
@@ -11041,7 +11041,7 @@
       "id": 262,
       "tipo": "diputado",
       "nombre": "Claudia Alejandra Hernández Sáenz",
-      "foto_url": "./fotos_lxviconfondo/139_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/139.jpg",
       "email": "alejandra.hernandez@diputados.gob.mx",
       "extension": "61863",
       "partido": {
@@ -11078,7 +11078,7 @@
       "id": 263,
       "tipo": "diputado",
       "nombre": "Casandra Prisilla De Los Santos Flores",
-      "foto_url": "./fotos_lxviconfondo/478_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/478.jpg",
       "email": "casandra.delossantos@diputados.gob.mx",
       "extension": "68875",
       "partido": {
@@ -11124,7 +11124,7 @@
       "id": 264,
       "tipo": "diputado",
       "nombre": "Mario Alberto López Hernández",
-      "foto_url": "./fotos_lxviconfondo/435_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/435.jpg",
       "email": "alberto.lopez@diputados.gob.mx",
       "extension": "68871",
       "partido": {
@@ -11169,7 +11169,7 @@
       "id": 265,
       "tipo": "diputado",
       "nombre": "José Braña Mojica",
-      "foto_url": "./fotos_lxviconfondo/427_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/427.jpg",
       "email": "jose.brana@diputados.gob.mx",
       "extension": "68872",
       "partido": {
@@ -11215,7 +11215,7 @@
       "id": 266,
       "tipo": "diputado",
       "nombre": "Blanca Araceli Narro Panameño",
-      "foto_url": "./fotos_lxviconfondo/049_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/049.jpg",
       "email": "blanca.narro@diputados.gob.mx",
       "extension": "61868",
       "partido": {
@@ -11249,7 +11249,7 @@
       "id": 267,
       "tipo": "diputado",
       "nombre": "Olga Juliana Elizondo Guerra",
-      "foto_url": "./fotos_lxviconfondo/148_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/148.jpg",
       "email": "olga.elizondo@diputados.gob.mx",
       "extension": "62410",
       "partido": {
@@ -11295,7 +11295,7 @@
       "id": 268,
       "tipo": "diputado",
       "nombre": "Jesús Antonio Nader Nasrallah",
-      "foto_url": "./fotos_lxviconfondo/224_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/224.jpg",
       "email": "jesus.nader@diputados.gob.mx",
       "extension": "61706",
       "partido": {
@@ -11337,7 +11337,7 @@
       "id": 269,
       "tipo": "diputado",
       "nombre": "José Alejandro Aguilar López",
-      "foto_url": "./fotos_lxviconfondo/121_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/121.jpg",
       "email": "jalejandro.aguilar@diputados.gob.mx",
       "extension": "62036",
       "partido": {
@@ -11383,7 +11383,7 @@
       "id": 270,
       "tipo": "diputado",
       "nombre": "Raymundo Vázquez Conchas",
-      "foto_url": "./fotos_lxviconfondo/136_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/136.jpg",
       "email": "raymundo.vazquez@diputados.gob.mx",
       "extension": "55283",
       "partido": {
@@ -11434,7 +11434,7 @@
       "id": 271,
       "tipo": "diputado",
       "nombre": "Irma Yordana Garay Loredo",
-      "foto_url": "./fotos_lxviconfondo/134_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/134.jpg",
       "email": "irma.garay@diputados.gob.mx",
       "extension": "62014",
       "partido": {
@@ -11481,7 +11481,7 @@
       "id": 272,
       "tipo": "diputado",
       "nombre": "María del Carmen Pinete Vargas (DECESO)",
-      "foto_url": "./fotos_lxviconfondo/447_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/447.jpg",
       "email": "maria.pinete@diputados.gob.mx",
       "extension": "59502",
       "partido": {
@@ -11500,7 +11500,7 @@
       "id": 273,
       "tipo": "diputado",
       "nombre": "Elizabeth Cervantes de la Cruz",
-      "foto_url": "./fotos_lxviconfondo/430_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/430.jpg",
       "email": "elizabeth.cervantes@diputados.gob.mx",
       "extension": "61424",
       "partido": {
@@ -11537,7 +11537,7 @@
       "id": 274,
       "tipo": "diputado",
       "nombre": "Magaly Armenta Oliveros",
-      "foto_url": "./fotos_lxviconfondo/469_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/469.jpg",
       "email": "magaly.armenta@diputados.gob.mx",
       "extension": "61426",
       "partido": {
@@ -11574,7 +11574,7 @@
       "id": 275,
       "tipo": "diputado",
       "nombre": "María Josefina Gamboa Torales",
-      "foto_url": "./fotos_lxviconfondo/211_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/211.jpg",
       "email": "maria.gamboa@diputados.gob.mx",
       "extension": "61629",
       "partido": {
@@ -11621,7 +11621,7 @@
       "id": 276,
       "tipo": "diputado",
       "nombre": "Francisco Javier Velázquez Vallejo",
-      "foto_url": "./fotos_lxviconfondo/186_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/186.jpg",
       "email": "javier.velazquez@diputados.gob.mx",
       "extension": "61420",
       "partido": {
@@ -11666,7 +11666,7 @@
       "id": 277,
       "tipo": "diputado",
       "nombre": "Jaime Humberto Pérez Bernabe",
-      "foto_url": "./fotos_lxviconfondo/073_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/073.jpg",
       "email": "jaime.perez@diputados.gob.mx",
       "extension": "61478",
       "partido": {
@@ -11704,7 +11704,7 @@
       "id": 278,
       "tipo": "diputado",
       "nombre": "Mónica Herrera Villavicencio",
-      "foto_url": "./fotos_lxviconfondo/213_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/213.jpg",
       "email": "monica.herrera@diputados.gob.mx",
       "extension": "61679",
       "partido": {
@@ -11753,7 +11753,7 @@
       "id": 279,
       "tipo": "diputado",
       "nombre": "Jorge Alberto Mier Acolt",
-      "foto_url": "./fotos_lxviconfondo/178_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/178.jpg",
       "email": "jorge.mier@diputados.gob.mx",
       "extension": "61394",
       "partido": {
@@ -11792,7 +11792,7 @@
       "id": 280,
       "tipo": "diputado",
       "nombre": "Adrián González Naveda",
-      "foto_url": "./fotos_lxviconfondo/172_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/172.jpg",
       "email": "adrian.gonzalez@diputados.gob.mx",
       "extension": "62067",
       "partido": {
@@ -11839,7 +11839,7 @@
       "id": 281,
       "tipo": "diputado",
       "nombre": "Ana Miriam Ferráez Centeno",
-      "foto_url": "./fotos_lxviconfondo/166_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/166.jpg",
       "email": "ana.ferraez@diputados.gob.mx",
       "extension": "61474",
       "partido": {
@@ -11872,7 +11872,7 @@
       "id": 284,
       "tipo": "diputado",
       "nombre": "Blanca Estela Hernández Rodríguez",
-      "foto_url": "./fotos_lxviconfondo/437_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/437.jpg",
       "email": "blanca.hernandez@diputados.gob.mx",
       "extension": "59444",
       "partido": {
@@ -11905,7 +11905,7 @@
       "id": 285,
       "tipo": "diputado",
       "nombre": "Jessica Ramírez Cisneros",
-      "foto_url": "./fotos_lxviconfondo/309_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/309.jpg",
       "email": "jessica.ramirez@diputados.gob.mx",
       "extension": "61428",
       "partido": {
@@ -11946,7 +11946,7 @@
       "id": 286,
       "tipo": "diputado",
       "nombre": "Dulce María Corina Villegas Guarneros",
-      "foto_url": "./fotos_lxviconfondo/170_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/170.jpg",
       "email": "dulce.villegas@diputados.gob.mx",
       "extension": "61422",
       "partido": {
@@ -11984,7 +11984,7 @@
       "id": 287,
       "tipo": "diputado",
       "nombre": "Zenyazen Roberto Escobar García",
-      "foto_url": "./fotos_lxviconfondo/176_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/176.jpg",
       "email": "zenyazen.escobar@diputados.gob.mx",
       "extension": "61521",
       "partido": {
@@ -12018,7 +12018,7 @@
       "id": 288,
       "tipo": "diputado",
       "nombre": "Margarita Corro Mendoza",
-      "foto_url": "./fotos_lxviconfondo/177_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/177.jpg",
       "email": "margarita.corro@diputados.gob.mx",
       "extension": "61396",
       "partido": {
@@ -12063,7 +12063,7 @@
       "id": 289,
       "tipo": "diputado",
       "nombre": "Benito Aguas Atlahua (DECESO)",
-      "foto_url": "./fotos_lxviconfondo/491_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/491.jpg",
       "email": "benito.aguas@diputados.gob.mx",
       "extension": "59098",
       "partido": {
@@ -12082,7 +12082,7 @@
       "id": 290,
       "tipo": "diputado",
       "nombre": "Paola Tenorio Adame",
-      "foto_url": "./fotos_lxviconfondo/167_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/167.jpg",
       "email": "paola.tenorio@diputados.gob.mx",
       "extension": "61514",
       "partido": {
@@ -12124,7 +12124,7 @@
       "id": 291,
       "tipo": "diputado",
       "nombre": "Rocío Natalí Barrera Puc",
-      "foto_url": "./fotos_lxviconfondo/189_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/189.jpg",
       "email": "natali.barrera@diputados.gob.mx",
       "extension": "61194",
       "partido": {
@@ -12157,7 +12157,7 @@
       "id": 292,
       "tipo": "diputado",
       "nombre": "Jorge Luis Sánchez Reyes",
-      "foto_url": "./fotos_lxviconfondo/192_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/192.jpg",
       "email": "jorgeluis.sanchez@diputados.gob.mx",
       "extension": "54244",
       "partido": {
@@ -12203,7 +12203,7 @@
       "id": 293,
       "tipo": "diputado",
       "nombre": "Óscar Iván Brito Zapata",
-      "foto_url": "./fotos_lxviconfondo/145_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/145.jpg",
       "email": "oscar.brito@diputados.gob.mx",
       "extension": "61196",
       "partido": {
@@ -12248,7 +12248,7 @@
       "id": 294,
       "tipo": "diputado",
       "nombre": "María Isabel Rodríguez Heredia",
-      "foto_url": "./fotos_lxviconfondo/234_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/234.jpg",
       "email": "isabel.rodriguez@diputados.gob.mx",
       "extension": "59914",
       "partido": {
@@ -12299,7 +12299,7 @@
       "id": 295,
       "tipo": "diputado",
       "nombre": "Jazmín Yaneli Villanueva Moo",
-      "foto_url": "./fotos_lxviconfondo/344_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/344.jpg",
       "email": "jazmin.villanueva@diputados.gob.mx",
       "extension": "59845",
       "partido": {
@@ -12340,7 +12340,7 @@
       "id": 296,
       "tipo": "diputado",
       "nombre": "Jessica Saiden Quiroz",
-      "foto_url": "./fotos_lxviconfondo/232_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/232.jpg",
       "email": "jessica.saiden@diputados.gob.mx",
       "extension": "67292",
       "partido": {
@@ -12386,7 +12386,7 @@
       "id": 297,
       "tipo": "diputado",
       "nombre": "María Soledad Luévano Cantú",
-      "foto_url": "./fotos_lxviconfondo/190_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/190.jpg",
       "email": "maria.luevano@diputados.gob.mx",
       "extension": "61239",
       "partido": {
@@ -12431,7 +12431,7 @@
       "id": 298,
       "tipo": "diputado",
       "nombre": "Julia Arcelia Olguín Serna",
-      "foto_url": "./fotos_lxviconfondo/240_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/240.jpg",
       "email": "julia.olguin@diputados.gob.mx",
       "extension": "67807",
       "partido": {
@@ -12482,7 +12482,7 @@
       "id": 299,
       "tipo": "diputado",
       "nombre": "Ulises Mejía Haro",
-      "foto_url": "./fotos_lxviconfondo/113_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/113.jpg",
       "email": "ulises.mejia@diputados.gob.mx",
       "extension": "61234",
       "partido": {
@@ -12540,7 +12540,7 @@
       "id": 300,
       "tipo": "diputado",
       "nombre": "Ana Luisa del Muro García",
-      "foto_url": "./fotos_lxviconfondo/187_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/187.jpg",
       "email": "ana.delmuro@diputados.gob.mx",
       "extension": "62411",
       "partido": {
@@ -12586,7 +12586,7 @@
       "id": 301,
       "tipo": "diputado",
       "nombre": "Adasa Saray Vázquez",
-      "foto_url": "./fotos_lxviconfondo/244_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/244.jpg",
       "email": "adasa.saray@diputados.gob.mx",
       "extension": "59842",
       "partido": {
@@ -12627,7 +12627,7 @@
       "id": 302,
       "tipo": "diputado",
       "nombre": "Gilberto Daniel Castillo García",
-      "foto_url": "./fotos_lxviconfondo/239_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/239.jpg",
       "email": "gilberto.castillo@diputados.gob.mx",
       "extension": "61326",
       "partido": {
@@ -12672,7 +12672,7 @@
       "id": 303,
       "tipo": "diputado",
       "nombre": "Alma Marina Vitela Rodríguez",
-      "foto_url": "./fotos_lxviconfondo/241_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/241.jpg",
       "email": "alma.vitela@diputados.gob.mx",
       "extension": "61599",
       "partido": {
@@ -12727,7 +12727,7 @@
       "id": 304,
       "tipo": "diputado",
       "nombre": "Hugo Eric Flores Cervantes",
-      "foto_url": "./fotos_lxviconfondo/257_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/257.jpg",
       "email": "hugo.flores@diputados.gob.mx",
       "extension": "61562",
       "partido": {
@@ -12778,7 +12778,7 @@
       "id": 305,
       "tipo": "diputado",
       "nombre": "Mayra Dolores Palomar González",
-      "foto_url": "./fotos_lxviconfondo/250_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/250.jpg",
       "email": "mayra.palomar@diputados.gob.mx",
       "extension": "61551",
       "partido": {
@@ -12816,7 +12816,7 @@
       "id": 306,
       "tipo": "diputado",
       "nombre": "Pedro Miguel Haces Barba",
-      "foto_url": "./fotos_lxviconfondo/254_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/254.jpg",
       "email": "pedro.haces@diputados.gob.mx",
       "extension": "59809",
       "partido": {
@@ -12869,7 +12869,7 @@
       "id": 307,
       "tipo": "diputado",
       "nombre": "Dora Alicia Moreno Méndez",
-      "foto_url": "./fotos_lxviconfondo/246_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/246.jpg",
       "email": "dora.moreno@diputados.gob.mx",
       "extension": "67882",
       "partido": {
@@ -12902,7 +12902,7 @@
       "id": 308,
       "tipo": "diputado",
       "nombre": "Fernando Jorge Castro Trenti",
-      "foto_url": "./fotos_lxviconfondo/003_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/003.jpg",
       "email": "fernando.castro@diputados.gob.mx",
       "extension": "67837-68444",
       "partido": {
@@ -12957,7 +12957,7 @@
       "id": 309,
       "tipo": "diputado",
       "nombre": "Nadia Yadira Sepúlveda García",
-      "foto_url": "./fotos_lxviconfondo/245_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/245.jpg",
       "email": "nadia.sepulveda@diputados.gob.mx",
       "extension": "61328",
       "partido": {
@@ -13007,7 +13007,7 @@
       "id": 311,
       "tipo": "diputado",
       "nombre": "Karina Isabel Martínez Montaño",
-      "foto_url": "./fotos_lxviconfondo/247_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/247.jpg",
       "email": "karina.martinez@diputados.gob.mx",
       "extension": "68825",
       "partido": {
@@ -13053,7 +13053,7 @@
       "id": 312,
       "tipo": "diputado",
       "nombre": "Carlos Ventura Palacios Rodríguez",
-      "foto_url": "./fotos_lxviconfondo/249_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/249.jpg",
       "email": "carlos.palacios@diputados.gob.mx",
       "extension": "61529",
       "partido": {
@@ -13107,7 +13107,7 @@
       "id": 313,
       "tipo": "diputado",
       "nombre": "Giselle Yunueen Arellano Ávila",
-      "foto_url": "./fotos_lxviconfondo/423_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/423.jpg",
       "email": "giselle.arellano@diputados.gob.mx",
       "extension": "61248",
       "partido": {
@@ -13152,7 +13152,7 @@
       "id": 314,
       "tipo": "diputado",
       "nombre": "Hector Armando Cabada Alvidrez",
-      "foto_url": "./fotos_lxviconfondo/238_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/238.jpg",
       "email": "hector.cabada@diputados.gob.mx",
       "extension": "61841",
       "partido": {
@@ -13201,7 +13201,7 @@
       "id": 315,
       "tipo": "diputado",
       "nombre": "Eva María Vásquez Hernández",
-      "foto_url": "./fotos_lxviconfondo/293_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/293.jpg",
       "email": "eva.vasquez@diputados.gob.mx",
       "extension": "59900",
       "partido": {
@@ -13248,7 +13248,7 @@
       "id": 316,
       "tipo": "diputado",
       "nombre": "Pablo Vázquez Ahued",
-      "foto_url": "./fotos_lxviconfondo/411_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/411.jpg",
       "email": "pablo.vazquez@diputados.gob.mx",
       "extension": "62638",
       "partido": {
@@ -13303,7 +13303,7 @@
       "id": 317,
       "tipo": "diputado",
       "nombre": "César Israel Damián Retes",
-      "foto_url": "./fotos_lxviconfondo/289_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/289.jpg",
       "email": "cesar.damian@diputados.gob.mx",
       "extension": "59918",
       "partido": {
@@ -13349,7 +13349,7 @@
       "id": 318,
       "tipo": "diputado",
       "nombre": "Paulina Rubio Fernández",
-      "foto_url": "./fotos_lxviconfondo/212_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/212.jpg",
       "email": "paulina.rubio@diputados.gob.mx",
       "extension": "59888",
       "partido": {
@@ -13382,7 +13382,7 @@
       "id": 319,
       "tipo": "diputado",
       "nombre": "Luis Agustín Rodríguez Torres",
-      "foto_url": "./fotos_lxviconfondo/332_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/332.jpg",
       "email": "agustin.rodriguez@diputados.gob.mx",
       "extension": "59968",
       "partido": {
@@ -13429,7 +13429,7 @@
       "id": 320,
       "tipo": "diputado",
       "nombre": "Carmen Rocío González Alonso",
-      "foto_url": "./fotos_lxviconfondo/296_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/296.jpg",
       "email": "carmen.alonso@diputados.gob.mx",
       "extension": "59966",
       "partido": {
@@ -13475,7 +13475,7 @@
       "id": 321,
       "tipo": "diputado",
       "nombre": "Francisco Pelayo Covarrubias",
-      "foto_url": "./fotos_lxviconfondo/330_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/330.jpg",
       "email": "francisco.pelayo@diputados.gob.mx",
       "extension": "61631",
       "partido": {
@@ -13522,7 +13522,7 @@
       "id": 322,
       "tipo": "diputado",
       "nombre": "Verónica Pérez Herrera",
-      "foto_url": "./fotos_lxviconfondo/316_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/316.jpg",
       "email": "veronica.perez@diputados.gob.mx",
       "extension": "61631",
       "partido": {
@@ -13568,7 +13568,7 @@
       "id": 323,
       "tipo": "diputado",
       "nombre": "Miguel Angel Monraz Ibarra",
-      "foto_url": "./fotos_lxviconfondo/300_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/300.jpg",
       "email": "miguel.monraz@diputados.gob.mx",
       "extension": "59864",
       "partido": {
@@ -13614,7 +13614,7 @@
       "id": 324,
       "tipo": "diputado",
       "nombre": "Arturo Yañez Cuellar",
-      "foto_url": "./fotos_lxviconfondo/357_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/357.jpg",
       "email": "arturo.yanez@diputados.gob.mx",
       "extension": "55121",
       "partido": {
@@ -13660,7 +13660,7 @@
       "id": 325,
       "tipo": "diputado",
       "nombre": "Graciela Ortiz González",
-      "foto_url": "./fotos_lxviconfondo/367_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/367.jpg",
       "email": "graciela.gonzalez@diputados.gob.mx",
       "extension": "59469",
       "partido": {
@@ -13711,7 +13711,7 @@
       "id": 326,
       "tipo": "diputado",
       "nombre": "Mario Zamora Gastélum",
-      "foto_url": "./fotos_lxviconfondo/363_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/363.jpg",
       "email": "mario.zamora@diputados.gob.mx",
       "extension": "59474",
       "partido": {
@@ -13753,7 +13753,7 @@
       "id": 329,
       "tipo": "diputado",
       "nombre": "Ana Erika Santana González",
-      "foto_url": "./fotos_lxviconfondo/484_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/484.jpg",
       "email": "ana.santana@diputados.gob.mx",
       "extension": "59637",
       "partido": {
@@ -13802,7 +13802,7 @@
       "id": 330,
       "tipo": "diputado",
       "nombre": "Alejandra Chedraui Peralta",
-      "foto_url": "./fotos_lxviconfondo/439_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/439.jpg",
       "email": "alejandra.chedraui@diputados.gob.mx",
       "extension": "61372",
       "partido": {
@@ -13851,7 +13851,7 @@
       "id": 331,
       "tipo": "diputado",
       "nombre": "Mayra Espino Suárez",
-      "foto_url": "./fotos_lxviconfondo/455_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/455.jpg",
       "email": "mayra.espino@diputados.gob.mx",
       "extension": "59522",
       "partido": {
@@ -13904,7 +13904,7 @@
       "id": 332,
       "tipo": "diputado",
       "nombre": "Greycy Marian Durán Alarcón",
-      "foto_url": "./fotos_lxviconfondo/255_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/255.jpg",
       "email": "greycy.duran@diputados.gob.mx",
       "extension": "62401",
       "partido": {
@@ -13950,7 +13950,7 @@
       "id": 333,
       "tipo": "diputado",
       "nombre": "Amarante Gonzalo Gómez Alarcón",
-      "foto_url": "./fotos_lxviconfondo/285_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/285.jpg",
       "email": "amarante.gomez@diputados.gob.mx",
       "extension": "62010",
       "partido": {
@@ -13996,7 +13996,7 @@
       "id": 334,
       "tipo": "diputado",
       "nombre": "Patricia Mercado Castro",
-      "foto_url": "./fotos_lxviconfondo/394_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/394.jpg",
       "email": "patricia.mercado@diputados.gob.mx",
       "extension": "62630",
       "partido": {
@@ -14043,7 +14043,7 @@
       "id": 335,
       "tipo": "diputado",
       "nombre": "Hugo Manuel Luna Vázquez",
-      "foto_url": "./fotos_lxviconfondo/409_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/409.jpg",
       "email": "hugo.luna@diputados.gob.mx",
       "extension": "62650",
       "partido": {
@@ -14095,7 +14095,7 @@
       "id": 336,
       "tipo": "diputado",
       "nombre": "Claudia Gabriela Salas Rodríguez",
-      "foto_url": "./fotos_lxviconfondo/402_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/402.jpg",
       "email": "claudia.salas@diputados.gob.mx",
       "extension": "62614",
       "partido": {
@@ -14146,7 +14146,7 @@
       "id": 337,
       "tipo": "diputado",
       "nombre": "Gustavo Adolfo De Hoyos Walther",
-      "foto_url": "./fotos_lxviconfondo/488_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/488.jpg",
       "email": "gustavo.dehoyos@diputados.gob.mx",
       "extension": "62612",
       "partido": {
@@ -14198,7 +14198,7 @@
       "id": 338,
       "tipo": "diputado",
       "nombre": "Patricia Flores Elizondo",
-      "foto_url": "./fotos_lxviconfondo/398_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/398.jpg",
       "email": "patricia.flores@diputados.gob.mx",
       "extension": "62618",
       "partido": {
@@ -14245,7 +14245,7 @@
       "id": 339,
       "tipo": "diputado",
       "nombre": "Jorge Alfredo Lozoya Santillán",
-      "foto_url": "./fotos_lxviconfondo/399_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/399.jpg",
       "email": "jorge.lozoya@diputados.gob.mx",
       "extension": "62616",
       "partido": {
@@ -14297,7 +14297,7 @@
       "id": 340,
       "tipo": "diputado",
       "nombre": "Gloria Elizabeth Núñez Sánchez",
-      "foto_url": "./fotos_lxviconfondo/497_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/497.jpg",
       "email": "gloria.nunez@diputados.gob.mx",
       "extension": "62683",
       "partido": {
@@ -14344,7 +14344,7 @@
       "id": 341,
       "tipo": "diputado",
       "nombre": "Ricardo Monreal Ávila",
-      "foto_url": "./fotos_lxviconfondo/252_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/252.jpg",
       "email": "ricardo.monreal@diputados.gob.mx",
       "extension": "61215",
       "partido": {
@@ -14363,7 +14363,7 @@
       "id": 342,
       "tipo": "diputado",
       "nombre": "Antares Guadalupe Vázquez Alatorre",
-      "foto_url": "./fotos_lxviconfondo/265_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/265.jpg",
       "email": "antares.vazquez@diputados.gob.mx",
       "extension": "61116",
       "partido": {
@@ -14400,7 +14400,7 @@
       "id": 343,
       "tipo": "diputado",
       "nombre": "Arturo Ávila Anaya",
-      "foto_url": "./fotos_lxviconfondo/210_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/210.jpg",
       "email": "francisco.avila@diputados.gob.mx",
       "extension": "54230",
       "partido": {
@@ -14442,7 +14442,7 @@
       "id": 344,
       "tipo": "diputado",
       "nombre": "Petra Romero Gomez",
-      "foto_url": "./fotos_lxviconfondo/243_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/243.jpg",
       "email": "petra.romero@diputados.gob.mx",
       "extension": "61114",
       "partido": {
@@ -14488,7 +14488,7 @@
       "id": 346,
       "tipo": "diputado",
       "nombre": "Amalia López de la Cruz",
-      "foto_url": "./fotos_lxviconfondo/259_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/259.jpg",
       "email": "amalia.lopez@diputados.gob.mx",
       "extension": "61820",
       "partido": {
@@ -14533,7 +14533,7 @@
       "id": 348,
       "tipo": "diputado",
       "nombre": "Olga Leticia Chávez Rojas",
-      "foto_url": "./fotos_lxviconfondo/251_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/251.jpg",
       "email": "olga.chavez@diputados.gob.mx",
       "extension": "61112",
       "partido": {
@@ -14591,7 +14591,7 @@
       "id": 349,
       "tipo": "diputado",
       "nombre": "Gabino Morales Mendoza",
-      "foto_url": "./fotos_lxviconfondo/263_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/263.jpg",
       "email": "gabino.morales@diputados.gob.mx",
       "extension": "61414",
       "partido": {
@@ -14631,7 +14631,7 @@
       "id": 350,
       "tipo": "diputado",
       "nombre": "Magda Erika Salgado Ponce",
-      "foto_url": "./fotos_lxviconfondo/276_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/276.jpg",
       "email": "magda.salgado@diputados.gob.mx",
       "extension": "61262",
       "partido": {
@@ -14677,7 +14677,7 @@
       "id": 351,
       "tipo": "diputado",
       "nombre": "Adrián Oseguera Kernion",
-      "foto_url": "./fotos_lxviconfondo/261_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/261.jpg",
       "email": "adrian.oseguera@diputados.gob.mx",
       "extension": "61545",
       "partido": {
@@ -14711,7 +14711,7 @@
       "id": 352,
       "tipo": "diputado",
       "nombre": "César Augusto Rendón García",
-      "foto_url": "./fotos_lxviconfondo/333_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/333.jpg",
       "email": "cesar.rendon@diputados.gob.mx",
       "extension": "59966",
       "partido": {
@@ -14757,7 +14757,7 @@
       "id": 353,
       "tipo": "diputado",
       "nombre": "Rosalia León Rosas",
-      "foto_url": "./fotos_lxviconfondo/341_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/341.jpg",
       "email": "rosalia.leon@diputados.gob.mx",
       "extension": "62046",
       "partido": {
@@ -14803,7 +14803,7 @@
       "id": 354,
       "tipo": "diputado",
       "nombre": "César Augusto Verástegui Ostos",
-      "foto_url": "./fotos_lxviconfondo/334_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/334.jpg",
       "email": "cesar.verastegui@diputados.gob.mx",
       "extension": "59889",
       "partido": {
@@ -14844,7 +14844,7 @@
       "id": 355,
       "tipo": "diputado",
       "nombre": "Nancy Aracely Olguín Díaz",
-      "foto_url": "./fotos_lxviconfondo/287_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/287.jpg",
       "email": "nancy.olguin@diputados.gob.mx",
       "extension": "61637",
       "partido": {
@@ -14889,7 +14889,7 @@
       "id": 357,
       "tipo": "diputado",
       "nombre": "Elizabeth Martínez Álvarez",
-      "foto_url": "./fotos_lxviconfondo/319_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/319.jpg",
       "email": "elizabeth.alvarez@diputados.gob.mx",
       "extension": "59864",
       "partido": {
@@ -14934,7 +14934,7 @@
       "id": 358,
       "tipo": "diputado",
       "nombre": "Alan Sahir Márquez Becerra",
-      "foto_url": "./fotos_lxviconfondo/323_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/323.jpg",
       "email": "alan.marquez@diputados.gob.mx",
       "extension": "61637",
       "partido": {
@@ -14967,7 +14967,7 @@
       "id": 359,
       "tipo": "diputado",
       "nombre": "Blanca Leticia Gutiérrez Garza",
-      "foto_url": "./fotos_lxviconfondo/302_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/302.jpg",
       "email": "blanca.gutierrez@diputados.gob.mx",
       "extension": "59911",
       "partido": {
@@ -15013,7 +15013,7 @@
       "id": 360,
       "tipo": "diputado",
       "nombre": "Víctor Manuel Pérez Díaz",
-      "foto_url": "./fotos_lxviconfondo/201_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/201.jpg",
       "email": "manuel.perez@diputados.gob.mx",
       "extension": "59911",
       "partido": {
@@ -15058,7 +15058,7 @@
       "id": 361,
       "tipo": "diputado",
       "nombre": "Nubia Iris Castillo Medina",
-      "foto_url": "./fotos_lxviconfondo/281_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/281.jpg",
       "email": "nubia.castillo@diputados.gob.mx",
       "extension": "59887",
       "partido": {
@@ -15104,7 +15104,7 @@
       "id": 362,
       "tipo": "diputado",
       "nombre": "Marcelo de Jesús Torres Cofiño",
-      "foto_url": "./fotos_lxviconfondo/304_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/304.jpg",
       "email": "marcelo.torres@diputados.gob.mx",
       "extension": "61626",
       "partido": {
@@ -15150,7 +15150,7 @@
       "id": 363,
       "tipo": "diputado",
       "nombre": "Noemí Berenice Luna Ayala",
-      "foto_url": "./fotos_lxviconfondo/158_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/158.jpg",
       "email": "noemi.luna@diputados.gob.mx",
       "extension": "59983",
       "partido": {
@@ -15196,7 +15196,7 @@
       "id": 364,
       "tipo": "diputado",
       "nombre": "Rubén Ignacio Moreira Valdez",
-      "foto_url": "./fotos_lxviconfondo/380_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/380.jpg",
       "email": "ruben.moreira@diputados.gob.mx",
       "extension": "59410",
       "partido": {
@@ -15336,7 +15336,7 @@
       "id": 365,
       "tipo": "diputado",
       "nombre": "Marcela Guerra Castillo",
-      "foto_url": "./fotos_lxviconfondo/337_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/337.jpg",
       "email": "marcela.guerra@diputados.gob.mx",
       "extension": "59476",
       "partido": {
@@ -15383,7 +15383,7 @@
       "id": 366,
       "tipo": "diputado",
       "nombre": "Miguel Alejandro Alonso Reyes",
-      "foto_url": "./fotos_lxviconfondo/368_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/368.jpg",
       "email": "miguel.alonso@diputados.gob.mx",
       "extension": "67934",
       "partido": {
@@ -15430,7 +15430,7 @@
       "id": 367,
       "tipo": "diputado",
       "nombre": "Verónica Martínez García",
-      "foto_url": "./fotos_lxviconfondo/373_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/373.jpg",
       "email": "veronica.martinez@diputados.gob.mx",
       "extension": "59432",
       "partido": {
@@ -15486,7 +15486,7 @@
       "id": 368,
       "tipo": "diputado",
       "nombre": "Erubiel Lorenzo Alonso Que",
-      "foto_url": "./fotos_lxviconfondo/374_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/374.jpg",
       "email": "erubiel.alonso@diputados.gob.mx",
       "extension": "59436",
       "partido": {
@@ -15553,7 +15553,7 @@
       "id": 369,
       "tipo": "diputado",
       "nombre": "Fuensanta Guadalupe Guerrero Esquivel",
-      "foto_url": "./fotos_lxviconfondo/369_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/369.jpg",
       "email": "fuensanta.guerrero@diputados.gob.mx",
       "extension": "61585",
       "partido": {
@@ -15585,7 +15585,7 @@
       "id": 370,
       "tipo": "diputado",
       "nombre": "Carlos Alberto Puente Salas",
-      "foto_url": "./fotos_lxviconfondo/445_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/445.jpg",
       "email": "carlos.puente@diputados.gob.mx",
       "extension": "59608",
       "partido": {
@@ -15619,7 +15619,7 @@
       "id": 371,
       "tipo": "diputado",
       "nombre": "Ma. Leonor Noyola Cervantes",
-      "foto_url": "./fotos_lxviconfondo/474_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/474.jpg",
       "email": "leonor.noyola@diputados.gob.mx",
       "extension": "59625",
       "partido": {
@@ -15652,7 +15652,7 @@
       "id": 373,
       "tipo": "diputado",
       "nombre": "María Graciela Gaitán Díaz",
-      "foto_url": "./fotos_lxviconfondo/465_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/465.jpg",
       "email": "maria.gaitan@diputados.gob.mx",
       "extension": "59625",
       "partido": {
@@ -15698,7 +15698,7 @@
       "id": 374,
       "tipo": "diputado",
       "nombre": "Olga Lidia Herrera Natividad",
-      "foto_url": "./fotos_lxviconfondo/339_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/339.jpg",
       "email": "olga.herrera@diputados.gob.mx",
       "extension": "62065",
       "partido": {
@@ -15744,7 +15744,7 @@
       "id": 375,
       "tipo": "diputado",
       "nombre": "Ricardo Sóstenes Mejía Berdeja",
-      "foto_url": "./fotos_lxviconfondo/377_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/377.jpg",
       "email": "ricardo.mejia@diputados.gob.mx",
       "extension": "62085",
       "partido": {
@@ -15790,7 +15790,7 @@
       "id": 376,
       "tipo": "diputado",
       "nombre": "Irais Virginia Reyes De la Torre",
-      "foto_url": "./fotos_lxviconfondo/407_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/407.jpg",
       "email": "irais.reyes@diputados.gob.mx",
       "extension": "62622",
       "partido": {
@@ -15841,7 +15841,7 @@
       "id": 377,
       "tipo": "diputado",
       "nombre": "Miguel Ángel Sánchez Rivera",
-      "foto_url": "./fotos_lxviconfondo/413_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/413.jpg",
       "email": "miguelangel.sanchez@diputados.gob.mx",
       "extension": "62646",
       "partido": {
@@ -15893,7 +15893,7 @@
       "id": 378,
       "tipo": "diputado",
       "nombre": "Paola Michell Longoria López",
-      "foto_url": "./fotos_lxviconfondo/499_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/499.jpg",
       "email": "paola.longoria@diputados.gob.mx",
       "extension": "62600",
       "partido": {
@@ -15944,7 +15944,7 @@
       "id": 380,
       "tipo": "diputado",
       "nombre": "Anayeli Muñoz Moreno",
-      "foto_url": "./fotos_lxviconfondo/412_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/412.jpg",
       "email": "anayeli.munoz@diputados.gob.mx",
       "extension": "62632",
       "partido": {
@@ -15995,7 +15995,7 @@
       "id": 381,
       "tipo": "diputado",
       "nombre": "Rosa María Castro Salinas",
-      "foto_url": "./fotos_lxviconfondo/248_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/248.jpg",
       "email": "rosamaria.castro@diputados.gob.mx",
       "extension": "61128",
       "partido": {
@@ -16044,7 +16044,7 @@
       "id": 382,
       "tipo": "diputado",
       "nombre": "Kenia Gisell Muñiz Cabrera",
-      "foto_url": "./fotos_lxviconfondo/274_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/274.jpg",
       "email": "kenia.muniz@diputados.gob.mx",
       "extension": "58200",
       "partido": {
@@ -16090,7 +16090,7 @@
       "id": 383,
       "tipo": "diputado",
       "nombre": "Carmen Patricia Armendáriz Guerra",
-      "foto_url": "./fotos_lxviconfondo/143_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/143.jpg",
       "email": "carmen.armendariz@diputados.gob.mx",
       "extension": "61853",
       "partido": {
@@ -16124,7 +16124,7 @@
       "id": 384,
       "tipo": "diputado",
       "nombre": "Luis Arturo Oliver Cen",
-      "foto_url": "./fotos_lxviconfondo/272_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/272.jpg",
       "email": "luis.oliver@diputados.gob.mx",
       "extension": "61295",
       "partido": {
@@ -16173,7 +16173,7 @@
       "id": 385,
       "tipo": "diputado",
       "nombre": "Zayra Linette Fernández Sarabia",
-      "foto_url": "./fotos_lxviconfondo/269_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/269.jpg",
       "email": "zayra.fernandez@diputados.gob.mx",
       "extension": "61198",
       "partido": {
@@ -16218,7 +16218,7 @@
       "id": 386,
       "tipo": "diputado",
       "nombre": "Humberto Coss y León Zúñiga",
-      "foto_url": "./fotos_lxviconfondo/275_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/275.jpg",
       "email": "humberto.cossyleon@diputados.gob.mx",
       "extension": "61604",
       "partido": {
@@ -16263,7 +16263,7 @@
       "id": 387,
       "tipo": "diputado",
       "nombre": "Herminia López Santiago",
-      "foto_url": "./fotos_lxviconfondo/253_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/253.jpg",
       "email": "herminia.lopez@diputados.gob.mx",
       "extension": "59810",
       "partido": {
@@ -16316,7 +16316,7 @@
       "id": 388,
       "tipo": "diputado",
       "nombre": "Aniceto Polanco Morales",
-      "foto_url": "./fotos_lxviconfondo/260_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/260.jpg",
       "email": "aniceto.polanco@diputados.gob.mx",
       "extension": "61208",
       "partido": {
@@ -16361,7 +16361,7 @@
       "id": 389,
       "tipo": "diputado",
       "nombre": "Sonia Rincón Chanona",
-      "foto_url": "./fotos_lxviconfondo/318_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/318.jpg",
       "email": "sonia.rincon@diputados.gob.mx",
       "extension": "61832",
       "partido": {
@@ -16407,7 +16407,7 @@
       "id": 390,
       "tipo": "diputado",
       "nombre": "Aciel Sibaja Mendoza",
-      "foto_url": "./fotos_lxviconfondo/204_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/204.jpg",
       "email": "aciel.sibaja@diputados.gob.mx",
       "extension": "61188",
       "partido": {
@@ -16456,7 +16456,7 @@
       "id": 391,
       "tipo": "diputado",
       "nombre": "Rocío Adriana Abreu Artiñano",
-      "foto_url": "./fotos_lxviconfondo/490_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/490.jpg",
       "email": "rocio.abreu@diputados.gob.mx",
       "extension": "61625",
       "partido": {
@@ -16506,7 +16506,7 @@
       "id": 392,
       "tipo": "diputado",
       "nombre": "Venustiano Caamal Cocom",
-      "foto_url": "./fotos_lxviconfondo/256_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/256.jpg",
       "email": "venustiano.caamal@diputados.gob.mx",
       "extension": "61200",
       "partido": {
@@ -16551,7 +16551,7 @@
       "id": 393,
       "tipo": "diputado",
       "nombre": "Karen Yaiti Calcaneo Constantino",
-      "foto_url": "./fotos_lxviconfondo/418_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/418.jpg",
       "email": "karen.calcaneo@diputados.gob.mx",
       "extension": "61822",
       "partido": {
@@ -16597,7 +16597,7 @@
       "id": 395,
       "tipo": "diputado",
       "nombre": "Luz María Rodríguez Pérez",
-      "foto_url": "./fotos_lxviconfondo/271_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/271.jpg",
       "email": "luzmaria.rodriguez@diputados.gob.mx",
       "extension": "61569",
       "partido": {
@@ -16648,7 +16648,7 @@
       "id": 396,
       "tipo": "diputado",
       "nombre": "Eleazar Guerrero Pérez",
-      "foto_url": "./fotos_lxviconfondo/266_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/266.jpg",
       "email": "eleazar.guerrero@diputados.gob.mx",
       "extension": "61713",
       "partido": {
@@ -16686,7 +16686,7 @@
       "id": 397,
       "tipo": "diputado",
       "nombre": "Bertha Osorio Ferral",
-      "foto_url": "./fotos_lxviconfondo/262_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/262.jpg",
       "email": "bertha.osorio@diputados.gob.mx",
       "extension": "61484",
       "partido": {
@@ -16732,7 +16732,7 @@
       "id": 398,
       "tipo": "diputado",
       "nombre": "María del Rosario Guzmán Avilés",
-      "foto_url": "./fotos_lxviconfondo/310_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/310.jpg",
       "email": "mdelrosario.guzman@diputados.gob.mx",
       "extension": "59908",
       "partido": {
@@ -16778,7 +16778,7 @@
       "id": 399,
       "tipo": "diputado",
       "nombre": "Martha Aracely Cruz Jiménez",
-      "foto_url": "./fotos_lxviconfondo/366_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/366.jpg",
       "email": "martha.cruz@diputados.gob.mx",
       "extension": "62424",
       "partido": {
@@ -16824,7 +16824,7 @@
       "id": 400,
       "tipo": "diputado",
       "nombre": "Julen Rementería Del Puerto",
-      "foto_url": "./fotos_lxviconfondo/391_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/391.jpg",
       "email": "julen.rementeria@diputados.gob.mx",
       "extension": "59954",
       "partido": {
@@ -16857,7 +16857,7 @@
       "id": 401,
       "tipo": "diputado",
       "nombre": "Claudia Quiñones Garrido",
-      "foto_url": "./fotos_lxviconfondo/331_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/331.jpg",
       "email": "claudia.quinones@diputados.gob.mx",
       "extension": "59968",
       "partido": {
@@ -16908,7 +16908,7 @@
       "id": 402,
       "tipo": "diputado",
       "nombre": "José Elías Lixa Abimerhi",
-      "foto_url": "./fotos_lxviconfondo/229_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/229.jpg",
       "email": "elias.lixa@diputados.gob.mx",
       "extension": "3124",
       "partido": {
@@ -16937,7 +16937,7 @@
       "id": 403,
       "tipo": "diputado",
       "nombre": "Abril Ferreyro Rosado",
-      "foto_url": "./fotos_lxviconfondo/295_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/295.jpg",
       "email": "abril.ferreyro@diputados.gob.mx",
       "extension": "59914",
       "partido": {
@@ -16983,7 +16983,7 @@
       "id": 404,
       "tipo": "diputado",
       "nombre": "Ernesto Sánchez Rodríguez",
-      "foto_url": "./fotos_lxviconfondo/282_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/282.jpg",
       "email": "ernesto.sanchez@diputados.gob.mx",
       "extension": "61706",
       "partido": {
@@ -17030,7 +17030,7 @@
       "id": 405,
       "tipo": "diputado",
       "nombre": "Lorena Piñón Rivera",
-      "foto_url": "./fotos_lxviconfondo/361_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/361.jpg",
       "email": "lorena.pinon@diputados.gob.mx",
       "extension": "59434",
       "partido": {
@@ -17090,7 +17090,7 @@
       "id": 406,
       "tipo": "diputado",
       "nombre": "Christian Mishel Castro Bello",
-      "foto_url": "./fotos_lxviconfondo/378_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/378.jpg",
       "email": "christian.castro@diputados.gob.mx",
       "extension": "59449",
       "partido": {
@@ -17153,7 +17153,7 @@
       "id": 407,
       "tipo": "diputado",
       "nombre": "Ariana del Rocio Rejón Lara",
-      "foto_url": "./fotos_lxviconfondo/362_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/362.jpg",
       "email": "ariana.rejon@diputados.gob.mx",
       "extension": "59454",
       "partido": {
@@ -17207,7 +17207,7 @@
       "id": 408,
       "tipo": "diputado",
       "nombre": "Emilio Lara Calderón",
-      "foto_url": "./fotos_lxviconfondo/356_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/356.jpg",
       "email": "emilio.lara@diputados.gob.mx",
       "extension": "59455",
       "partido": {
@@ -17257,7 +17257,7 @@
       "id": 409,
       "tipo": "diputado",
       "nombre": "Julio Javier Scherer Pareyón",
-      "foto_url": "./fotos_lxviconfondo/460_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/460.jpg",
       "email": "julio.scherer@diputados.gob.mx",
       "extension": "59614",
       "partido": {
@@ -17291,7 +17291,7 @@
       "id": 410,
       "tipo": "diputado",
       "nombre": "Karina Alejandra Trujillo Trujillo",
-      "foto_url": "./fotos_lxviconfondo/451_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/451.jpg",
       "email": "karina.trujillo@diputados.gob.mx",
       "extension": "59504",
       "partido": {
@@ -17338,7 +17338,7 @@
       "id": 411,
       "tipo": "diputado",
       "nombre": "Javier Octavio Herrera Borunda",
-      "foto_url": "./fotos_lxviconfondo/441_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/441.jpg",
       "email": "javier.herrera@diputados.gob.mx",
       "extension": "59610",
       "partido": {
@@ -17373,7 +17373,7 @@
       "id": 412,
       "tipo": "diputado",
       "nombre": "Santy Montemayor Castillo",
-      "foto_url": "./fotos_lxviconfondo/481_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/481.jpg",
       "email": "santy.montemayor@diputados.gob.mx",
       "extension": "59630",
       "partido": {
@@ -17423,7 +17423,7 @@
       "id": 413,
       "tipo": "diputado",
       "nombre": "Alejandro Avilés Álvarez",
-      "foto_url": "./fotos_lxviconfondo/466_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/466.jpg",
       "email": "alejandro.aviles@diputados.gob.mx",
       "extension": "59507",
       "partido": {
@@ -17467,7 +17467,7 @@
       "id": 414,
       "tipo": "diputado",
       "nombre": "Francisco Amadeo Espinosa Ramos",
-      "foto_url": "./fotos_lxviconfondo/343_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/343.jpg",
       "email": "francisco.espinosa@diputados.gob.mx",
       "extension": "67895",
       "partido": {
@@ -17515,7 +17515,7 @@
       "id": 415,
       "tipo": "diputado",
       "nombre": "Maribel Martínez Ruiz",
-      "foto_url": "./fotos_lxviconfondo/485_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/485.jpg",
       "email": "mmartinez.ruiz@diputados.gob.mx",
       "extension": "62102",
       "partido": {
@@ -17562,7 +17562,7 @@
       "id": 416,
       "tipo": "diputado",
       "nombre": "Pedro Vázquez González",
-      "foto_url": "./fotos_lxviconfondo/340_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/340.jpg",
       "email": "pedro.vazquez@diputados.gob.mx",
       "extension": "62098",
       "partido": {
@@ -17610,7 +17610,7 @@
       "id": 417,
       "tipo": "diputado",
       "nombre": "Sergio Gil Rullán",
-      "foto_url": "./fotos_lxviconfondo/393_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/393.jpg",
       "email": "sergio.gil@diputados.gob.mx",
       "extension": "62634",
       "partido": {
@@ -17658,7 +17658,7 @@
       "id": 418,
       "tipo": "diputado",
       "nombre": "Ivonne Aracelly Ortega Pacheco",
-      "foto_url": "./fotos_lxviconfondo/404_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/404.jpg",
       "email": "ivonne.ortega@diputados.gob.mx",
       "extension": "62660",
       "partido": {
@@ -17712,7 +17712,7 @@
       "id": 419,
       "tipo": "diputado",
       "nombre": "Francisco Javier Farias Bailon",
-      "foto_url": "./fotos_lxviconfondo/397_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/397.jpg",
       "email": "francisco.farias@diputados.gob.mx",
       "extension": "62628",
       "partido": {
@@ -17763,7 +17763,7 @@
       "id": 420,
       "tipo": "diputado",
       "nombre": "María de Fátima García León",
-      "foto_url": "./fotos_lxviconfondo/395_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/395.jpg",
       "email": "mariadefatima.garcia@diputados.gob.mx",
       "extension": "62647",
       "partido": {
@@ -17814,7 +17814,7 @@
       "id": 421,
       "tipo": "diputado",
       "nombre": "Ifigenia Martha Martínez y Hernández (DECESO)",
-      "foto_url": "./fotos_lxviconfondo/270_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/270.jpg",
       "email": "ifigenia.martinez@diputados.gob.mx",
       "extension": "",
       "partido": {
@@ -17838,7 +17838,7 @@
       "id": 422,
       "tipo": "diputado",
       "nombre": "Cuauhtémoc Blanco Bravo",
-      "foto_url": "./fotos_lxviconfondo/305_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/305.jpg",
       "email": "cuauhtemoc.blanco@diputados.gob.mx",
       "extension": "61366",
       "partido": {
@@ -17873,7 +17873,7 @@
       "id": 423,
       "tipo": "diputado",
       "nombre": "Maiella Martha Gabriela Gómez Maldonado",
-      "foto_url": "./fotos_lxviconfondo/258_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/258.jpg",
       "email": "maiella.gomez@diputados.gob.mx",
       "extension": "61535",
       "partido": {
@@ -17937,7 +17937,7 @@
       "id": 424,
       "tipo": "diputado",
       "nombre": "Arturo Olivares Cerda",
-      "foto_url": "./fotos_lxviconfondo/294_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/294.jpg",
       "email": "arturo.olivares@diputados.gob.mx",
       "extension": "61270",
       "partido": {
@@ -17982,7 +17982,7 @@
       "id": 425,
       "tipo": "diputado",
       "nombre": "Julieta Kristal Vences Valencia",
-      "foto_url": "./fotos_lxviconfondo/364_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/364.jpg",
       "email": "julieta.vences@diputados.gob.mx",
       "extension": "61400",
       "partido": {
@@ -18028,7 +18028,7 @@
       "id": 426,
       "tipo": "diputado",
       "nombre": "Jaime Genaro López Vela",
-      "foto_url": "./fotos_lxviconfondo/298_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/298.jpg",
       "email": "jaime.lopez@diputados.gob.mx",
       "extension": "66418",
       "partido": {
@@ -18078,7 +18078,7 @@
       "id": 427,
       "tipo": "diputado",
       "nombre": "Maribel Solache González",
-      "foto_url": "./fotos_lxviconfondo/313_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/313.jpg",
       "email": "maribel.solache@diputados.gob.mx",
       "extension": "61349",
       "partido": {
@@ -18127,7 +18127,7 @@
       "id": 428,
       "tipo": "diputado",
       "nombre": "Daniel Asaf Manjarrez",
-      "foto_url": "./fotos_lxviconfondo/431_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/431.jpg",
       "email": "daniel.asaf@diputados.gob.mx",
       "extension": "61577",
       "partido": {
@@ -18172,7 +18172,7 @@
       "id": 429,
       "tipo": "diputado",
       "nombre": "Eunice Abigail Mendoza Ramírez",
-      "foto_url": "./fotos_lxviconfondo/288_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/288.jpg",
       "email": "eunice.mendoza@diputados.gob.mx",
       "extension": "61739",
       "partido": {
@@ -18221,7 +18221,7 @@
       "id": 430,
       "tipo": "diputado",
       "nombre": "Julio César Moreno Rivera",
-      "foto_url": "./fotos_lxviconfondo/312_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/312.jpg",
       "email": "julio.moreno@diputados.gob.mx",
       "extension": "61370",
       "partido": {
@@ -18276,7 +18276,7 @@
       "id": 431,
       "tipo": "diputado",
       "nombre": "Olga María Sánchez Cordero Dávila",
-      "foto_url": "./fotos_lxviconfondo/277_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/277.jpg",
       "email": "olga.sanchezcordero@diputados.gob.mx",
       "extension": "61417",
       "partido": {
@@ -18321,7 +18321,7 @@
       "id": 432,
       "tipo": "diputado",
       "nombre": "Sergio Mayer Bretón",
-      "foto_url": "./fotos_lxviconfondo/314_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/314.jpg",
       "email": "sergio.mayer@diputados.gob.mx",
       "extension": "61280",
       "partido": {
@@ -18359,7 +18359,7 @@
       "id": 433,
       "tipo": "diputado",
       "nombre": "María Teresa Ealy Díaz",
-      "foto_url": "./fotos_lxviconfondo/311_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/311.jpg",
       "email": "maria.ealy@diputados.gob.mx",
       "extension": "61605",
       "partido": {
@@ -18409,7 +18409,7 @@
       "id": 434,
       "tipo": "diputado",
       "nombre": "Carlos Alonso Castillo Pérez",
-      "foto_url": "./fotos_lxviconfondo/299_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/299.jpg",
       "email": "carlos.castillo@diputados.gob.mx",
       "extension": "61620",
       "partido": {
@@ -18462,7 +18462,7 @@
       "id": 435,
       "tipo": "diputado",
       "nombre": "Monica Fernández Cesar",
-      "foto_url": "./fotos_lxviconfondo/307_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/307.jpg",
       "email": "monica.fernandez@diputados.gob.mx",
       "extension": "61266",
       "partido": {
@@ -18515,7 +18515,7 @@
       "id": 436,
       "tipo": "diputado",
       "nombre": "Jesús Valdés Peña",
-      "foto_url": "./fotos_lxviconfondo/267_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/267.jpg",
       "email": "jesus.valdes@diputados.gob.mx",
       "extension": "61553",
       "partido": {
@@ -18561,7 +18561,7 @@
       "id": 437,
       "tipo": "diputado",
       "nombre": "María Rosete",
-      "foto_url": "./fotos_lxviconfondo/292_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/292.jpg",
       "email": "maria.rosete@diputados.gob.mx",
       "extension": "61543",
       "partido": {
@@ -18611,7 +18611,7 @@
       "id": 438,
       "tipo": "diputado",
       "nombre": "Manuel Vazquez Arellano",
-      "foto_url": "./fotos_lxviconfondo/273_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/273.jpg",
       "email": "manuel.arellano@diputados.gob.mx",
       "extension": "61130",
       "partido": {
@@ -18644,7 +18644,7 @@
       "id": 439,
       "tipo": "diputado",
       "nombre": "Kenia López Rabadán",
-      "foto_url": "./fotos_lxviconfondo/327_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/327.jpg",
       "email": "kenia.lopez@diputados.gob.mx",
       "extension": "61629",
       "partido": {
@@ -18677,7 +18677,7 @@
       "id": 441,
       "tipo": "diputado",
       "nombre": "Liliana Ortiz Pérez",
-      "foto_url": "./fotos_lxviconfondo/326_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/326.jpg",
       "email": "liliana.ortiz@diputados.gob.mx",
       "extension": "59887",
       "partido": {
@@ -18723,7 +18723,7 @@
       "id": 443,
       "tipo": "diputado",
       "nombre": "Genoveva Huerta Villegas",
-      "foto_url": "./fotos_lxviconfondo/315_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/315.jpg",
       "email": "genoveva.huerta@diputados.gob.mx",
       "extension": "59915",
       "partido": {
@@ -18769,7 +18769,7 @@
       "id": 444,
       "tipo": "diputado",
       "nombre": "Víctor Adrián Martínez Terrazas",
-      "foto_url": "./fotos_lxviconfondo/317_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/317.jpg",
       "email": "adrian.martinez@diputados.gob.mx",
       "extension": "59889",
       "partido": {
@@ -18816,7 +18816,7 @@
       "id": 445,
       "tipo": "diputado",
       "nombre": "Mariana Guadalupe Jiménez Zamora",
-      "foto_url": "./fotos_lxviconfondo/306_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/306.jpg",
       "email": "mariana.jimenez@diputados.gob.mx",
       "extension": "59918",
       "partido": {
@@ -18854,7 +18854,7 @@
       "id": 446,
       "tipo": "diputado",
       "nombre": "Xitlalic Ceja García",
-      "foto_url": "./fotos_lxviconfondo/346_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/346.jpg",
       "email": "xitlalic.ceja@diputados.gob.mx",
       "extension": "59451",
       "partido": {
@@ -18904,7 +18904,7 @@
       "id": 447,
       "tipo": "diputado",
       "nombre": "Israel Betanzos Cortes",
-      "foto_url": "./fotos_lxviconfondo/388_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/388.jpg",
       "email": "israel.betanzos@diputados.gob.mx",
       "extension": "59411",
       "partido": {
@@ -18954,7 +18954,7 @@
       "id": 448,
       "tipo": "diputado",
       "nombre": "Nadia Navarro Acevedo",
-      "foto_url": "./fotos_lxviconfondo/385_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/385.jpg",
       "email": "nadia.navarro@diputados.gob.mx",
       "extension": "59467",
       "partido": {
@@ -19005,7 +19005,7 @@
       "id": 449,
       "tipo": "diputado",
       "nombre": "Carlos Eduardo Gutiérrez Mancilla",
-      "foto_url": "./fotos_lxviconfondo/383_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/383.jpg",
       "email": "carlos.gutierrez@diputados.gob.mx",
       "extension": "59485",
       "partido": {
@@ -19057,7 +19057,7 @@
       "id": 450,
       "tipo": "diputado",
       "nombre": "Felipe Miguel Delgado Carrillo",
-      "foto_url": "./fotos_lxviconfondo/436_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/436.jpg",
       "email": "felipe.delgado@diputados.gob.mx",
       "extension": "59550",
       "partido": {
@@ -19095,7 +19095,7 @@
       "id": 451,
       "tipo": "diputado",
       "nombre": "Nayeli Arlen Fernández Cruz",
-      "foto_url": "./fotos_lxviconfondo/457_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/457.jpg",
       "email": "nayeli.fernandez@diputados.gob.mx",
       "extension": "59618",
       "partido": {
@@ -19129,7 +19129,7 @@
       "id": 452,
       "tipo": "diputado",
       "nombre": "Ricardo Madrid Pérez",
-      "foto_url": "./fotos_lxviconfondo/492_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/492.jpg",
       "email": "ricardo.madrid@diputados.gob.mx",
       "extension": "59626",
       "partido": {
@@ -19167,7 +19167,7 @@
       "id": 453,
       "tipo": "diputado",
       "nombre": "Celia Esther Fonseca Galicia",
-      "foto_url": "./fotos_lxviconfondo/440_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/440.jpg",
       "email": "celia.fonseca@diputados.gob.mx",
       "extension": "59516",
       "partido": {
@@ -19215,7 +19215,7 @@
       "id": 454,
       "tipo": "diputado",
       "nombre": "Reginaldo Sandoval Flores",
-      "foto_url": "./fotos_lxviconfondo/386_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/386.jpg",
       "email": "reginaldo.sandoval@diputados.gob.mx",
       "extension": "62072",
       "partido": {
@@ -19267,7 +19267,7 @@
       "id": 455,
       "tipo": "diputado",
       "nombre": "Magdalena del Socorro Núñez Monreal",
-      "foto_url": "./fotos_lxviconfondo/450_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/450.jpg",
       "email": "magdalena.nunez@diputados.gob.mx",
       "extension": "62044",
       "partido": {
@@ -19301,7 +19301,7 @@
       "id": 456,
       "tipo": "diputado",
       "nombre": "Asael Hernández Cerón",
-      "foto_url": "./fotos_lxviconfondo/297_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/297.jpg",
       "email": "asael.hernandez@diputados.gob.mx",
       "extension": "59900",
       "partido": {
@@ -19348,7 +19348,7 @@
       "id": 457,
       "tipo": "diputado",
       "nombre": "Claudia Ruiz Massieu Salinas",
-      "foto_url": "./fotos_lxviconfondo/415_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/415.jpg",
       "email": "claudia.ruizmassieu@diputados.gob.mx",
       "extension": "62636",
       "partido": {
@@ -19399,7 +19399,7 @@
       "id": 458,
       "tipo": "diputado",
       "nombre": "Juan Ignacio Zavala Gutiérrez",
-      "foto_url": "./fotos_lxviconfondo/405_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/405.jpg",
       "email": "juan.zavala@diputados.gob.mx",
       "extension": "66381",
       "partido": {
@@ -19446,7 +19446,7 @@
       "id": 459,
       "tipo": "diputado",
       "nombre": "Amancay González Franco",
-      "foto_url": "./fotos_lxviconfondo/414_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/414.jpg",
       "email": "amancay.gonzalez@diputados.gob.mx",
       "extension": "62654",
       "partido": {
@@ -19498,7 +19498,7 @@
       "id": 460,
       "tipo": "diputado",
       "nombre": "Gibrán Ramírez Reyes",
-      "foto_url": "./fotos_lxviconfondo/400_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/400.jpg",
       "email": "gibran.ramirez@diputados.gob.mx",
       "extension": "55114",
       "partido": {
@@ -19545,7 +19545,7 @@
       "id": 461,
       "tipo": "diputado",
       "nombre": "Catalina Díaz Vilchis",
-      "foto_url": "./fotos_lxviconfondo/283_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/283.jpg",
       "email": "catalina.diaz@diputados.gob.mx",
       "extension": "51108",
       "partido": {
@@ -19578,7 +19578,7 @@
       "id": 462,
       "tipo": "diputado",
       "nombre": "Fernando Mendoza Arce",
-      "foto_url": "./fotos_lxviconfondo/280_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/280.jpg",
       "email": "fernando.mendoza@diputados.gob.mx",
       "extension": "61516",
       "partido": {
@@ -19624,7 +19624,7 @@
       "id": 463,
       "tipo": "diputado",
       "nombre": "María Damaris Silva Santiago",
-      "foto_url": "./fotos_lxviconfondo/322_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/322.jpg",
       "email": "damaris.silva@diputados.gob.mx",
       "extension": "61204",
       "partido": {
@@ -19678,7 +19678,7 @@
       "id": 464,
       "tipo": "diputado",
       "nombre": "Alfonso Ramírez Cuéllar",
-      "foto_url": "./fotos_lxviconfondo/371_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/371.jpg",
       "email": "alfonso.ramirez@diputados.gob.mx",
       "extension": "61765",
       "partido": {
@@ -19708,7 +19708,7 @@
       "id": 465,
       "tipo": "diputado",
       "nombre": "Diana Isela López Orozco",
-      "foto_url": "./fotos_lxviconfondo/303_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/303.jpg",
       "email": "diana.lopez@diputados.gob.mx",
       "extension": "61512",
       "partido": {
@@ -19753,7 +19753,7 @@
       "id": 466,
       "tipo": "diputado",
       "nombre": "Víctor Hugo Lobo Román",
-      "foto_url": "./fotos_lxviconfondo/325_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/325.jpg",
       "email": "victor.lobo@diputados.gob.mx",
       "extension": "61564",
       "partido": {
@@ -19807,7 +19807,7 @@
       "id": 467,
       "tipo": "diputado",
       "nombre": "Roselia Suárez Montes de Oca",
-      "foto_url": "./fotos_lxviconfondo/425_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/425.jpg",
       "email": "roselia.suarez@diputados.gob.mx",
       "extension": "61126",
       "partido": {
@@ -19852,7 +19852,7 @@
       "id": 468,
       "tipo": "diputado",
       "nombre": "Manuel de Jesús Espino Barrientos",
-      "foto_url": "./fotos_lxviconfondo/291_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/291.jpg",
       "email": "manuel.espino@diputados.gob.mx",
       "extension": "2286",
       "partido": {
@@ -19901,7 +19901,7 @@
       "id": 471,
       "tipo": "diputado",
       "nombre": "Mariana Benítez Tiburcio",
-      "foto_url": "./fotos_lxviconfondo/320_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/320.jpg",
       "email": "mariana.benitez@diputados.gob.mx",
       "extension": "61184",
       "partido": {
@@ -19952,7 +19952,7 @@
       "id": 473,
       "tipo": "diputado",
       "nombre": "Rosalinda Savala Díaz",
-      "foto_url": "./fotos_lxviconfondo/286_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/286.jpg",
       "email": "rosalinda.savala@diputados.gob.mx",
       "extension": "61149",
       "partido": {
@@ -19997,7 +19997,7 @@
       "id": 474,
       "tipo": "diputado",
       "nombre": "Sergio Carlos Gutiérrez Luna",
-      "foto_url": "./fotos_lxviconfondo/308_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/308.jpg",
       "email": "sergio.gutierrez@diputados.gob.mx",
       "extension": "66340",
       "partido": {
@@ -20022,7 +20022,7 @@
       "id": 475,
       "tipo": "diputado",
       "nombre": "Rufina Benítez Estrada",
-      "foto_url": "./fotos_lxviconfondo/264_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/264.jpg",
       "email": "rufina.benitez@diputados.gob.mx",
       "extension": "68836",
       "partido": {
@@ -20059,7 +20059,7 @@
       "id": 476,
       "tipo": "diputado",
       "nombre": "Ofelia Socorro Jasso Nieto",
-      "foto_url": "./fotos_lxviconfondo/365_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/365.jpg",
       "email": "ofelia.jasso@diputados.gob.mx",
       "extension": "59424",
       "partido": {
@@ -20115,7 +20115,7 @@
       "id": 477,
       "tipo": "diputado",
       "nombre": "Héctor Pedroza Jiménez",
-      "foto_url": "./fotos_lxviconfondo/446_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/446.jpg",
       "email": "hector.pedroza@diputados.gob.mx",
       "extension": "68866",
       "partido": {
@@ -20153,7 +20153,7 @@
       "id": 478,
       "tipo": "diputado",
       "nombre": "Tania Palacios Kuri",
-      "foto_url": "./fotos_lxviconfondo/329_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/329.jpg",
       "email": "tania.palacios@diputados.gob.mx",
       "extension": "61704",
       "partido": {
@@ -20199,7 +20199,7 @@
       "id": 479,
       "tipo": "diputado",
       "nombre": "José Manuel Hinojosa Pérez",
-      "foto_url": "./fotos_lxviconfondo/348_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/348.jpg",
       "email": "jose.hinojosa@diputados.gob.mx",
       "extension": "59954",
       "partido": {
@@ -20245,7 +20245,7 @@
       "id": 480,
       "tipo": "diputado",
       "nombre": "Teresa Ginez Serrano",
-      "foto_url": "./fotos_lxviconfondo/301_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/301.jpg",
       "email": "teresa.ginez@diputados.gob.mx",
       "extension": "59908",
       "partido": {
@@ -20294,7 +20294,7 @@
       "id": 481,
       "tipo": "diputado",
       "nombre": "Germán Martínez Cázares",
-      "foto_url": "./fotos_lxviconfondo/321_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/321.jpg",
       "email": "german.martinez@diputados.gob.mx",
       "extension": "59885",
       "partido": {
@@ -20344,7 +20344,7 @@
       "id": 482,
       "tipo": "diputado",
       "nombre": "Ana María Balderas Trejo",
-      "foto_url": "./fotos_lxviconfondo/279_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/279.jpg",
       "email": "ana.balderas@diputados.gob.mx",
       "extension": "61629",
       "partido": {
@@ -20390,7 +20390,7 @@
       "id": 483,
       "tipo": "diputado",
       "nombre": "Armando Tejeda Cid",
-      "foto_url": "./fotos_lxviconfondo/347_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/347.jpg",
       "email": "armando.tejeda@diputados.gob.mx",
       "extension": "59932",
       "partido": {
@@ -20440,7 +20440,7 @@
       "id": 484,
       "tipo": "diputado",
       "nombre": "Julia Licet Jiménez Angulo",
-      "foto_url": "./fotos_lxviconfondo/228_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/228.jpg",
       "email": "julia.jimenez@diputados.gob.mx",
       "extension": "61626",
       "partido": {
@@ -20486,7 +20486,7 @@
       "id": 485,
       "tipo": "diputado",
       "nombre": "Víctor Samuel Palma César",
-      "foto_url": "./fotos_lxviconfondo/336_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/336.jpg",
       "email": "victor.palma@diputados.gob.mx",
       "extension": "59446",
       "partido": {
@@ -20548,7 +20548,7 @@
       "id": 486,
       "tipo": "diputado",
       "nombre": "Leticia Barrera Maldonado",
-      "foto_url": "./fotos_lxviconfondo/338_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/338.jpg",
       "email": "leticia.barrera@diputados.gob.mx",
       "extension": "59425",
       "partido": {
@@ -20591,7 +20591,7 @@
       "id": 487,
       "tipo": "diputado",
       "nombre": "Hugo Eduardo Gutiérrez Arroyo",
-      "foto_url": "./fotos_lxviconfondo/351_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/351.jpg",
       "email": "hugo.gutierrez@diputados.gob.mx",
       "extension": "59466",
       "partido": {
@@ -20641,7 +20641,7 @@
       "id": 488,
       "tipo": "diputado",
       "nombre": "Abigail Arredondo Ramos",
-      "foto_url": "./fotos_lxviconfondo/352_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/352.jpg",
       "email": "abigail.arredondo@diputados.gob.mx",
       "extension": "59456",
       "partido": {
@@ -20696,7 +20696,7 @@
       "id": 489,
       "tipo": "diputado",
       "nombre": "Emilio Suárez Licona",
-      "foto_url": "./fotos_lxviconfondo/355_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/355.jpg",
       "email": "emilio.suarez@diputados.gob.mx",
       "extension": "61588",
       "partido": {
@@ -20742,7 +20742,7 @@
       "id": 490,
       "tipo": "diputado",
       "nombre": "Laura Ivonne Ruíz Moreno",
-      "foto_url": "./fotos_lxviconfondo/360_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/360.jpg",
       "email": "laura.ruiz@diputados.gob.mx",
       "extension": "61583",
       "partido": {
@@ -20792,7 +20792,7 @@
       "id": 491,
       "tipo": "diputado",
       "nombre": "Gabriela Benavides Cobos",
-      "foto_url": "./fotos_lxviconfondo/467_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/467.jpg",
       "email": "gabriela.benavides@diputados.gob.mx",
       "extension": "59626",
       "partido": {
@@ -20826,7 +20826,7 @@
       "id": 492,
       "tipo": "diputado",
       "nombre": "Eruviel Ávila Villegas",
-      "foto_url": "./fotos_lxviconfondo/424_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/424.jpg",
       "email": "eruviel.avila@diputados.gob.mx",
       "extension": "59942",
       "partido": {
@@ -20856,7 +20856,7 @@
       "id": 493,
       "tipo": "diputado",
       "nombre": "Liliana Carbajal Méndez",
-      "foto_url": "./fotos_lxviconfondo/434_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/434.jpg",
       "email": "liliana.carbajal@diputados.gob.mx",
       "extension": "68852",
       "partido": {
@@ -20893,7 +20893,7 @@
       "id": 494,
       "tipo": "diputado",
       "nombre": "María Isidra De la Luz Rivas",
-      "foto_url": "./fotos_lxviconfondo/372_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/372.jpg",
       "email": "maria.delaluz@diputados.gob.mx",
       "extension": "62016",
       "partido": {
@@ -20941,7 +20941,7 @@
       "id": 495,
       "tipo": "diputado",
       "nombre": "Javier Vázquez Calixto",
-      "foto_url": "./fotos_lxviconfondo/342_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/342.jpg",
       "email": "javier.vazquez@diputados.gob.mx",
       "extension": "62412",
       "partido": {
@@ -20988,7 +20988,7 @@
       "id": 496,
       "tipo": "diputado",
       "nombre": "Gildardo Pérez Gabino",
-      "foto_url": "./fotos_lxviconfondo/417_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/417.jpg",
       "email": "gildardo.perez@diputados.gob.mx",
       "extension": "62626",
       "partido": {
@@ -21043,7 +21043,7 @@
       "id": 497,
       "tipo": "diputado",
       "nombre": "Laura Irais Ballesteros Mancilla",
-      "foto_url": "./fotos_lxviconfondo/401_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/401.jpg",
       "email": "laura.ballesteros@diputados.gob.mx",
       "extension": "53069",
       "partido": {
@@ -21080,7 +21080,7 @@
       "id": 498,
       "tipo": "diputado",
       "nombre": "Juan Ignacio Samperio Montaño",
-      "foto_url": "./fotos_lxviconfondo/416_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/416.jpg",
       "email": "juan.samperio@diputados.gob.mx",
       "extension": "62619",
       "partido": {
@@ -21127,7 +21127,7 @@
       "id": 499,
       "tipo": "diputado",
       "nombre": "Laura Hernández García",
-      "foto_url": "./fotos_lxviconfondo/406_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/406.jpg",
       "email": "laura.hernandez@diputados.gob.mx",
       "extension": "67973",
       "partido": {
@@ -21174,7 +21174,7 @@
       "id": 500,
       "tipo": "diputado",
       "nombre": "Juan Armando Ruiz Hernández",
-      "foto_url": "./fotos_lxviconfondo/403_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/403.jpg",
       "email": "juan.ruiz@diputados.gob.mx",
       "extension": "62610",
       "partido": {
@@ -21217,7 +21217,7 @@
       "id": 539,
       "tipo": "diputado",
       "nombre": "Jesús Emiliano Álvarez López",
-      "foto_url": "./fotos_lxviconfondo/504_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/504.jpg",
       "email": "jesus.alvarez@diputados.gob.mx",
       "extension": "61276",
       "partido": {
@@ -21263,7 +21263,7 @@
       "id": 543,
       "tipo": "diputado",
       "nombre": "Jesús Irugami Perea Cruz",
-      "foto_url": "./fotos_lxviconfondo/528_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/528.jpg",
       "email": "jesus.perea@diputados.gob.mx",
       "extension": "67103",
       "partido": {
@@ -21308,7 +21308,7 @@
       "id": 546,
       "tipo": "diputado",
       "nombre": "Ruth Maricela Silva Andraca",
-      "foto_url": "./fotos_lxviconfondo/513_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/513.jpg",
       "email": "ruth.silva@diputados.gob.mx",
       "extension": "59637",
       "partido": {
@@ -21355,7 +21355,7 @@
       "id": 547,
       "tipo": "diputado",
       "nombre": "Roberto Mejía Méndez",
-      "foto_url": "./fotos_lxviconfondo/544_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/544.jpg",
       "email": "roberto.mejia@diputados.gob.mx",
       "extension": "61256",
       "partido": {
@@ -21398,7 +21398,7 @@
       "id": 559,
       "tipo": "diputado",
       "nombre": "Edén Garcés Medina",
-      "foto_url": "./fotos_lxviconfondo/516_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/516.jpg",
       "email": "eden.garces@diputados.gob.mx",
       "extension": "61274",
       "partido": {
@@ -21443,7 +21443,7 @@
       "id": 572,
       "tipo": "diputado",
       "nombre": "Alejandra Del Valle Ramírez",
-      "foto_url": "./fotos_lxviconfondo/527_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/527.jpg",
       "email": "alejandra.delvalle@diputados.gob.mx",
       "extension": "59080",
       "partido": {
@@ -21492,7 +21492,7 @@
       "id": 614,
       "tipo": "diputado",
       "nombre": "Hernando Castañeda Córdova",
-      "foto_url": "./fotos_lxviconfondo/546_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/546.jpg",
       "email": "hernando.castaneda@diputados.gob.mx",
       "extension": "59911",
       "partido": {
@@ -21540,7 +21540,7 @@
       "id": 637,
       "tipo": "diputado",
       "nombre": "Alma Delia Navarrete Rivera",
-      "foto_url": "./fotos_lxviconfondo/523_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/523.jpg",
       "email": "alma.navarrete@diputados.gob.mx",
       "extension": "67850",
       "partido": {
@@ -21573,7 +21573,7 @@
       "id": 647,
       "tipo": "diputado",
       "nombre": "José Luis Hernández Pérez",
-      "foto_url": "./fotos_lxviconfondo/426_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/426.jpg",
       "email": "jose.hernandez@diputados.gob.mx",
       "extension": "68856",
       "partido": {
@@ -21618,7 +21618,7 @@
       "id": 686,
       "tipo": "diputado",
       "nombre": "Sandra Patricia Palacios Medina",
-      "foto_url": "./fotos_lxviconfondo/515_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/515.jpg",
       "email": "sandra.palacios@diputados.gob.mx",
       "extension": "61118",
       "partido": {
@@ -21664,7 +21664,7 @@
       "id": 694,
       "tipo": "diputado",
       "nombre": "Samantha Margarita Garza de la Garza",
-      "foto_url": "./fotos_lxviconfondo/532_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/532.jpg",
       "email": "samantha.garza@diputados.gob.mx",
       "extension": "59917",
       "partido": {
@@ -21713,7 +21713,7 @@
       "id": 731,
       "tipo": "diputado",
       "nombre": "Freyda Marybel Villegas Canché",
-      "foto_url": "./fotos_lxviconfondo/519_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/519.jpg",
       "email": "freyda.villegas@diputados.gob.mx",
       "extension": "61206",
       "partido": {
@@ -21759,7 +21759,7 @@
       "id": 772,
       "tipo": "diputado",
       "nombre": "Denisse Guzmán González",
-      "foto_url": "./fotos_lxviconfondo/533_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/533.jpg",
       "email": "denisse.guzman@diputados.gob.mx",
       "extension": "",
       "partido": {
@@ -21804,7 +21804,7 @@
       "id": 782,
       "tipo": "diputado",
       "nombre": "Isidro Enrique Villegas García",
-      "foto_url": "./fotos_lxviconfondo/537_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/537.jpg",
       "email": "enrique.villegas@diputados.gob.mx",
       "extension": "61480",
       "partido": {
@@ -21853,7 +21853,7 @@
       "id": 783,
       "tipo": "diputado",
       "nombre": "Zoraya Villacis Palacios",
-      "foto_url": "./fotos_lxviconfondo/531_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/531.jpg",
       "email": "zoraya.villacis@diputados.gob.mx",
       "extension": "61486",
       "partido": {
@@ -21886,7 +21886,7 @@
       "id": 789,
       "tipo": "diputado",
       "nombre": "Jonathan Puertos Chimalhua",
-      "foto_url": "./fotos_lxviconfondo/522_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/522.jpg",
       "email": "jonathan.puertos@diputados.gob.mx",
       "extension": "59444",
       "partido": {
@@ -21928,7 +21928,7 @@
       "id": 810,
       "tipo": "diputado",
       "nombre": "Claudia Selene Ávila Flores",
-      "foto_url": "./fotos_lxviconfondo/510_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/510.jpg",
       "email": "claudia.avila@diputados.gob.mx",
       "extension": "67941",
       "partido": {
@@ -21978,7 +21978,7 @@
       "id": 827,
       "tipo": "diputado",
       "nombre": "Paloma Domínguez Ugarte",
-      "foto_url": "./fotos_lxviconfondo/511_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/511.jpg",
       "email": "paloma.dominguez@diputados.gob.mx",
       "extension": "59514",
       "partido": {
@@ -22032,7 +22032,7 @@
       "id": 828,
       "tipo": "diputado",
       "nombre": "Juan Moreno de Haro",
-      "foto_url": "./fotos_lxviconfondo/358_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/358.jpg",
       "email": "juan.deharo@diputados.gob.mx",
       "extension": "61592",
       "partido": {
@@ -22087,7 +22087,7 @@
       "id": 845,
       "tipo": "diputado",
       "nombre": "J. Jesús Jiménez",
-      "foto_url": "./fotos_lxviconfondo/545_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/545.jpg",
       "email": "j.jesus.jimenez@diputados.gob.mx",
       "extension": "61573",
       "partido": {
@@ -22112,7 +22112,7 @@
       "id": 847,
       "tipo": "diputado",
       "nombre": "José Narro Céspedes",
-      "foto_url": "./fotos_lxviconfondo/507_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/507.jpg",
       "email": "jose.narro@diputados.gob.mx",
       "extension": "61570",
       "partido": {
@@ -22155,7 +22155,7 @@
       "id": 856,
       "tipo": "diputado",
       "nombre": "José Alfonso Rubalcava Jiménez",
-      "foto_url": "./fotos_lxviconfondo/529_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/529.jpg",
       "email": "jose.rubalcava@diputados.gob.mx",
       "extension": "59915",
       "partido": {
@@ -22201,7 +22201,7 @@
       "id": 872,
       "tipo": "diputado",
       "nombre": "Ricardo Gallardo Juárez",
-      "foto_url": "./fotos_lxviconfondo/477_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/477.jpg",
       "email": "ricardo.gallardo@diputados.gob.mx",
       "extension": "59643",
       "partido": {
@@ -22231,7 +22231,7 @@
       "id": 879,
       "tipo": "diputado",
       "nombre": "Eduardo Gaona Domínguez",
-      "foto_url": "./fotos_lxviconfondo/538_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/538.jpg",
       "email": "eduardo.gaona@diputados.gob.mx",
       "extension": "62644",
       "partido": {
@@ -22278,7 +22278,7 @@
       "id": 894,
       "tipo": "diputado",
       "nombre": "Enrique Vázquez Navarro",
-      "foto_url": "./fotos_lxviconfondo/505_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/505.jpg",
       "email": "enrique.navarro@diputados.gob.mx",
       "extension": "67258",
       "partido": {
@@ -22329,7 +22329,7 @@
       "id": 921,
       "tipo": "diputado",
       "nombre": "María Guadalupe Morales Rubio",
-      "foto_url": "./fotos_lxviconfondo/512_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/512.jpg",
       "email": "mariagpe.morales@diputados.gob.mx",
       "extension": "61157",
       "partido": {
@@ -22380,7 +22380,7 @@
       "id": 940,
       "tipo": "diputado",
       "nombre": "Fidel Daniel Chimal García",
-      "foto_url": "./fotos_lxviconfondo/502_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/502.jpg",
       "email": "fidel.chimal@diputados.gob.mx",
       "extension": "59918",
       "partido": {
@@ -22426,7 +22426,7 @@
       "id": 942,
       "tipo": "diputado",
       "nombre": "Miguel Ángel Guevara Rodríguez",
-      "foto_url": "./fotos_lxviconfondo/501_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/501.jpg",
       "email": "miguel.guevara@diputados.gob.mx",
       "extension": "59887",
       "partido": {
@@ -22476,7 +22476,7 @@
       "id": 969,
       "tipo": "diputado",
       "nombre": "Leticia Farfán Vázquez",
-      "foto_url": "./fotos_lxviconfondo/517_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/517.jpg",
       "email": "leticia.farfan@diputados.gob.mx",
       "extension": "61495",
       "partido": {
@@ -22509,7 +22509,7 @@
       "id": 970,
       "tipo": "diputado",
       "nombre": "José Alejandro Peña Villa",
-      "foto_url": "./fotos_lxviconfondo/509_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/509.jpg",
       "email": "josealejandro.pena@diputados.gob.mx",
       "extension": "61794",
       "partido": {
@@ -22543,7 +22543,7 @@
       "id": 972,
       "tipo": "diputado",
       "nombre": "Sebastián Ebrard Lestrade",
-      "foto_url": "./fotos_lxviconfondo/506_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/506.jpg",
       "email": "sebastian.ebrard@diputados.gob.mx",
       "extension": "61533",
       "partido": {
@@ -22588,7 +22588,7 @@
       "id": 1348,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22607,7 +22607,7 @@
       "id": 1349,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22626,7 +22626,7 @@
       "id": 1350,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22645,7 +22645,7 @@
       "id": 1351,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22664,7 +22664,7 @@
       "id": 1352,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22683,7 +22683,7 @@
       "id": 1353,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22702,7 +22702,7 @@
       "id": 1354,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22721,7 +22721,7 @@
       "id": 1355,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22740,7 +22740,7 @@
       "id": 1356,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22759,7 +22759,7 @@
       "id": 1357,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22778,7 +22778,7 @@
       "id": 1358,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22797,7 +22797,7 @@
       "id": 1359,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22816,7 +22816,7 @@
       "id": 1360,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22835,7 +22835,7 @@
       "id": 1361,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22854,7 +22854,7 @@
       "id": 1362,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22873,7 +22873,7 @@
       "id": 1363,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22892,7 +22892,7 @@
       "id": 1364,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22911,7 +22911,7 @@
       "id": 1365,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22930,7 +22930,7 @@
       "id": 1366,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22949,7 +22949,7 @@
       "id": 1367,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22968,7 +22968,7 @@
       "id": 1368,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -22987,7 +22987,7 @@
       "id": 1369,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23006,7 +23006,7 @@
       "id": 1370,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23025,7 +23025,7 @@
       "id": 1371,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23044,7 +23044,7 @@
       "id": 1372,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23063,7 +23063,7 @@
       "id": 1373,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23082,7 +23082,7 @@
       "id": 1374,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23101,7 +23101,7 @@
       "id": 1375,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23120,7 +23120,7 @@
       "id": 1376,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23139,7 +23139,7 @@
       "id": 1377,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23158,7 +23158,7 @@
       "id": 1378,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23177,7 +23177,7 @@
       "id": 1379,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23196,7 +23196,7 @@
       "id": 1380,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23215,7 +23215,7 @@
       "id": 1381,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23234,7 +23234,7 @@
       "id": 1382,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23253,7 +23253,7 @@
       "id": 1383,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23272,7 +23272,7 @@
       "id": 1384,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23291,7 +23291,7 @@
       "id": 1385,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23310,7 +23310,7 @@
       "id": 1386,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23329,7 +23329,7 @@
       "id": 1387,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23348,7 +23348,7 @@
       "id": 1388,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23367,7 +23367,7 @@
       "id": 1389,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23386,7 +23386,7 @@
       "id": 1390,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23405,7 +23405,7 @@
       "id": 1391,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23424,7 +23424,7 @@
       "id": 1392,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23443,7 +23443,7 @@
       "id": 1393,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23462,7 +23462,7 @@
       "id": 1394,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23481,7 +23481,7 @@
       "id": 1395,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23500,7 +23500,7 @@
       "id": 1396,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23519,7 +23519,7 @@
       "id": 1397,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23538,7 +23538,7 @@
       "id": 1398,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {
@@ -23557,7 +23557,7 @@
       "id": 1399,
       "tipo": "diputado",
       "nombre": "",
-      "foto_url": "./fotos_lxviconfondo/_foto_chica.jpg",
+      "foto_url": "/fotos_diputados/.jpg",
       "email": "",
       "extension": "",
       "partido": {

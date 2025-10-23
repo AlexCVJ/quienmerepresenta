@@ -257,7 +257,7 @@ export default function DiputadosPage() {
               {fotoUrl && (
                 <div className="diputado-foto">
                   <img
-                    src={`https://sitl.diputados.gob.mx/LXVI_leg/${fotoUrl}`}
+                    src={fotoUrl}
                     alt={`Foto de ${dip.nombre}`}
                     loading="lazy"
                   />
